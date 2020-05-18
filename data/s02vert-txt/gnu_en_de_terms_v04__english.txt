@@ -1,0 +1,1108 @@
+<align>About the GNU Operating System
+The name “GNU” is a recursive acronym for “GNU's Not Unix!”; it is pronounced as one syllable with a hard g.</align>
+<align>[Other historical and general articles about GNU.]</align>
+<align>GNU was launched by Richard Stallman (rms) in 1983, as an operating system which would be put together by people working together for the freedom of all software users to control their computing.</align>
+<align>rms remains the Chief GNUisance today.</align>
+<align>The primary and continuing goal of GNU is to offer a Unix-compatible system that would be 100% free software.</align>
+<align>Not 95% free, not 99.5%, but 100%.</align>
+<align>The name of the system, GNU, is a recursive acronym meaning GNU's Not Unix—a way of paying tribute to the technical ideas of Unix, while at the same time saying that GNU is something different.</align>
+<align>Technically, GNU is like Unix.</align>
+<align>But unlike Unix, GNU gives its users freedom.</align>
+<align>Completely free system distributions (“distros”) meeting this goal are available today, many using the Linux-libre kernel (the relationship between GNU and the Linux kernel is described more fully elsewhere).</align>
+<align>The GNU packages have been designed to work together so we could have a functioning GNU system.</align>
+<align>It has turned out that they also serve as a common “upstream” for many distros, so contributions to GNU packages help the free software community as a whole.</align>
+<align>Naturally, work on GNU is ongoing, with the goal to create a system that gives the greatest freedom to computer users.</align>
+<align>GNU packages include user-oriented applications, utilities, tools, libraries, even games—all the programs that an operating system can usefully offer to its users.</align>
+<align>New packages are welcome.</align>
+<align>Thousands of people have joined in to make GNU the success it is today, and there are many ways to contribute, both technical and non-technical.</align>
+<align>GNU developers gather from time to time in GNU Hackers Meetings, sometimes as part of the larger free software community LibrePlanet conferences.</align>
+<align>GNU has been supported in several ways by the Free Software Foundation, the nonprofit organization also founded by rms to advocate free software ideals.</align>
+<align>Among other things, the FSF accepts copyright assignments and disclaimers, so it can act in court on behalf of GNU programs.</align>
+<align>(To be clear, contributing a program to GNU does not require transferring copyright to the FSF.</align>
+<align>If you do assign copyright, the FSF will enforce the GPL for the program if someone violates it; if you keep the copyright, enforcement will be up to you.)</align>
+<align>The ultimate goal is to provide free software to do all of the jobs computer users want to do—and thus make proprietary software a thing of the past.</align>
+<align>[FSF logo] “The Free Software Foundation (FSF) is a nonprofit with a worldwide mission to promote computer user freedom.</align>
+<align>We defend the rights of all software users.”</align>
+<align>JOIN DONATE SHOP
+Please send general FSF & GNU inquiries to <gnu@gnu.org>.</align>
+<align>There are also other ways to contact the FSF.</align>
+<align>Broken links and other corrections or suggestions can be sent to <webmasters@gnu.org>.</align>
+<align>Please see the Translations README for information on coordinating and submitting translations of this article.</align>
+<align>Copyright © 2014, 2017, 2018 Free Software Foundation, Inc.</align>
+<align>This page is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License.</align>
+<align>Copyright Infringement Notification</align>
+<align>What is free software?</align>
+<align>The Free Software Definition
+Have a question about free software licensing not answered here?</align>
+<align>See our other licensing resources, and if necessary contact the FSF Compliance Lab at licensing@fsf.org.</align>
+<align>The free software definition presents the criteria for whether a particular software program qualifies as free software.</align>
+<align>From time to time we revise this definition, to clarify it or to resolve questions about subtle issues.</align>
+<align>See the History section below for a list of changes that affect the definition of free software.</align>
+<align>“Open source” is something different: it has a very different philosophy based on different values.</align>
+<align>Its practical definition is different too, but nearly all open source programs are in fact free.</align>
+<align>We explain the difference in Why “Open Source” misses the point of Free Software.</align>
+<align>“Free software” means software that respects users' freedom and community.</align>
+<align>Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software.</align>
+<align>Thus, “free software” is a matter of liberty, not price.</align>
+<align>To understand the concept, you should think of “free” as in “free speech,” not as in “free beer”.</align>
+<align>We sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in freedom, to show we do not mean the software is gratis.</align>
+<align>We campaign for these freedoms because everyone deserves them.</align>
+<align>With these freedoms, the users (both individually and collectively) control the program and what it does for them.</align>
+<align>When users don't control the program, we call it a “nonfree” or “proprietary” program.</align>
+<align>The nonfree program controls the users, and the developer controls the program; this makes the program an instrument of unjust power.</align>
+<align>The four essential freedoms
+A program is free software if the program's users have the four essential freedoms: [1]</align>
+<align>The freedom to run the program as you wish, for any purpose (freedom 0).</align>
+<align>The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1).</align>
+<align>Access to the source code is a precondition for this.</align>
+<align>The freedom to redistribute copies so you can help others (freedom 2).</align>
+<align>The freedom to distribute copies of your modified versions to others (freedom 3).</align>
+<align>By doing this you can give the whole community a chance to benefit from your changes.</align>
+<align>Access to the source code is a precondition for this.</align>
+<align>A program is free software if it gives users adequately all of these freedoms.</align>
+<align>Otherwise, it is nonfree.</align>
+<align>While we can distinguish various nonfree distribution schemes in terms of how far they fall short of being free, we consider them all equally unethical.</align>
+<align>In any given scenario, these freedoms must apply to whatever code we plan to make use of, or lead others to make use of.</align>
+<align>For instance, consider a program A which automatically launches a program B to handle some cases.</align>
+<align>If we plan to distribute A as it stands, that implies users will need B, so we need to judge whether both A and B are free.</align>
+<align>However, if we plan to modify A so that it doesn't use B, only A needs to be free; B is not pertinent to that plan.</align>
+<align>“Free software” does not mean “noncommercial”.</align>
+<align>A free program must be available for commercial use, commercial development, and commercial distribution. Commercial development of free software is no longer unusual; such free commercial software is very important.</align>
+<align>You may have paid money to get copies of free software, or you may have obtained copies at no charge.</align>
+<align>But regardless of how you got your copies, you always have the freedom to copy and change the software, even to sell copies.</align>
+<align>A free program must offer the four freedoms to any user that obtains a copy of the software, provided the user has complied thus far with the conditions of the free license covering the software.</align>
+<align>Putting some of the freedoms off limits to some users, or requiring that users pay, in money or in kind, to exercise them, is tantamount to not granting the freedoms in question, and thus renders the program nonfree.</align>
+<align>Clarifying the line at various points
+In the rest of this article we explain more precisely how far the various freedoms need to extend, on various issues, in order for a program to be free.</align>
+<align>The freedom to run the program as you wish
+The freedom to run the program means the freedom for any kind of person or organization to use it on any kind of computer system, for any kind of overall job and purpose, without being required to communicate about it with the developer or any other specific entity. In this freedom, it is the user's purpose that matters, not the developer's purpose; you as a user are free to run the program for your purposes, and if you distribute it to someone else, she is then free to run it for her purposes, but you are not entitled to impose your purposes on her.</align>
+<align>The freedom to run the program as you wish means that you are not forbidden or stopped from making it run.</align>
+<align>This has nothing to do with what functionality the program has, whether it is technically capable of functioning in any given environment, or whether it is useful for any particular computing activity.</align>
+<align>For example, if the code arbitrarily rejects certain meaningful inputs—or even fails unconditionally—that may make the program less useful, perhaps even totally useless, but it does not deny users the freedom to run the program, so it does not conflict with freedom 0.</align>
+<align>If the program is free, the users can overcome the loss of usefulness, because freedoms 1 and 3 permit users and communities to make and distribute modified versions without the arbitrary nuisance code.</align>
+<align>The freedom to study the source code and make changes
+In order for freedoms 1 and 3 (the freedom to make changes and the freedom to publish the changed versions) to be meaningful, you need to have access to the source code of the program.</align>
+<align>Therefore, accessibility of source code is a necessary condition for free software.</align>
+<align>Obfuscated “source code” is not real source code and does not count as source code.</align>
+<align>Freedom 1 includes the freedom to use your changed version in place of the original.</align>
+<align>If the program is delivered in a product designed to run someone else's modified versions but refuse to run yours — a practice known as “tivoization” or “lockdown”, or (in its practitioners' perverse terminology) as “secure boot” — freedom 1 becomes an empty pretense rather than a practical reality.</align>
+<align>These binaries are not free software even if the source code they are compiled from is free.</align>
+<align>One important way to modify a program is by merging in available free subroutines and modules.</align>
+<align>If the program's license says that you cannot merge in a suitably licensed existing module — for instance, if it requires you to be the copyright holder of any code you add — then the license is too restrictive to qualify as free.</align>
+<align>Whether a change constitutes an improvement is a subjective matter.</align>
+<align>If your right to modify a program is limited, in substance, to changes that someone else considers an improvement, that program is not free.</align>
+<align>The freedom to redistribute if you wish: basic requirements
+Freedom to distribute (freedoms 2 and 3) means you are free to redistribute copies, either with or without modifications, either gratis or charging a fee for distribution, to anyone anywhere.</align>
+<align>Being free to do these things means (among other things) that you do not have to ask or pay for permission to do so.</align>
+<align>You should also have the freedom to make modifications and use them privately in your own work or play, without even mentioning that they exist.</align>
+<align>If you do publish your changes, you should not be required to notify anyone in particular, or in any particular way.</align>
+<align>Freedom 3 includes the freedom to release your modified versions as free software.</align>
+<align>A free license may also permit other ways of releasing them; in other words, it does not have to be a copyleft license.</align>
+<align>However, a license that requires modified versions to be nonfree does not qualify as a free license.</align>
+<align>The freedom to redistribute copies must include binary or executable forms of the program, as well as source code, for both modified and unmodified versions.</align>
+<align>(Distributing programs in runnable form is necessary for conveniently installable free operating systems.) It is OK if there is no way to produce a binary or executable form for a certain program (since some languages don't support that feature), but you must have the freedom to redistribute such forms should you find or develop a way to make them.</align>
+<align>Copyleft
+Certain kinds of rules about the manner of distributing free software are acceptable, when they don't conflict with the central freedoms.</align>
+<align>For example, copyleft (very simply stated) is the rule that when redistributing the program, you cannot add restrictions to deny other people the central freedoms.</align>
+<align>This rule does not conflict with the central freedoms; rather it protects them.</align>
+<align>In the GNU project, we use copyleft to protect the four freedoms legally for everyone.</align>
+<align>We believe there are important reasons why it is better to use copyleft.</align>
+<align>However, noncopylefted free software is ethical too. See Categories of Free Software for a description of how “free software,” “copylefted software” and other categories of software relate to each other.</align>
+<align>Rules about packaging and distribution details
+Rules about how to package a modified version are acceptable, if they don't substantively limit your freedom to release modified versions, or your freedom to make and use modified versions privately.</align>
+<align>Thus, it is acceptable for the license to require that you change the name of the modified version, remove a logo, or identify your modifications as yours.</align>
+<align>As long as these requirements are not so burdensome that they effectively hamper you from releasing your changes, they are acceptable; you're already making other changes to the program, so you won't have trouble making a few more.</align>
+<align>Rules that “if you make your version available in this way, you must make it available in that way also” can be acceptable too, on the same condition.</align>
+<align>An example of such an acceptable rule is one saying that if you have distributed a modified version and a previous developer asks for a copy of it, you must send one.</align>
+<align>(Note that such a rule still leaves you the choice of whether to distribute your version at all.) Rules that require release of source code to the users for versions that you put into public use are also acceptable.</align>
+<align>A special issue arises when a license requires changing the name by which the program will be invoked from other programs.</align>
+<align>That effectively hampers you from releasing your changed version so that it can replace the original when invoked by those other programs.</align>
+<align>This sort of requirement is acceptable only if there's a suitable aliasing facility that allows you to specify the original program's name as an alias for the modified version.</align>
+<align>Export regulations
+Sometimes government export control regulations and trade sanctions can constrain your freedom to distribute copies of programs internationally.</align>
+<align>Software developers do not have the power to eliminate or override these restrictions, but what they can and must do is refuse to impose them as conditions of use of the program.</align>
+<align>In this way, the restrictions will not affect activities and people outside the jurisdictions of these governments.</align>
+<align>Thus, free software licenses must not require obedience to any nontrivial export regulations as a condition of exercising any of the essential freedoms.</align>
+<align>Merely mentioning the existence of export regulations, without making them a condition of the license itself, is acceptable since it does not restrict users.</align>
+<align>If an export regulation is actually trivial for free software, then requiring it as a condition is not an actual problem; however, it is a potential problem, since a later change in export law could make the requirement nontrivial and thus render the software nonfree.</align>
+<align>Legal considerations
+In order for these freedoms to be real, they must be permanent and irrevocable as long as you do nothing wrong; if the developer of the software has the power to revoke the license, or retroactively add restrictions to its terms, without your doing anything wrong to give cause, the software is not free.</align>
+<align>A free license may not require compliance with the license of a nonfree program.</align>
+<align>Thus, for instance, if a license requires you to comply with the licenses of “all the programs you use”, in the case of a user that runs nonfree programs this would require compliance with the licenses of those nonfree programs; that makes the license nonfree.</align>
+<align>It is acceptable for a free license to specify which jurisdiction's law applies, or where litigation must be done, or both.</align>
+<align>Contract-based licenses
+Most free software licenses are based on copyright, and there are limits on what kinds of requirements can be imposed through copyright.</align>
+<align>If a copyright-based license respects freedom in the ways described above, it is unlikely to have some other sort of problem that we never anticipated (though this does happen occasionally).</align>
+<align>However, some free software licenses are based on contracts, and contracts can impose a much larger range of possible restrictions.</align>
+<align>That means there are many possible ways such a license could be unacceptably restrictive and nonfree.</align>
+<align>We can't possibly list all the ways that might happen.</align>
+<align>If a contract-based license restricts the user in an unusual way that copyright-based licenses cannot, and which isn't mentioned here as legitimate, we will have to think about it, and we will probably conclude it is nonfree.</align>
+<align>Use the right words when talking about free software
+When talking about free software, it is best to avoid using terms like “give away” or “for free,” because those terms imply that the issue is about price, not freedom.</align>
+<align>Some common terms such as “piracy” embody opinions we hope you won't endorse.</align>
+<align>See Confusing Words and Phrases that are Worth Avoiding for a discussion of these terms.</align>
+<align>We also have a list of proper translations of “free software” into various languages.</align>
+<align>How we interpret these criteria
+Finally, note that criteria such as those stated in this free software definition require careful thought for their interpretation.</align>
+<align>To decide whether a specific software license qualifies as a free software license, we judge it based on these criteria to determine whether it fits their spirit as well as the precise words.</align>
+<align>If a license includes unconscionable restrictions, we reject it, even if we did not anticipate the issue in these criteria.</align>
+<align>Sometimes a license requirement raises an issue that calls for extensive thought, including discussions with a lawyer, before we can decide if the requirement is acceptable.</align>
+<align>When we reach a conclusion about a new issue, we often update these criteria to make it easier to see why certain licenses do or don't qualify.</align>
+<align>Get help with free licenses
+If you are interested in whether a specific license qualifies as a free software license, see our list of licenses.</align>
+<align>If the license you are concerned with is not listed there, you can ask us about it by sending us email at <licensing@gnu.org>.</align>
+<align>If you are contemplating writing a new license, please contact the Free Software Foundation first by writing to that address.</align>
+<align>The proliferation of different free software licenses means increased work for users in understanding the licenses; we may be able to help you find an existing free software license that meets your needs.</align>
+<align>If that isn't possible, if you really need a new license, with our help you can ensure that the license really is a free software license and avoid various practical problems.</align>
+<align>Beyond Software
+Software manuals must be free, for the same reasons that software must be free, and because the manuals are in effect part of the software.</align>
+<align>The same arguments also make sense for other kinds of works of practical use — that is to say, works that embody useful knowledge, such as educational works and reference works.</align>
+<align>Wikipedia is the best-known example.</align>
+<align>Any kind of work can be free, and the definition of free software has been extended to a definition of free cultural works applicable to any kind of works.</align>
+<align>Open Source?</align>
+<align>Another group uses the term “open source” to mean something close (but not identical) to “free software”.</align>
+<align>We prefer the term “free software” because, once you have heard that it refers to freedom rather than price, it calls to mind freedom.</align>
+<align>The word “open” never refers to freedom.</align>
+<align>History
+From time to time we revise this Free Software Definition.</align>
+<align>Here is the list of substantive changes, along with links to show exactly what was changed.</align>
+<align>Version 1.165: Clarify that arbitrary annoyances in the code do not negate freedom 0, and that freedoms 1 and 3 enable users to remove them.</align>
+<align>Version 1.153: Clarify that freedom to run the program means nothing stops you from making it run.</align>
+<align>Version 1.141: Clarify which code needs to be free.</align>
+<align>Version 1.135: Say each time that freedom 0 is the freedom to run the program as you wish.</align>
+<align>Version 1.134: Freedom 0 is not a matter of the program's functionality.</align>
+<align>Version 1.131: A free license may not require compliance with a nonfree license of another program.</align>
+<align>Version 1.129: State explicitly that choice of law and choice of forum specifications are allowed.</align>
+<align>(This was always our policy.)
+Version 1.122: An export control requirement is a real problem if the requirement is nontrivial; otherwise it is only a potential problem.</align>
+<align>Version 1.118: Clarification: the issue is limits on your right to modify, not on what modifications you have made.</align>
+<align>And modifications are not limited to “improvements”
+Version 1.111: Clarify 1.77 by saying that only retroactive restrictions are unacceptable.</align>
+<align>The copyright holders can always grant additional permission for use of the work by releasing the work in another way in parallel.</align>
+<align>Version 1.105: Reflect, in the brief statement of freedom 1, the point (already stated in version 1.80) that it includes really using your modified version for your computing.</align>
+<align>Version 1.92: Clarify that obfuscated code does not qualify as source code.</align>
+<align>Version 1.90: Clarify that freedom 3 means the right to distribute copies of your own modified or improved version, not a right to participate in someone else's development project.</align>
+<align>Version 1.89: Freedom 3 includes the right to release modified versions as free software.</align>
+<align>Version 1.80: Freedom 1 must be practical, not just theoretical; i.e., no tivoization.</align>
+<align>Version 1.77: Clarify that all retroactive changes to the license are unacceptable, even if it's not described as a complete replacement.</align>
+<align>Version 1.74: Four clarifications of points not explicit enough, or stated in some places but not reflected everywhere:
+"Improvements" does not mean the license can substantively limit what kinds of modified versions you can release.</align>
+<align>Freedom 3 includes distributing modified versions, not just changes.</align>
+<align>The right to merge in existing modules refers to those that are suitably licensed.</align>
+<align>Explicitly state the conclusion of the point about export controls.</align>
+<align>Imposing a license change constitutes revoking the old license.</align>
+<align>Version 1.57: Add "Beyond Software" section.</align>
+<align>Version 1.46: Clarify whose purpose is significant in the freedom to run the program for any purpose.</align>
+<align>Version 1.41: Clarify wording about contract-based licenses.</align>
+<align>Version 1.40: Explain that a free license must allow to you use other available free software to create your modifications.</align>
+<align>Version 1.39: Note that it is acceptable for a license to require you to provide source for versions of the software you put into public use.</align>
+<align>Version 1.31: Note that it is acceptable for a license to require you to identify yourself as the author of modifications. Other minor clarifications throughout the text.</align>
+<align>Version 1.23: Address potential problems related to contract-based licenses.</align>
+<align>Version 1.16: Explain why distribution of binaries is important.</align>
+<align>Version 1.11: Note that a free license may require you to send a copy of versions you distribute to previous developers on request.</align>
+<align>There are gaps in the version numbers shown above because there are other changes in this page that do not affect the definition or its interpretations.</align>
+<align>For instance, the list does not include changes in asides, formatting, spelling, punctuation, or other parts of the page.</align>
+<align>You can review the complete list of changes to the page through the cvsweb interface.</align>
+<align>Footnote
+The reason they are numbered 0, 1, 2 and 3 is historical.</align>
+<align>Around 1990 there were three freedoms, numbered 1, 2 and 3. Then we realized that the freedom to run the program needed to be mentioned explicitly.</align>
+<align>It was clearly more basic than the other three, so it properly should precede them.</align>
+<align>Rather than renumber the others, we made it freedom 0.</align>
+<align>Free Software Is Even More Important Now
+by Richard Stallman</align>
+<align>A substantially edited version of this article was published in Wired.</align>
+<align>Suggested ways you can help the free software movement</align>
+<align>Since 1983, the Free Software Movement has campaigned for computer users' freedom—for users to control the software they use, rather than vice versa.</align>
+<align>When a program respects users' freedom and community, we call it “free software.”</align>
+<align>We also sometimes call it “libre software” to emphasize that we're talking about liberty, not price.</align>
+<align>Some proprietary (nonfree) programs, such as Photoshop, are very expensive; others, such as Flash Player, are available gratis—but that's a minor detail.</align>
+<align>Either way, they give the program's developer power over the users, power that no one should have.</align>
+<align>Those two nonfree programs have something else in common: they are both malware.</align>
+<align>That is, both have functionalities designed to mistreat the user.</align>
+<align>Proprietary software nowadays is often malware because the developers' power corrupts them.</align>
+<align>That directory lists around 450 different malicious functionalities (as of January, 2020), but it is surely just the tip of the iceberg.</align>
+<align>With free software, the users control the program, both individually and collectively.</align>
+<align>So they control what their computers do (assuming those computers are loyal and do what the users' programs tell them to do).</align>
+<align>With proprietary software, the program controls the users, and some other entity (the developer or “owner”) controls the program.</align>
+<align>So the proprietary program gives its developer power over its users.</align>
+<align>That is unjust in itself; moreover, it tempts the developer to mistreat the users in other ways.</align>
+<align>Even when proprietary software isn't downright malicious, its developers have an incentive to make it addictive, controlling and manipulative.</align>
+<align>You can say, as does the author of that article, that the developers have an ethical obligation not to do that, but generally they follow their interests.</align>
+<align>If you want this not to happen, make sure the program is controlled by its users.</align>
+<align>Freedom means having control over your own life.</align>
+<align>If you use a program to carry out activities in your life, your freedom depends on your having control over the program.</align>
+<align>You deserve to have control over the programs you use, and all the more so when you use them for something important in your life.</align>
+<align>Users' control over the program requires four essential freedoms.</align>
+<align>(0) The freedom to run the program as you wish, for whatever purpose.</align>
+<align>(1) The freedom to study the program's “source code”, and change it, so the program does your computing as you wish.</align>
+<align>Programs are written by programmers in a programming language—like English combined with algebra—and that form of the program is the “source code”.</align>
+<align>Anyone who knows programming, and has the program in source code form, can read the source code, understand its functioning, and change it too.</align>
+<align>When all you get is the executable form, a series of numbers that are efficient for the computer to run but extremely hard for a human being to understand, understanding and changing the program in that form are forbiddingly hard.</align>
+<align>(2) The freedom to make and distribute exact copies when you wish.</align>
+<align>(It is not an obligation; doing this is your choice.</align>
+<align>If the program is free, that doesn't mean someone has an obligation to offer you a copy, or that you have an obligation to offer him a copy.</align>
+<align>Distributing a program to users without freedom mistreats them; however, choosing not to distribute the program—using it privately—does not mistreat anyone.)</align>
+<align>(3) The freedom to make and distribute copies of your modified versions, when you wish.</align>
+<align>The first two freedoms mean each user can exercise individual control over the program.</align>
+<align>With the other two freedoms, any group of users can together exercise collective control over the program.</align>
+<align>With all four freedoms, the users fully control the program.</align>
+<align>If any of them is missing or inadequate, the program is proprietary (nonfree), and unjust.</align>
+<align>Other kinds of works are also used for practical activities, including recipes for cooking, educational works such as textbooks, reference works such as dictionaries and encyclopedias, fonts for displaying paragraphs of text, circuit diagrams for hardware for people to build, and patterns for making useful (not merely decorative) objects with a 3D printer.</align>
+<align>Since these are not software, the free software movement strictly speaking doesn't cover them; but the same reasoning applies and leads to the same conclusion: these works should carry the four freedoms.</align>
+<align>A free program allows you to tinker with it to make it do what you want (or cease to do something you dislike).</align>
+<align>Tinkering with software may sound ridiculous if you are accustomed to proprietary software as a sealed box, but in the Free World it's a common thing to do, and a good way to learn programming.</align>
+<align>Even the traditional American pastime of tinkering with cars is obstructed because cars now contain nonfree software.</align>
+<align>The Injustice of Proprietariness
+If the users don't control the program, the program controls the users.</align>
+<align>With proprietary software, there is always some entity, the developer or “owner” of the program, that controls the program—and through it, exercises power over its users.</align>
+<align>A nonfree program is a yoke, an instrument of unjust power.</align>
+<align>In outrageous cases (though this outrage has become quite usual) proprietary programs are designed to spy on the users, restrict them, censor them, and abuse them.</align>
+<align>For instance, the operating system of Apple iThings does all of these, and so does Windows on mobile devices with ARM chips.</align>
+<align>Windows, mobile phone firmware, and Google Chrome for Windows include a universal back door that allows some company to change the program remotely without asking permission.</align>
+<align>The Amazon Kindle has a back door that can erase books.</align>
+<align>The use of nonfree software in the “internet of things” would turn it into the “internet of telemarketers” as well as the “internet of snoopers”.</align>
+<align>With the goal of ending the injustice of nonfree software, the free software movement develops free programs so users can free themselves.</align>
+<align>We began in 1984 by developing the free operating system GNU. Today, millions of computers run GNU, mainly in the GNU/Linux combination.</align>
+<align>Distributing a program to users without freedom mistreats those users; however, choosing not to distribute the program does not mistreat anyone.</align>
+<align>If you write a program and use it privately, that does no wrong to others.</align>
+<align>(You do miss an opportunity to do good, but that's not the same as doing wrong.) Thus, when we say all software must be free, we mean that every copy must come with the four freedoms, but we don't mean that someone has an obligation to offer you a copy.</align>
+<align>Nonfree Software and SaaSS
+Nonfree software was the first way for companies to take control of people's computing.</align>
+<align>Nowadays, there is another way, called Service as a Software Substitute, or SaaSS.</align>
+<align>That means letting someone else's server do your own computing tasks.</align>
+<align>SaaSS doesn't mean the programs on the server are nonfree (though they often are).</align>
+<align>Rather, using SaaSS causes the same injustices as using a nonfree program: they are two paths to the same bad place.</align>
+<align>Take the example of a SaaSS translation service: The user sends text to the server, and the server translates it (from English to Spanish, say) and sends the translation back to the user.</align>
+<align>Now the job of translating is under the control of the server operator rather than the user.</align>
+<align>If you use SaaSS, the server operator controls your computing.</align>
+<align>It requires entrusting all the pertinent data to the server operator, which will be forced to show it to the state as well—who does that server really serve, after all?</align>
+<align>Primary And Secondary Injustices
+When you use proprietary programs or SaaSS, first of all you do wrong to yourself, because it gives some entity unjust power over you.</align>
+<align>For your own sake, you should escape.</align>
+<align>It also wrongs others if you make a promise not to share.</align>
+<align>It is evil to keep such a promise, and a lesser evil to break it; to be truly upright, you should not make the promise at all.</align>
+<align>There are cases where using nonfree software puts pressure directly on others to do likewise.</align>
+<align>Skype is a clear example: when one person uses the nonfree Skype client software, it requires another person to use that software too—thus both surrender their freedom.</align>
+<align>(Google Hangouts have the same problem.) It is wrong even to suggest using such programs.</align>
+<align>We should refuse to use them even briefly, even on someone else's computer.</align>
+<align>Another harm of using nonfree programs and SaaSS is that it rewards the perpetrator, encouraging further development of that program or “service”, leading in turn to even more people falling under the company's thumb.</align>
+<align>All the forms of indirect harm are magnified when the user is a public entity or a school.</align>
+<align>Free Software and the State
+Public agencies exist for the people, not for themselves. When they do computing, they do it for the people.</align>
+<align>They have a duty to maintain full control over that computing so that they can assure it is done properly for the people.</align>
+<align>(This constitutes the computational sovereignty of the state.) They must never allow control over the state's computing to fall into private hands.</align>
+<align>To maintain control of the people's computing, public agencies must not do it with proprietary software (software under the control of an entity other than the state).</align>
+<align>And they must not entrust it to a service programmed and run by an entity other than the state, since this would be SaaSS.</align>
+<align>Proprietary software has no security at all in one crucial case — against its developer.</align>
+<align>And the developer may help others attack.</align>
+<align>Microsoft shows Windows bugs to the NSA (the US government digital spying agency) before fixing them.</align>
+<align>We do not know whether Apple does likewise, but it is under the same government pressure as Microsoft.</align>
+<align>If the government of any other country uses such software, it endangers national security.</align>
+<align>Do you want the NSA to break into your government's computers?</align>
+<align>See our suggested policies for governments to promote free software.</align>
+<align>Free Software and Education
+Schools (and this includes all educational activities) influence the future of society through what they teach.</align>
+<align>They should teach exclusively free software, so as to use their influence for the good.</align>
+<align>To teach a proprietary program is to implant dependence, which goes against the mission of education.</align>
+<align>By training in use of free software, schools will direct society's future towards freedom, and help talented programmers master the craft.</align>
+<align>They will also teach students the habit of cooperating, helping other people.</align>
+<align>Each class should have this rule: “Students, this class is a place where we share our knowledge.</align>
+<align>If you bring software to class, you may not keep it for yourself.</align>
+<align>Rather, you must share copies with the rest of the class—including the program's source code, in case someone else wants to learn.</align>
+<align>Therefore, bringing proprietary software to class is not permitted except to reverse engineer it.”</align>
+<align>Proprietary developers would have us punish students who are good enough at heart to share software and thwart those curious enough to want to change it.</align>
+<align>This means a bad education.</align>
+<align>See http://www.gnu.org/education/ for more discussion of the use of free software in schools.</align>
+<align>Free Software: More Than “Advantages”
+I'm often asked to describe the “advantages” of free software.</align>
+<align>But the word “advantages” is too weak when it comes to freedom.</align>
+<align>Life without freedom is oppression, and that applies to computing as well as every other activity in our lives.</align>
+<align>We must refuse to give the developers of the programs or computing services control over the computing we do.</align>
+<align>This is the right thing to do, for selfish reasons; but not solely for selfish reasons.</align>
+<align>Freedom includes the freedom to cooperate with others.</align>
+<align>Denying people that freedom means keeping them divided, which is the start of a scheme to oppress them.</align>
+<align>In the free software community, we are very much aware of the importance of the freedom to cooperate because our work consists of organized cooperation.</align>
+<align>If your friend comes to visit and sees you use a program, she might ask for a copy.</align>
+<align>A program which stops you from redistributing it, or says you're “not supposed to”, is antisocial.</align>
+<align>In computing, cooperation includes redistributing exact copies of a program to other users.</align>
+<align>It also includes distributing your changed versions to them.</align>
+<align>Free software encourages these forms of cooperation, while proprietary software forbids them.</align>
+<align>It forbids redistribution of copies, and by denying users the source code, it blocks them from making changes.</align>
+<align>SaaSS has the same effects: if your computing is done over the web in someone else's server, by someone else's copy of a program, you can't see it or touch the software that does your computing, so you can't redistribute it or change it.</align>
+<align>Conclusion
+We deserve to have control of our own computing; how can we win this control?</align>
+<align>By rejecting nonfree software on the computers we own or regularly use, and rejecting SaaSS.</align>
+<align>By developing free software (for those of us who are programmers.) By refusing to develop or promote nonfree software or SaaSS.</align>
+<align>By spreading these ideas to others.</align>
+<align>We and thousands of users have done this since 1984, which is how we now have the free GNU/Linux operating system that anyone—programmer or not—can use.</align>
+<align>Join our cause, as a programmer or an activist.</align>
+<align>Let's make all computer users free.</align>
+<align>The GNU Project
+by Richard Stallman</align>
+<align>Originally published in the book Open Sources.</align>
+<align>Richard Stallman was never a supporter of “open source”, but contributed this article so that the ideas of the free software movement would not be entirely absent from that book.</align>
+<align>Why it is even more important than ever to insist that the software we use be free.</align>
+<align>The first software-sharing community
+When I started working at the MIT Artificial Intelligence Lab in 1971, I became part of a software-sharing community that had existed for many years.</align>
+<align>Sharing of software was not limited to our particular community; it is as old as computers, just as sharing of recipes is as old as cooking. But we did it more than most.</align>
+<align>The AI Lab used a timesharing operating system called ITS (the Incompatible Timesharing System) that the lab's staff hackers (1) had designed and written in assembler language for the Digital PDP-10, one of the large computers of the era.</align>
+<align>As a member of this community, an AI Lab staff system hacker, my job was to improve this system.</align>
+<align>We did not call our software “free software”, because that term did not yet exist; but that is what it was.</align>
+<align>Whenever people from another university or a company wanted to port and use a program, we gladly let them.</align>
+<align>If you saw someone using an unfamiliar and interesting program, you could always ask to see the source code, so that you could read it, change it, or cannibalize parts of it to make a new program.</align>
+<align>(1) The use of “hacker” to mean “security breaker” is a confusion on the part of the mass media.</align>
+<align>We hackers refuse to recognize that meaning, and continue using the word to mean someone who loves to program, someone who enjoys playful cleverness, or the combination of the two. See my article, On Hacking.</align>
+<align>The collapse of the community
+The situation changed drastically in the early 1980s when Digital discontinued the PDP-10 series.</align>
+<align>Its architecture, elegant and powerful in the 60s, could not extend naturally to the larger address spaces that were becoming feasible in the 80s.</align>
+<align>This meant that nearly all of the programs composing ITS were obsolete.</align>
+<align>The AI Lab hacker community had already collapsed, not long before.</align>
+<align>In 1981, the spin-off company Symbolics had hired away nearly all of the hackers from the AI Lab, and the depopulated community was unable to maintain itself.</align>
+<align>(The book Hackers, by Steve Levy, describes these events, as well as giving a clear picture of this community in its prime.) When the AI Lab bought a new PDP-10 in 1982, its administrators decided to use Digital's nonfree timesharing system instead of ITS.</align>
+<align>The modern computers of the era, such as the VAX or the 68020, had their own operating systems, but none of them were free software: you had to sign a nondisclosure agreement even to get an executable copy.</align>
+<align>This meant that the first step in using a computer was to promise not to help your neighbor.</align>
+<align>A cooperating community was forbidden.</align>
+<align>The rule made by the owners of proprietary software was, “If you share with your neighbor, you are a pirate.</align>
+<align>If you want any changes, beg us to make them.”</align>
+<align>The idea that the proprietary software social system—the system that says you are not allowed to share or change software—is antisocial, that it is unethical, that it is simply wrong, may come as a surprise to some readers.</align>
+<align>But what else could we say about a system based on dividing the public and keeping users helpless?</align>
+<align>Readers who find the idea surprising may have taken the proprietary software social system as a given, or judged it on the terms suggested by proprietary software businesses.</align>
+<align>Software publishers have worked long and hard to convince people that there is only one way to look at the issue.</align>
+<align>When software publishers talk about “enforcing” their “rights” or “stopping piracy”, what they actually say is secondary.</align>
+<align>The real message of these statements is in the unstated assumptions they take for granted, which the public is asked to accept without examination.</align>
+<align>Let's therefore examine them.</align>
+<align>One assumption is that software companies have an unquestionable natural right to own software and thus have power over all its users.</align>
+<align>(If this were a natural right, then no matter how much harm it does to the public, we could not object.) Interestingly, the US Constitution and legal tradition reject this view; copyright is not a natural right, but an artificial government-imposed monopoly that limits the users' natural right to copy.</align>
+<align>Another unstated assumption is that the only important thing about software is what jobs it allows you to do—that we computer users should not care what kind of society we are allowed to have.</align>
+<align>A third assumption is that we would have no usable software (or would never have a program to do this or that particular job) if we did not offer a company power over the users of the program.</align>
+<align>This assumption may have seemed plausible, before the free software movement demonstrated that we can make plenty of useful software without putting chains on it.</align>
+<align>If we decline to accept these assumptions, and judge these issues based on ordinary commonsense morality while placing the users first, we arrive at very different conclusions.</align>
+<align>Computer users should be free to modify programs to fit their needs, and free to share software, because helping other people is the basis of society.</align>
+<align>There is no room here for an extensive statement of the reasoning behind this conclusion, so I refer the reader to the web pages http://www.gnu.org/philosophy/why-free.html and http://www.gnu.org/philosophy/free-software-even-more-important.html.</align>
+<align>A stark moral choice
+With my community gone, to continue as before was impossible.</align>
+<align>Instead, I faced a stark moral choice.</align>
+<align>The easy choice was to join the proprietary software world, signing nondisclosure agreements and promising not to help my fellow hacker.</align>
+<align>Most likely I would also be developing software that was released under nondisclosure agreements, thus adding to the pressure on other people to betray their fellows too.</align>
+<align>I could have made money this way, and perhaps amused myself writing code.</align>
+<align>But I knew that at the end of my career, I would look back on years of building walls to divide people, and feel I had spent my life making the world a worse place.</align>
+<align>I had already experienced being on the receiving end of a nondisclosure agreement, when someone refused to give me and the MIT AI Lab the source code for the control program for our printer.</align>
+<align>(The lack of certain features in this program made use of the printer extremely frustrating.) So I could not tell myself that nondisclosure agreements were innocent.</align>
+<align>I was very angry when he refused to share with us; I could not turn around and do the same thing to everyone else.</align>
+<align>Another choice, straightforward but unpleasant, was to leave the computer field.</align>
+<align>That way my skills would not be misused, but they would still be wasted.</align>
+<align>I would not be culpable for dividing and restricting computer users, but it would happen nonetheless.</align>
+<align>So I looked for a way that a programmer could do something for the good.</align>
+<align>I asked myself, was there a program or programs that I could write, so as to make a community possible once again?</align>
+<align>The answer was clear: what was needed first was an operating system.</align>
+<align>That is the crucial software for starting to use a computer.</align>
+<align>With an operating system, you can do many things; without one, you cannot run the computer at all.</align>
+<align>With a free operating system, we could again have a community of cooperating hackers—and invite anyone to join.</align>
+<align>And anyone would be able to use a computer without starting out by conspiring to deprive his or her friends.</align>
+<align>As an operating system developer, I had the right skills for this job.</align>
+<align>So even though I could not take success for granted, I realized that I was elected to do the job.</align>
+<align>I chose to make the system compatible with Unix so that it would be portable, and so that Unix users could easily switch to it.</align>
+<align>The name GNU was chosen, following a hacker tradition, as a recursive acronym for “GNU's Not Unix.” It is pronounced as one syllable with a hard g.</align>
+<align>An operating system does not mean just a kernel, barely enough to run other programs.</align>
+<align>In the 1970s, every operating system worthy of the name included command processors, assemblers, compilers, interpreters, debuggers, text editors, mailers, and much more.</align>
+<align>ITS had them, Multics had them, VMS had them, and Unix had them.</align>
+<align>The GNU operating system would include them too.</align>
+<align>Later I heard these words, attributed to Hillel (1):</align>
+<align>If I am not for myself, who will be for me?</align>
+<align>If I am only for myself, what am I?</align>
+<align>If not now, when?</align>
+<align>The decision to start the GNU Project was based on a similar spirit.</align>
+<align>It is about freedom.</align>
+<align>Here, therefore, is the definition of free software.</align>
+<align>A program is free software, for you, a particular user, if: You have the freedom to run the program as you wish, for any purpose.</align>
+<align>You have the freedom to modify the program to suit your needs. (To make this freedom effective in practice, you must have access to the source code, since making changes in a program without having the source code is exceedingly difficult.)
+You have the freedom to redistribute copies, either gratis or for a fee.</align>
+<align>You have the freedom to distribute modified versions of the program, so that the community can benefit from your improvements.</align>
+<align>Since “free” refers to freedom, not to price, there is no contradiction between selling copies and free software. In fact, the freedom to sell copies is crucial: collections of free software sold on CD-ROMs are important for the community, and selling them is an important way to raise funds for free software development.</align>
+<align>Therefore, a program which people are not free to include on these collections is not free software.</align>
+<align>Because of the ambiguity of “free”, people have long looked for alternatives, but no one has found a better term.</align>
+<align>The English language has more words and nuances than any other, but it lacks a simple, unambiguous, word that means “free”, as in freedom—“unfettered” being the word that comes closest in meaning.</align>
+<align>Such alternatives as “liberated”, “freedom”, and “open” have either the wrong meaning or some other disadvantage.</align>
+<align>GNU software and the GNU system
+Developing a whole system is a very large project.</align>
+<align>To bring it into reach, I decided to adapt and use existing pieces of free software wherever that was possible.</align>
+<align>For example, I decided at the very beginning to use TeX as the principal text formatter; a few years later, I decided to use the X Window System rather than writing another window system for GNU.</align>
+<align>Because of these decisions, and others like them, the GNU system is not the same as the collection of all GNU software.</align>
+<align>The GNU system includes programs that are not GNU software, programs that were developed by other people and projects for their own purposes, but which we can use because they are free software.</align>
+<align>Commencing the project
+In January 1984 I quit my job at MIT and began writing GNU software.</align>
+<align>Leaving MIT was necessary so that MIT would not be able to interfere with distributing GNU as free software.</align>
+<align>If I had remained on the staff, MIT could have claimed to own the work, and could have imposed their own distribution terms, or even turned the work into a proprietary software package.</align>
+<align>I had no intention of doing a large amount of work only to see it become useless for its intended purpose: creating a new software-sharing community.</align>
+<align>However, Professor Winston, then the head of the MIT AI Lab, kindly invited me to keep using the lab's facilities.</align>
+<align>The first steps
+Shortly before beginning the GNU Project, I heard about the Free University Compiler Kit, also known as VUCK.</align>
+<align>(The Dutch word for “free” is written with a v.) This was a compiler designed to handle multiple languages, including C and Pascal, and to support multiple target machines.</align>
+<align>I wrote to its author asking if GNU could use it.</align>
+<align>He responded derisively, stating that the university was free but the compiler was not.</align>
+<align>I therefore decided that my first program for the GNU Project would be a multilanguage, multiplatform compiler.</align>
+<align>Hoping to avoid the need to write the whole compiler myself, I obtained the source code for the Pastel compiler, which was a multiplatform compiler developed at Lawrence Livermore Lab.</align>
+<align>It supported, and was written in, an extended version of Pascal, designed to be a system-programming language.</align>
+<align>I added a C front end, and began porting it to the Motorola 68000 computer.</align>
+<align>But I had to give that up when I discovered that the compiler needed many megabytes of stack space, and the available 68000 Unix system would only allow 64k.</align>
+<align>I then realized that the Pastel compiler functioned by parsing the entire input file into a syntax tree, converting the whole syntax tree into a chain of “instructions”, and then generating the whole output file, without ever freeing any storage.</align>
+<align>At this point, I concluded I would have to write a new compiler from scratch.</align>
+<align>That new compiler is now known as GCC; none of the Pastel compiler is used in it, but I managed to adapt and use the C front end that I had written.</align>
+<align>But that was some years later; first, I worked on GNU Emacs.</align>
+<align>GNU Emacs
+I began work on GNU Emacs in September 1984, and in early 1985 it was beginning to be usable.</align>
+<align>This enabled me to begin using Unix systems to do editing; having no interest in learning to use vi or ed, I had done my editing on other kinds of machines until then.</align>
+<align>At this point, people began wanting to use GNU Emacs, which raised the question of how to distribute it.</align>
+<align>Of course, I put it on the anonymous ftp server on the MIT computer that I used.</align>
+<align>(This computer, prep.ai.mit.edu, thus became the principal GNU ftp distribution site; when it was decommissioned a few years later, we transferred the name to our new ftp server.) But at that time, many of the interested people were not on the Internet and could not get a copy by ftp.</align>
+<align>So the question was, what would I say to them?</align>
+<align>I could have said, “Find a friend who is on the net and who will make a copy for you.” Or I could have done what I did with the original PDP-10 Emacs: tell them, “Mail me a tape and a SASE, and I will mail it back with Emacs on it.” But I had no job, and I was looking for ways to make money from free software.</align>
+<align>So I announced that I would mail a tape to whoever wanted one, for a fee of $150.</align>
+<align>In this way, I started a free software distribution business, the precursor of the companies that today distribute entire GNU/Linux system distributions.</align>
+<align>Is a program free for every user?</align>
+<align>If a program is free software when it leaves the hands of its author, this does not necessarily mean it will be free software for everyone who has a copy of it.</align>
+<align>For example, public domain software (software that is not copyrighted) is free software; but anyone can make a proprietary modified version of it.</align>
+<align>Likewise, many free programs are copyrighted but distributed under simple permissive licenses which allow proprietary modified versions.</align>
+<align>The paradigmatic example of this problem is the X Window System.</align>
+<align>Developed at MIT, and released as free software with a permissive license, it was soon adopted by various computer companies.</align>
+<align>They added X to their proprietary Unix systems, in binary form only, and covered by the same nondisclosure agreement.</align>
+<align>These copies of X were no more free software than Unix was.</align>
+<align>The developers of the X Window System did not consider this a problem—they expected and intended this to happen.</align>
+<align>Their goal was not freedom, just “success”, defined as “having many users.” They did not care whether these users had freedom, only that they should be numerous.</align>
+<align>This led to a paradoxical situation where two different ways of counting the amount of freedom gave different answers to the question, “Is this program free?” If you judged based on the freedom provided by the distribution terms of the MIT release, you would say that X was free software.</align>
+<align>But if you measured the freedom of the average user of X, you would have to say it was proprietary software.</align>
+<align>Most X users were running the proprietary versions that came with Unix systems, not the free version.</align>
+<align>Copyleft and the GNU GPL
+The goal of GNU was to give users freedom, not just to be popular.</align>
+<align>So we needed to use distribution terms that would prevent GNU software from being turned into proprietary software.</align>
+<align>The method we use is called “copyleft”.(1)</align>
+<align>Copyleft uses copyright law, but flips it over to serve the opposite of its usual purpose: instead of a means for restricting a program, it becomes a means for keeping the program free.</align>
+<align>The central idea of copyleft is that we give everyone permission to run the program, copy the program, modify the program, and distribute modified versions—but not permission to add restrictions of their own.</align>
+<align>Thus, the crucial freedoms that define “free software” are guaranteed to everyone who has a copy; they become inalienable rights.</align>
+<align>For an effective copyleft, modified versions must also be free.</align>
+<align>This ensures that work based on ours becomes available to our community if it is published.</align>
+<align>When programmers who have jobs as programmers volunteer to improve GNU software, it is copyleft that prevents their employers from saying, “You can't share those changes, because we are going to use them to make our proprietary version of the program.”</align>
+<align>The requirement that changes must be free is essential if we want to ensure freedom for every user of the program.</align>
+<align>The companies that privatized the X Window System usually made some changes to port it to their systems and hardware.</align>
+<align>These changes were small compared with the great extent of X, but they were not trivial.</align>
+<align>If making changes were an excuse to deny the users freedom, it would be easy for anyone to take advantage of the excuse.</align>
+<align>A related issue concerns combining a free program with nonfree code.</align>
+<align>Such a combination would inevitably be nonfree; whichever freedoms are lacking for the nonfree part would be lacking for the whole as well.</align>
+<align>To permit such combinations would open a hole big enough to sink a ship.</align>
+<align>Therefore, a crucial requirement for copyleft is to plug this hole: anything added to or combined with a copylefted program must be such that the larger combined version is also free and copylefted.</align>
+<align>The specific implementation of copyleft that we use for most GNU software is the GNU General Public License, or GNU GPL for short. We have other kinds of copyleft that are used in specific circumstances.</align>
+<align>GNU manuals are copylefted also, but use a much simpler kind of copyleft, because the complexity of the GNU GPL is not necessary for manuals.(2) (1) In 1984 or 1985, Don Hopkins (a very imaginative fellow) mailed me a letter.</align>
+<align>On the envelope he had written several amusing sayings, including this one: “Copyleft—all rights reversed.” I used the word “copyleft” to name the distribution concept I was developing at the time.</align>
+<align>(2) We now use the GNU Free Documentation License for documentation. The Free Software Foundation
+As interest in using Emacs was growing, other people became involved in the GNU project, and we decided that it was time to seek funding once again.</align>
+<align>So in 1985 we created the Free Software Foundation (FSF), a tax-exempt charity for free software development.</align>
+<align>The FSF also took over the Emacs tape distribution business; later it extended this by adding other free software (both GNU and non-GNU) to the tape, and by selling free manuals as well.</align>
+<align>Most of the FSF's income used to come from sales of copies of free software and of other related services (CD-ROMs of source code, CD-ROMs with binaries, nicely printed manuals, all with the freedom to redistribute and modify), and Deluxe Distributions (distributions for which we built the whole collection of software for the customer's choice of platform).</align>
+<align>Today the FSF still sells manuals and other gear, but it gets the bulk of its funding from members' dues.</align>
+<align>You can join the FSF at fsf.org.</align>
+<align>Free Software Foundation employees have written and maintained a number of GNU software packages.</align>
+<align>Two notable ones are the C library and the shell.</align>
+<align>The GNU C library is what every program running on a GNU/Linux system uses to communicate with Linux.</align>
+<align>It was developed by a member of the Free Software Foundation staff, Roland McGrath.</align>
+<align>The shell used on most GNU/Linux systems is BASH, the Bourne Again Shell(1), which was developed by FSF employee Brian Fox.</align>
+<align>We funded development of these programs because the GNU Project was not just about tools or a development environment.</align>
+<align>Our goal was a complete operating system, and these programs were needed for that goal.</align>
+<align>(1) “Bourne Again Shell” is a play on the name “Bourne Shell”, which was the usual shell on Unix.</align>
+<align>Free software support
+The free software philosophy rejects a specific widespread business practice, but it is not against business.</align>
+<align>When businesses respect the users' freedom, we wish them success. Selling copies of Emacs demonstrates one kind of free software business.</align>
+<align>When the FSF took over that business, I needed another way to make a living.</align>
+<align>I found it in selling services relating to the free software I had developed.</align>
+<align>This included teaching, for subjects such as how to program GNU Emacs and how to customize GCC, and software development, mostly porting GCC to new platforms.</align>
+<align>Today each of these kinds of free software business is practiced by a number of corporations.</align>
+<align>Some distribute free software collections on CD-ROM; others sell support at levels ranging from answering user questions, to fixing bugs, to adding major new features.</align>
+<align>We are even beginning to see free software companies based on launching new free software products.</align>
+<align>Watch out, though—a number of companies that associate themselves with the term “open source” actually base their business on nonfree software that works with free software.</align>
+<align>These are not free software companies, they are proprietary software companies whose products tempt users away from freedom.</align>
+<align>They call these programs “value-added packages”, which shows the values they would like us to adopt: convenience above freedom.</align>
+<align>If we value freedom more, we should call them “freedom-subtracted” packages.</align>
+<align>Technical goals
+The principal goal of GNU is to be free software.</align>
+<align>Even if GNU had no technical advantage over Unix, it would have a social advantage, allowing users to cooperate, and an ethical advantage, respecting the user's freedom.</align>
+<align>But it was natural to apply the known standards of good practice to the work—for example, dynamically allocating data structures to avoid arbitrary fixed size limits, and handling all the possible 8-bit codes wherever that made sense.</align>
+<align>In addition, we rejected the Unix focus on small memory size, by deciding not to support 16-bit machines (it was clear that 32-bit machines would be the norm by the time the GNU system was finished), and to make no effort to reduce memory usage unless it exceeded a megabyte.</align>
+<align>In programs for which handling very large files was not crucial, we encouraged programmers to read an entire input file into core, then scan its contents without having to worry about I/O.</align>
+<align>These decisions enabled many GNU programs to surpass their Unix counterparts in reliability and speed.</align>
+<align>Donated computers
+As the GNU Project's reputation grew, people began offering to donate machines running Unix to the project.</align>
+<align>These were very useful, because the easiest way to develop components of GNU was to do it on a Unix system, and replace the components of that system one by one.</align>
+<align>But they raised an ethical issue: whether it was right for us to have a copy of Unix at all.</align>
+<align>Unix was (and is) proprietary software, and the GNU Project's philosophy said that we should not use proprietary software.</align>
+<align>But, applying the same reasoning that leads to the conclusion that violence in self defense is justified, I concluded that it was legitimate to use a proprietary package when that was crucial for developing a free replacement that would help others stop using the proprietary package.</align>
+<align>But, even if this was a justifiable evil, it was still an evil.</align>
+<align>Today we no longer have any copies of Unix, because we have replaced them with free operating systems.</align>
+<align>If we could not replace a machine's operating system with a free one, we replaced the machine instead.</align>
+<align>The GNU Task List
+As the GNU Project proceeded, and increasing numbers of system components were found or developed, eventually it became useful to make a list of the remaining gaps.</align>
+<align>We used it to recruit developers to write the missing pieces.</align>
+<align>This list became known as the GNU Task List.</align>
+<align>In addition to missing Unix components, we listed various other useful software and documentation projects that, we thought, a truly complete system ought to have.</align>
+<align>Today (1), hardly any Unix components are left in the GNU Task List—those jobs had been done, aside from a few inessential ones.</align>
+<align>But the list is full of projects that some might call “applications”.</align>
+<align>Any program that appeals to more than a narrow class of users would be a useful thing to add to an operating system.</align>
+<align>Even games are included in the task list—and have been since the beginning.</align>
+<align>Unix included games, so naturally GNU should too.</align>
+<align>But compatibility was not an issue for games, so we did not follow the list of games that Unix had.</align>
+<align>Instead, we listed a spectrum of different kinds of games that users might like. (1) That was written in 1998.</align>
+<align>In 2009 we no longer maintain a long task list. The community develops free software so fast that we can't even keep track of it all.</align>
+<align>Instead, we have a list of High Priority Projects, a much shorter list of projects we really want to encourage people to write.</align>
+<align>The GNU Library GPL
+The GNU C library uses a special kind of copyleft called the GNU Library General Public License(1), which gives permission to link proprietary software with the library. Why make this exception?</align>
+<align>It is not a matter of principle; there is no principle that says proprietary software products are entitled to include our code.</align>
+<align>(Why contribute to a project predicated on refusing to share with us?) Using the LGPL for the C library, or for any library, is a matter of strategy.</align>
+<align>The C library does a generic job; every proprietary system or compiler comes with a C library.</align>
+<align>Therefore, to make our C library available only to free software would not have given free software any advantage—it would only have discouraged use of our library.</align>
+<align>One system is an exception to this: on the GNU system (and this includes GNU/Linux), the GNU C library is the only C library.</align>
+<align>So the distribution terms of the GNU C library determine whether it is possible to compile a proprietary program for the GNU system.</align>
+<align>There is no ethical reason to allow proprietary applications on the GNU system, but strategically it seems that disallowing them would do more to discourage use of the GNU system than to encourage development of free applications.</align>
+<align>That is why using the Library GPL is a good strategy for the C library.</align>
+<align>For other libraries, the strategic decision needs to be considered on a case-by-case basis.</align>
+<align>When a library does a special job that can help write certain kinds of programs, then releasing it under the GPL, limiting it to free programs only, is a way of helping other free software developers, giving them an advantage against proprietary software.</align>
+<align>Consider GNU Readline, a library that was developed to provide command-line editing for BASH.</align>
+<align>Readline is released under the ordinary GNU GPL, not the Library GPL. This probably does reduce the amount Readline is used, but that is no loss for us.</align>
+<align>Meanwhile, at least one useful application has been made free software specifically so it could use Readline, and that is a real gain for the community.</align>
+<align>Proprietary software developers have the advantages money provides; free software developers need to make advantages for each other.</align>
+<align>I hope some day we will have a large collection of GPL-covered libraries that have no parallel available to proprietary software, providing useful modules to serve as building blocks in new free software, and adding up to a major advantage for further free software development.</align>
+<align>They come from a vision and a plan, not from impulse.</align>
+<align>For example, we developed the GNU C library because a Unix-like system needs a C library, BASH because a Unix-like system needs a shell, and GNU tar because a Unix-like system needs a tar program.</align>
+<align>The same is true for my own programs—the GNU C compiler, GNU Emacs, GDB and GNU Make.</align>
+<align>Some GNU programs were developed to cope with specific threats to our freedom.</align>
+<align>Thus, we developed gzip to replace the Compress program, which had been lost to the community because of the LZW patents.</align>
+<align>We found people to develop LessTif, and more recently started GNOME and Harmony, to address the problems caused by certain proprietary libraries (see below).</align>
+<align>We are developing the GNU Privacy Guard to replace popular nonfree encryption software, because users should not have to choose between privacy and freedom.</align>
+<align>Of course, the people writing these programs became interested in the work, and many features were added to them by various people for the sake of their own needs and interests.</align>
+<align>But that is not why the programs exist.</align>
+<align>Unexpected developments
+At the beginning of the GNU Project, I imagined that we would develop the whole GNU system, then release it as a whole.</align>
+<align>That is not how it happened.</align>
+<align>Since each component of the GNU system was implemented on a Unix system, each component could run on Unix systems long before a complete GNU system existed.</align>
+<align>Some of these programs became popular, and users began extending them and porting them—to the various incompatible versions of Unix, and sometimes to other systems as well.</align>
+<align>The process made these programs much more powerful, and attracted both funds and contributors to the GNU Project.</align>
+<align>But it probably also delayed completion of a minimal working system by several years, as GNU developers' time was put into maintaining these ports and adding features to the existing components, rather than moving on to write one missing component after another.</align>
+<align>The GNU Hurd
+By 1990, the GNU system was almost complete; the only major missing component was the kernel.</align>
+<align>We had decided to implement our kernel as a collection of server processes running on top of Mach.</align>
+<align>Mach is a microkernel developed at Carnegie Mellon University and then at the University of Utah; the GNU Hurd is a collection of servers (i.e., a herd of GNUs) that run on top of Mach, and do the various jobs of the Unix kernel.</align>
+<align>The start of development was delayed as we waited for Mach to be released as free software, as had been promised.</align>
+<align>One reason for choosing this design was to avoid what seemed to be the hardest part of the job: debugging a kernel program without a source-level debugger to do it with.</align>
+<align>This part of the job had been done already, in Mach, and we expected to debug the Hurd servers as user programs, with GDB.</align>
+<align>But it took a long time to make that possible, and the multithreaded servers that send messages to each other have turned out to be very hard to debug.</align>
+<align>Making the Hurd work solidly has stretched on for many years.</align>
+<align>Alix
+The GNU kernel was not originally supposed to be called the Hurd.</align>
+<align>Its original name was Alix—named after the woman who was my sweetheart at the time.</align>
+<align>She, a Unix system administrator, had pointed out how her name would fit a common naming pattern for Unix system versions; as a joke, she told her friends, “Someone should name a kernel after me.” I said nothing, but decided to surprise her with a kernel named Alix.</align>
+<align>It did not stay that way.</align>
+<align>Michael (now Thomas) Bushnell, the main developer of the kernel, preferred the name Hurd, and redefined Alix to refer to a certain part of the kernel—the part that would trap system calls and handle them by sending messages to Hurd servers.</align>
+<align>Later, Alix and I broke up, and she changed her name; independently, the Hurd design was changed so that the C library would send messages directly to servers, and this made the Alix component disappear from the design.</align>
+<align>But before these things happened, a friend of hers came across the name Alix in the Hurd source code, and mentioned it to her.</align>
+<align>So she did have the chance to find a kernel named after her.</align>
+<align>Linux and GNU/Linux
+The GNU Hurd is not suitable for production use, and we don't know if it ever will be.</align>
+<align>The capability-based design has problems that result directly from the flexibility of the design, and it is not clear whether solutions exist.</align>
+<align>Fortunately, another kernel is available.</align>
+<align>In 1991, Linus Torvalds developed a Unix-compatible kernel and called it Linux.</align>
+<align>It was proprietary at first, but in 1992, he made it free software; combining Linux with the not-quite-complete GNU system resulted in a complete free operating system.</align>
+<align>(Combining them was a substantial job in itself, of course.) It is due to Linux that we can actually run a version of the GNU system today.</align>
+<align>We call this system version GNU/Linux, to express its composition as a combination of the GNU system with Linux as the kernel.</align>
+<align>Please don't fall into the practice of calling the whole system “Linux”, since that means attributing our work to someone else.</align>
+<align>Please give us equal mention.</align>
+<align>Challenges in our future
+We have proved our ability to develop a broad spectrum of free software.</align>
+<align>This does not mean we are invincible and unstoppable.</align>
+<align>Several challenges make the future of free software uncertain; meeting them will require steadfast effort and endurance, sometimes lasting for years.</align>
+<align>It will require the kind of determination that people display when they value their freedom and will not let anyone take it away.</align>
+<align>The following four sections discuss these challenges.</align>
+<align>Secret hardware
+Hardware manufacturers increasingly tend to keep hardware specifications secret.</align>
+<align>This makes it difficult to write free drivers so that Linux and XFree86 can support new hardware.</align>
+<align>We have complete free systems today, but we will not have them tomorrow if we cannot support tomorrow's computers.</align>
+<align>There are two ways to cope with this problem.</align>
+<align>Programmers can do reverse engineering to figure out how to support the hardware.</align>
+<align>The rest of us can choose the hardware that is supported by free software; as our numbers increase, secrecy of specifications will become a self-defeating policy.</align>
+<align>Reverse engineering is a big job; will we have programmers with sufficient determination to undertake it?</align>
+<align>Yes—if we have built up a strong feeling that free software is a matter of principle, and nonfree drivers are intolerable.</align>
+<align>And will large numbers of us spend extra money, or even a little extra time, so we can use free drivers?</align>
+<align>Yes, if the determination to have freedom is widespread.</align>
+<align>(2008 note: this issue extends to the BIOS as well.</align>
+<align>There is a free BIOS, LibreBoot (a distribution of coreboot); the problem is getting specs for machines so that LibreBoot can support them without nonfree “blobs”.)</align>
+<align>Nonfree libraries
+A nonfree library that runs on free operating systems acts as a trap for free software developers.</align>
+<align>The library's attractive features are the bait; if you use the library, you fall into the trap, because your program cannot usefully be part of a free operating system.</align>
+<align>(Strictly speaking, we could include your program, but it won't run with the library missing.) Even worse, if a program that uses the proprietary library becomes popular, it can lure other unsuspecting programmers into the trap.</align>
+<align>The first instance of this problem was the Motif toolkit, back in the 80s.</align>
+<align>Although there were as yet no free operating systems, it was clear what problem Motif would cause for them later on.</align>
+<align>The GNU Project responded in two ways: by asking individual free software projects to support the free X Toolkit widgets as well as Motif, and by asking for someone to write a free replacement for Motif.</align>
+<align>The job took many years; LessTif, developed by the Hungry Programmers, became powerful enough to support most Motif applications only in 1997.</align>
+<align>Between 1996 and 1998, another nonfree GUI toolkit library, called Qt, was used in a substantial collection of free software, the desktop KDE.</align>
+<align>Free GNU/Linux systems were unable to use KDE, because we could not use the library.</align>
+<align>However, some commercial distributors of GNU/Linux systems who were not strict about sticking with free software added KDE to their systems—producing a system with more capabilities, but less freedom.</align>
+<align>The KDE group was actively encouraging more programmers to use Qt, and millions of new “Linux users” had never been exposed to the idea that there was a problem in this.</align>
+<align>The situation appeared grim.</align>
+<align>The free software community responded to the problem in two ways: GNOME and Harmony.</align>
+<align>GNOME, the GNU Network Object Model Environment, is GNU's desktop project.</align>
+<align>Started in 1997 by Miguel de Icaza, and developed with the support of Red Hat Software, GNOME set out to provide similar desktop facilities, but using free software exclusively.</align>
+<align>It has technical advantages as well, such as supporting a variety of languages, not just C++.</align>
+<align>But its main purpose was freedom: not to require the use of any nonfree software.</align>
+<align>Harmony is a compatible replacement library, designed to make it possible to run KDE software without using Qt.</align>
+<align>In November 1998, the developers of Qt announced a change of license which, when carried out, should make Qt free software.</align>
+<align>There is no way to be sure, but I think that this was partly due to the community's firm response to the problem that Qt posed when it was nonfree. (The new license is inconvenient and inequitable, so it remains desirable to avoid using Qt.)</align>
+<align>[Subsequent note: in September 2000, Qt was rereleased under the GNU GPL, which essentially solved this problem.]</align>
+<align>How will we respond to the next tempting nonfree library?</align>
+<align>Will the whole community understand the need to stay out of the trap?</align>
+<align>Or will many of us give up freedom for convenience, and produce a major problem?</align>
+<align>Our future depends on our philosophy.</align>
+<align>Software patents
+The worst threat we face comes from software patents, which can put algorithms and features off limits to free software for up to twenty years.</align>
+<align>The LZW compression algorithm patents were applied for in 1983, and we still cannot release free software to produce proper compressed GIFs. [As of 2009 they have expired.] In 1998, a free program to produce MP3 compressed audio was removed from distribution under threat of a patent suit.</align>
+<align>[As of 2017, these patents have expired. Look how long we had to wait.]</align>
+<align>There are ways to cope with patents: we can search for evidence that a patent is invalid, and we can look for alternative ways to do a job.</align>
+<align>But each of these methods works only sometimes; when both fail, a patent may force all free software to lack some feature that users want.</align>
+<align>After a long wait, the patents expire (the MP3 patents are expected to have expired by 2018), but what will we do until then?</align>
+<align>Those of us who value free software for freedom's sake will stay with free software anyway.</align>
+<align>We will manage to get work done without the patented features.</align>
+<align>But those who value free software because they expect it to be technically superior are likely to call it a failure when a patent holds it back.</align>
+<align>Thus, while it is useful to talk about the practical effectiveness of the “bazaar” model of development, and the reliability and power of some free software, we must not stop there.</align>
+<align>We must talk about freedom and principle.</align>
+<align>Free documentation
+The biggest deficiency in our free operating systems is not in the software—it is the lack of good free manuals that we can include in our systems.</align>
+<align>Documentation is an essential part of any software package; when an important free software package does not come with a good free manual, that is a major gap.</align>
+<align>We have many such gaps today.</align>
+<align>Free documentation, like free software, is a matter of freedom, not price.</align>
+<align>The criterion for a free manual is pretty much the same as for free software: it is a matter of giving all users certain freedoms.</align>
+<align>Redistribution (including commercial sale) must be permitted, online and on paper, so that the manual can accompany every copy of the program.</align>
+<align>Permission for modification is crucial too.</align>
+<align>As a general rule, I don't believe that it is essential for people to have permission to modify all sorts of articles and books.</align>
+<align>For example, I don't think you or I are obliged to give permission to modify articles like this one, which describe our actions and our views.</align>
+<align>But there is a particular reason why the freedom to modify is crucial for documentation for free software.</align>
+<align>When people exercise their right to modify the software, and add or change its features, if they are conscientious they will change the manual, too—so they can provide accurate and usable documentation with the modified program.</align>
+<align>A nonfree manual, which does not allow programmers to be conscientious and finish the job, does not fill our community's needs.</align>
+<align>Some kinds of limits on how modifications are done pose no problem.</align>
+<align>For example, requirements to preserve the original author's copyright notice, the distribution terms, or the list of authors, are OK.</align>
+<align>It is also no problem to require modified versions to include notice that they were modified, even to have entire sections that may not be deleted or changed, as long as these sections deal with nontechnical topics.</align>
+<align>These kinds of restrictions are not a problem because they don't stop the conscientious programmer from adapting the manual to fit the modified program.</align>
+<align>In other words, they don't block the free software community from making full use of the manual.</align>
+<align>However, it must be possible to modify all the technical content of the manual, and then distribute the result in all the usual media, through all the usual channels; otherwise, the restrictions do obstruct the community, the manual is not free, and we need another manual.</align>
+<align>Will free software developers have the awareness and determination to produce a full spectrum of free manuals?</align>
+<align>Once again, our future depends on philosophy.</align>
+<align>We must talk about freedom
+Estimates today are that there are ten million users of GNU/Linux systems such as Debian GNU/Linux and Red Hat “Linux”.</align>
+<align>Free software has developed such practical advantages that users are flocking to it for purely practical reasons.</align>
+<align>The good consequences of this are evident: more interest in developing free software, more customers for free software businesses, and more ability to encourage companies to develop commercial free software instead of proprietary software products.</align>
+<align>But interest in the software is growing faster than awareness of the philosophy it is based on, and this leads to trouble.</align>
+<align>Our ability to meet the challenges and threats described above depends on the will to stand firm for freedom.</align>
+<align>To make sure our community has this will, we need to spread the idea to the new users as they come into the community.</align>
+<align>But we are failing to do so: the efforts to attract new users into our community are far outstripping the efforts to teach them the civics of our community.</align>
+<align>We need to do both, and we need to keep the two efforts in balance.</align>
+<align>“Open Source”
+Teaching new users about freedom became more difficult in 1998, when a part of the community decided to stop using the term “free software” and say “open source software” instead.</align>
+<align>Some who favored this term aimed to avoid the confusion of “free” with “gratis”—a valid goal.</align>
+<align>Others, however, aimed to set aside the spirit of principle that had motivated the free software movement and the GNU Project, and to appeal instead to executives and business users, many of whom hold an ideology that places profit above freedom, above community, above principle.</align>
+<align>Thus, the rhetoric of “open source” focuses on the potential to make high-quality, powerful software, but shuns the ideas of freedom, community, and principle.</align>
+<align>The “Linux” magazines are a clear example of this—they are filled with advertisements for proprietary software that works with GNU/Linux.</align>
+<align>When the next Motif or Qt appears, will these magazines warn programmers to stay away from it, or will they run ads for it?</align>
+<align>The support of business can contribute to the community in many ways; all else being equal, it is useful.</align>
+<align>But winning their support by speaking even less about freedom and principle can be disastrous; it makes the previous imbalance between outreach and civics education even worse.</align>
+<align>“Free software” and “open source” describe the same category of software, more or less, but say different things about the software, and about values.</align>
+<align>The GNU Project continues to use the term “free software”, to express the idea that freedom, not just technology, is important.</align>
+<align>Try!</align>
+<align>Yoda's aphorism (“There is no ‘try’”) sounds neat, but it doesn't work for me.</align>
+<align>I have done most of my work while anxious about whether I could do the job, and unsure that it would be enough to achieve the goal if I did.</align>
+<align>But I tried anyway, because there was no one but me between the enemy and my city.</align>
+<align>Surprising myself, I have sometimes succeeded.</align>
+<align>Sometimes I failed; some of my cities have fallen.</align>
+<align>Then I found another threatened city, and got ready for another battle.</align>
+<align>Over time, I've learned to look for threats and put myself between them and my city, calling on other hackers to come and join me.</align>
+<align>Nowadays, often I'm not the only one.</align>
+<align>It is a relief and a joy when I see a regiment of hackers digging in to hold the line, and I realize, this city may survive—for now.</align>
+<align>But the dangers are greater each year, and now Microsoft has explicitly targeted our community.</align>
+<align>We can't take the future of freedom for granted.</align>
+<align>Don't take it for granted!</align>
+<align>If you want to keep your freedom, you must be prepared to defend it.</align>
+<align>The GNU Manifesto
+The GNU Manifesto (which appears below) was written by Richard Stallman in 1985 to ask for support in developing the GNU operating system.</align>
+<align>Part of the text was taken from the original announcement of 1983. Through 1987, it was updated in minor ways to account for developments; since then, it seems best to leave it unchanged.</align>
+<align>Since that time, we have learned about certain common misunderstandings that different wording could help avoid.</align>
+<align>Footnotes added since 1993 help clarify these points.</align>
+<align>If you want to install the GNU/Linux system, we recommend you use one of the 100% free software GNU/Linux distributions.</align>
+<align>For how to contribute, see http://www.gnu.org/help.</align>
+<align>The GNU Project is part of the Free Software Movement, a campaign for freedom for users of software.</align>
+<align>It is a mistake to associate GNU with the term “open source”—that term was coined in 1998 by people who disagree with the Free Software Movement's ethical values.</align>
+<align>They use it to promote an amoral approach to the same field.</align>
+<align>What's GNU?</align>
+<align>Gnu's Not Unix!</align>
+<align>GNU, which stands for Gnu's Not Unix, is the name for the complete Unix-compatible software system which I am writing so that I can give it away free to everyone who can use it.(1) Several other volunteers are helping me.</align>
+<align>Contributions of time, money, programs and equipment are greatly needed.</align>
+<align>So far we have an Emacs text editor with Lisp for writing editor commands, a source level debugger, a yacc-compatible parser generator, a linker, and around 35 utilities.</align>
+<align>A shell (command interpreter) is nearly completed.</align>
+<align>A new portable optimizing C compiler has compiled itself and may be released this year.</align>
+<align>An initial kernel exists but many more features are needed to emulate Unix.</align>
+<align>When the kernel and compiler are finished, it will be possible to distribute a GNU system suitable for program development.</align>
+<align>We will use TeX as our text formatter, but an nroff is being worked on.</align>
+<align>We will use the free, portable X Window System as well.</align>
+<align>After this we will add a portable Common Lisp, an Empire game, a spreadsheet, and hundreds of other things, plus online documentation.</align>
+<align>We hope to supply, eventually, everything useful that normally comes with a Unix system, and more.</align>
+<align>GNU will be able to run Unix programs, but will not be identical to Unix.</align>
+<align>We will make all improvements that are convenient, based on our experience with other operating systems.</align>
+<align>In particular, we plan to have longer file names, file version numbers, a crashproof file system, file name completion perhaps, terminal-independent display support, and perhaps eventually a Lisp-based window system through which several Lisp programs and ordinary Unix programs can share a screen.</align>
+<align>Both C and Lisp will be available as system programming languages.</align>
+<align>We will try to support UUCP, MIT Chaosnet, and Internet protocols for communication.</align>
+<align>GNU is aimed initially at machines in the 68000/16000 class with virtual memory, because they are the easiest machines to make it run on.</align>
+<align>The extra effort to make it run on smaller machines will be left to someone who wants to use it on them.</align>
+<align>To avoid horrible confusion, please pronounce the g in the word “GNU” when it is the name of this project.</align>
+<align>Why I Must Write GNU
+I consider that the Golden Rule requires that if I like a program I must share it with other people who like it.</align>
+<align>Software sellers want to divide the users and conquer them, making each user agree not to share with others.</align>
+<align>I refuse to break solidarity with other users in this way.</align>
+<align>I cannot in good conscience sign a nondisclosure agreement or a software license agreement.</align>
+<align>For years I worked within the Artificial Intelligence Lab to resist such tendencies and other inhospitalities, but eventually they had gone too far: I could not remain in an institution where such things are done for me against my will.</align>
+<align>So that I can continue to use computers without dishonor, I have decided to put together a sufficient body of free software so that I will be able to get along without any software that is not free.</align>
+<align>I have resigned from the AI Lab to deny MIT any legal excuse to prevent me from giving GNU away.(2)</align>
+<align>Why GNU Will Be Compatible with Unix
+Unix is not my ideal system, but it is not too bad.</align>
+<align>The essential features of Unix seem to be good ones, and I think I can fill in what Unix lacks without spoiling them.</align>
+<align>And a system compatible with Unix would be convenient for many other people to adopt.</align>
+<align>How GNU Will Be Available
+GNU is not in the public domain.</align>
+<align>Everyone will be permitted to modify and redistribute GNU, but no distributor will be allowed to restrict its further redistribution.</align>
+<align>That is to say, proprietary modifications will not be allowed.</align>
+<align>I want to make sure that all versions of GNU remain free.</align>
+<align>Why Many Other Programmers Want to Help
+I have found many other programmers who are excited about GNU and want to help.</align>
+<align>Many programmers are unhappy about the commercialization of system software.</align>
+<align>It may enable them to make more money, but it requires them to feel in conflict with other programmers in general rather than feel as comrades.</align>
+<align>The fundamental act of friendship among programmers is the sharing of programs; marketing arrangements now typically used essentially forbid programmers to treat others as friends.</align>
+<align>The purchaser of software must choose between friendship and obeying the law.</align>
+<align>Naturally, many decide that friendship is more important. But those who believe in law often do not feel at ease with either choice.</align>
+<align>They become cynical and think that programming is just a way of making money.</align>
+<align>By working on and using GNU rather than proprietary programs, we can be hospitable to everyone and obey the law.</align>
+<align>In addition, GNU serves as an example to inspire and a banner to rally others to join us in sharing.</align>
+<align>This can give us a feeling of harmony which is impossible if we use software that is not free.</align>
+<align>For about half the programmers I talk to, this is an important happiness that money cannot replace.</align>
+<align>How You Can Contribute
+(Nowadays, for software tasks to work on, see the High Priority Projects list and the GNU Help Wanted list, the general task list for GNU software packages.</align>
+<align>For other ways to help, see the guide to helping the GNU operating system.)</align>
+<align>I am asking computer manufacturers for donations of machines and money.</align>
+<align>I'm asking individuals for donations of programs and work.</align>
+<align>One consequence you can expect if you donate machines is that GNU will run on them at an early date.</align>
+<align>The machines should be complete, ready to use systems, approved for use in a residential area, and not in need of sophisticated cooling or power.</align>
+<align>I have found very many programmers eager to contribute part-time work for GNU.</align>
+<align>For most projects, such part-time distributed work would be very hard to coordinate; the independently written parts would not work together.</align>
+<align>But for the particular task of replacing Unix, this problem is absent.</align>
+<align>A complete Unix system contains hundreds of utility programs, each of which is documented separately.</align>
+<align>Most interface specifications are fixed by Unix compatibility.</align>
+<align>If each contributor can write a compatible replacement for a single Unix utility, and make it work properly in place of the original on a Unix system, then these utilities will work right when put together.</align>
+<align>Even allowing for Murphy to create a few unexpected problems, assembling these components will be a feasible task. (The kernel will require closer communication and will be worked on by a small, tight group.)</align>
+<align>If I get donations of money, I may be able to hire a few people full or part time.</align>
+<align>The salary won't be high by programmers' standards, but I'm looking for people for whom building community spirit is as important as making money.</align>
+<align>I view this as a way of enabling dedicated people to devote their full energies to working on GNU by sparing them the need to make a living in another way.</align>
+<align>Why All Computer Users Will Benefit
+Once GNU is written, everyone will be able to obtain good system software free, just like air.(3)</align>
+<align>This means much more than just saving everyone the price of a Unix license.</align>
+<align>It means that much wasteful duplication of system programming effort will be avoided.</align>
+<align>This effort can go instead into advancing the state of the art.</align>
+<align>Complete system sources will be available to everyone.</align>
+<align>As a result, a user who needs changes in the system will always be free to make them himself, or hire any available programmer or company to make them for him.</align>
+<align>Users will no longer be at the mercy of one programmer or company which owns the sources and is in sole position to make changes.</align>
+<align>Schools will be able to provide a much more educational environment by encouraging all students to study and improve the system code.</align>
+<align>Harvard's computer lab used to have the policy that no program could be installed on the system if its sources were not on public display, and upheld it by actually refusing to install certain programs.</align>
+<align>I was very much inspired by this.</align>
+<align>Finally, the overhead of considering who owns the system software and what one is or is not entitled to do with it will be lifted.</align>
+<align>Arrangements to make people pay for using a program, including licensing of copies, always incur a tremendous cost to society through the cumbersome mechanisms necessary to figure out how much (that is, which programs) a person must pay for.</align>
+<align>And only a police state can force everyone to obey them.</align>
+<align>Consider a space station where air must be manufactured at great cost: charging each breather per liter of air may be fair, but wearing the metered gas mask all day and all night is intolerable even if everyone can afford to pay the air bill.</align>
+<align>And the TV cameras everywhere to see if you ever take the mask off are outrageous.</align>
+<align>It's better to support the air plant with a head tax and chuck the masks.</align>
+<align>Copying all or parts of a program is as natural to a programmer as breathing, and as productive.</align>
+<align>It ought to be as free.</align>
+<align>Some Easily Rebutted Objections to GNU's Goals
+“Nobody will use it if it is free, because that means they can't rely on any support.”</align>
+<align>“You have to charge for the program to pay for providing the support.”</align>
+<align>If people would rather pay for GNU plus service than get GNU free without service, a company to provide just service to people who have obtained GNU free ought to be profitable.(4)</align>
+<align>We must distinguish between support in the form of real programming work and mere handholding.</align>
+<align>The former is something one cannot rely on from a software vendor.</align>
+<align>If your problem is not shared by enough people, the vendor will tell you to get lost.</align>
+<align>If your business needs to be able to rely on support, the only way is to have all the necessary sources and tools.</align>
+<align>Then you can hire any available person to fix your problem; you are not at the mercy of any individual.</align>
+<align>With Unix, the price of sources puts this out of consideration for most businesses.</align>
+<align>With GNU this will be easy.</align>
+<align>It is still possible for there to be no available competent person, but this problem cannot be blamed on distribution arrangements.</align>
+<align>GNU does not eliminate all the world's problems, only some of them.</align>
+<align>Meanwhile, the users who know nothing about computers need handholding: doing things for them which they could easily do themselves but don't know how.</align>
+<align>Such services could be provided by companies that sell just handholding and repair service.</align>
+<align>If it is true that users would rather spend money and get a product with service, they will also be willing to buy the service having got the product free.</align>
+<align>The service companies will compete in quality and price; users will not be tied to any particular one.</align>
+<align>Meanwhile, those of us who don't need the service should be able to use the program without paying for the service.</align>
+<align>“You cannot reach many people without advertising, and you must charge for the program to support that.”</align>
+<align>“It's no use advertising a program people can get free.”</align>
+<align>There are various forms of free or very cheap publicity that can be used to inform numbers of computer users about something like GNU.</align>
+<align>But it may be true that one can reach more microcomputer users with advertising.</align>
+<align>If this is really so, a business which advertises the service of copying and mailing GNU for a fee ought to be successful enough to pay for its advertising and more.</align>
+<align>This way, only the users who benefit from the advertising pay for it.</align>
+<align>On the other hand, if many people get GNU from their friends, and such companies don't succeed, this will show that advertising was not really necessary to spread GNU.</align>
+<align>Why is it that free market advocates don't want to let the free market decide this?(5)</align>
+<align>“My company needs a proprietary operating system to get a competitive edge.”</align>
+<align>GNU will remove operating system software from the realm of competition.</align>
+<align>You will not be able to get an edge in this area, but neither will your competitors be able to get an edge over you.</align>
+<align>You and they will compete in other areas, while benefiting mutually in this one.</align>
+<align>If your business is selling an operating system, you will not like GNU, but that's tough on you.</align>
+<align>If your business is something else, GNU can save you from being pushed into the expensive business of selling operating systems.</align>
+<align>I would like to see GNU development supported by gifts from many manufacturers and users, reducing the cost to each.(6)</align>
+<align>“Don't programmers deserve a reward for their creativity?”</align>
+<align>If anything deserves a reward, it is social contribution.</align>
+<align>Creativity can be a social contribution, but only in so far as society is free to use the results.</align>
+<align>If programmers deserve to be rewarded for creating innovative programs, by the same token they deserve to be punished if they restrict the use of these programs.</align>
+<align>“Shouldn't a programmer be able to ask for a reward for his creativity?”</align>
+<align>There is nothing wrong with wanting pay for work, or seeking to maximize one's income, as long as one does not use means that are destructive.</align>
+<align>But the means customary in the field of software today are based on destruction.</align>
+<align>Extracting money from users of a program by restricting their use of it is destructive because the restrictions reduce the amount and the ways that the program can be used.</align>
+<align>This reduces the amount of wealth that humanity derives from the program.</align>
+<align>When there is a deliberate choice to restrict, the harmful consequences are deliberate destruction.</align>
+<align>The reason a good citizen does not use such destructive means to become wealthier is that, if everyone did so, we would all become poorer from the mutual destructiveness.</align>
+<align>This is Kantian ethics; or, the Golden Rule.</align>
+<align>Since I do not like the consequences that result if everyone hoards information, I am required to consider it wrong for one to do so.</align>
+<align>Specifically, the desire to be rewarded for one's creativity does not justify depriving the world in general of all or part of that creativity.</align>
+<align>“Won't programmers starve?”</align>
+<align>I could answer that nobody is forced to be a programmer.</align>
+<align>Most of us cannot manage to get any money for standing on the street and making faces.</align>
+<align>But we are not, as a result, condemned to spend our lives standing on the street making faces, and starving.</align>
+<align>We do something else.</align>
+<align>But that is the wrong answer because it accepts the questioner's implicit assumption: that without ownership of software, programmers cannot possibly be paid a cent.</align>
+<align>Supposedly it is all or nothing.</align>
+<align>The real reason programmers will not starve is that it will still be possible for them to get paid for programming; just not paid as much as now.</align>
+<align>Restricting copying is not the only basis for business in software.</align>
+<align>It is the most common basis(7) because it brings in the most money.</align>
+<align>If it were prohibited, or rejected by the customer, software business would move to other bases of organization which are now used less often.</align>
+<align>There are always numerous ways to organize any kind of business.</align>
+<align>Probably programming will not be as lucrative on the new basis as it is now.</align>
+<align>But that is not an argument against the change.</align>
+<align>It is not considered an injustice that sales clerks make the salaries that they now do.</align>
+<align>If programmers made the same, that would not be an injustice either.</align>
+<align>(In practice they would still make considerably more than that.)</align>
+<align>“Don't people have a right to control how their creativity is used?”</align>
+<align>“Control over the use of one's ideas” really constitutes control over other people's lives; and it is usually used to make their lives more difficult.</align>
+<align>People who have studied the issue of intellectual property rights(8) carefully (such as lawyers) say that there is no intrinsic right to intellectual property.</align>
+<align>The kinds of supposed intellectual property rights that the government recognizes were created by specific acts of legislation for specific purposes.</align>
+<align>For example, the patent system was established to encourage inventors to disclose the details of their inventions.</align>
+<align>Its purpose was to help society rather than to help inventors.</align>
+<align>At the time, the life span of 17 years for a patent was short compared with the rate of advance of the state of the art.</align>
+<align>Since patents are an issue only among manufacturers, for whom the cost and effort of a license agreement are small compared with setting up production, the patents often do not do much harm.</align>
+<align>They do not obstruct most individuals who use patented products.</align>
+<align>The idea of copyright did not exist in ancient times, when authors frequently copied other authors at length in works of nonfiction.</align>
+<align>This practice was useful, and is the only way many authors' works have survived even in part.</align>
+<align>The copyright system was created expressly for the purpose of encouraging authorship.</align>
+<align>In the domain for which it was invented—books, which could be copied economically only on a printing press—it did little harm, and did not obstruct most of the individuals who read the books.</align>
+<align>All intellectual property rights are just licenses granted by society because it was thought, rightly or wrongly, that society as a whole would benefit by granting them.</align>
+<align>But in any particular situation, we have to ask: are we really better off granting such license?</align>
+<align>What kind of act are we licensing a person to do?</align>
+<align>The case of programs today is very different from that of books a hundred years ago.</align>
+<align>The fact that the easiest way to copy a program is from one neighbor to another, the fact that a program has both source code and object code which are distinct, and the fact that a program is used rather than read and enjoyed, combine to create a situation in which a person who enforces a copyright is harming society as a whole both materially and spiritually; in which a person should not do so regardless of whether the law enables him to.</align>
+<align>“Competition makes things get done better.”</align>
+<align>The paradigm of competition is a race: by rewarding the winner, we encourage everyone to run faster.</align>
+<align>When capitalism really works this way, it does a good job; but its defenders are wrong in assuming it always works this way.</align>
+<align>If the runners forget why the reward is offered and become intent on winning, no matter how, they may find other strategies—such as, attacking other runners.</align>
+<align>If the runners get into a fist fight, they will all finish late.</align>
+<align>Proprietary and secret software is the moral equivalent of runners in a fist fight.</align>
+<align>Sad to say, the only referee we've got does not seem to object to fights; he just regulates them (“For every ten yards you run, you can fire one shot”).</align>
+<align>He really ought to break them up, and penalize runners for even trying to fight.</align>
+<align>“Won't everyone stop programming without a monetary incentive?”</align>
+<align>Actually, many people will program with absolutely no monetary incentive.</align>
+<align>Programming has an irresistible fascination for some people, usually the people who are best at it.</align>
+<align>There is no shortage of professional musicians who keep at it even though they have no hope of making a living that way.</align>
+<align>But really this question, though commonly asked, is not appropriate to the situation.</align>
+<align>Pay for programmers will not disappear, only become less.</align>
+<align>So the right question is, will anyone program with a reduced monetary incentive?</align>
+<align>My experience shows that they will.</align>
+<align>For more than ten years, many of the world's best programmers worked at the Artificial Intelligence Lab for far less money than they could have had anywhere else.</align>
+<align>They got many kinds of nonmonetary rewards: fame and appreciation, for example.</align>
+<align>And creativity is also fun, a reward in itself.</align>
+<align>Then most of them left when offered a chance to do the same interesting work for a lot of money.</align>
+<align>What the facts show is that people will program for reasons other than riches; but if given a chance to make a lot of money as well, they will come to expect and demand it.</align>
+<align>Low-paying organizations do poorly in competition with high-paying ones, but they do not have to do badly if the high-paying ones are banned.</align>
+<align>“We need the programmers desperately.</align>
+<align>If they demand that we stop helping our neighbors, we have to obey.”</align>
+<align>You're never so desperate that you have to obey this sort of demand.</align>
+<align>Remember: millions for defense, but not a cent for tribute!</align>
+<align>“Programmers need to make a living somehow.”</align>
+<align>In the short run, this is true.</align>
+<align>However, there are plenty of ways that programmers could make a living without selling the right to use a program.</align>
+<align>This way is customary now because it brings programmers and businessmen the most money, not because it is the only way to make a living.</align>
+<align>It is easy to find other ways if you want to find them.</align>
+<align>Here are a number of examples.</align>
+<align>A manufacturer introducing a new computer will pay for the porting of operating systems onto the new hardware.</align>
+<align>The sale of teaching, handholding and maintenance services could also employ programmers.</align>
+<align>People with new ideas could distribute programs as freeware(9), asking for donations from satisfied users, or selling handholding services.</align>
+<align>I have met people who are already working this way successfully.</align>
+<align>Users with related needs can form users' groups, and pay dues.</align>
+<align>A group would contract with programming companies to write programs that the group's members would like to use.</align>
+<align>All sorts of development can be funded with a Software Tax:</align>
+<align>Suppose everyone who buys a computer has to pay x percent of the price as a software tax.</align>
+<align>The government gives this to an agency like the NSF to spend on software development.</align>
+<align>But if the computer buyer makes a donation to software development himself, he can take a credit against the tax.</align>
+<align>He can donate to the project of his own choosing—often, chosen because he hopes to use the results when it is done.</align>
+<align>He can take a credit for any amount of donation up to the total tax he had to pay.</align>
+<align>The total tax rate could be decided by a vote of the payers of the tax, weighted according to the amount they will be taxed on.</align>
+<align>The consequences:</align>
+<align>The computer-using community supports software development.</align>
+<align>This community decides what level of support is needed.</align>
+<align>Users who care which projects their share is spent on can choose this for themselves.</align>
+<align>In the long run, making programs free is a step toward the postscarcity world, where nobody will have to work very hard just to make a living.</align>
+<align>People will be free to devote themselves to activities that are fun, such as programming, after spending the necessary ten hours a week on required tasks such as legislation, family counseling, robot repair and asteroid prospecting.</align>
+<align>There will be no need to be able to make a living from programming.</align>
+<align>We have already greatly reduced the amount of work that the whole society must do for its actual productivity, but only a little of this has translated itself into leisure for workers because much nonproductive activity is required to accompany productive activity.</align>
+<align>The main causes of this are bureaucracy and isometric struggles against competition.</align>
+<align>Free software will greatly reduce these drains in the area of software production.</align>
+<align>We must do this, in order for technical gains in productivity to translate into less work for us.</align>
+<align>Footnotes
+The wording here was careless.</align>
+<align>The intention was that nobody would have to pay for permission to use the GNU system.</align>
+<align>But the words don't make this clear, and people often interpret them as saying that copies of GNU should always be distributed at little or no charge.</align>
+<align>That was never the intent; later on, the manifesto mentions the possibility of companies providing the service of distribution for a profit.</align>
+<align>Subsequently I have learned to distinguish carefully between “free” in the sense of freedom and “free” in the sense of price.</align>
+<align>Free software is software that users have the freedom to distribute and change.</align>
+<align>Some users may obtain copies at no charge, while others pay to obtain copies—and if the funds help support improving the software, so much the better.</align>
+<align>The important thing is that everyone who has a copy has the freedom to cooperate with others in using it.</align>
+<align>The expression “give away” is another indication that I had not yet clearly separated the issue of price from that of freedom.</align>
+<align>We now recommend avoiding this expression when talking about free software.</align>
+<align>See “Confusing Words and Phrases” for more explanation.</align>
+<align>This is another place I failed to distinguish carefully between the two different meanings of “free”.</align>
+<align>The statement as it stands is not false—you can get copies of GNU software at no charge, from your friends or over the net.</align>
+<align>But it does suggest the wrong idea.</align>
+<align>Several such companies now exist.</align>
+<align>Although it is a charity rather than a company, the Free Software Foundation for 10 years raised most of its funds from its distribution service.</align>
+<align>You can order things from the FSF to support its work.</align>
+<align>A group of computer companies pooled funds around 1991 to support maintenance of the GNU C Compiler.</align>
+<align>I think I was mistaken in saying that proprietary software was the most common basis for making money in software.</align>
+<align>It seems that actually the most common business model was and is development of custom software.</align>
+<align>That does not offer the possibility of collecting rents, so the business has to keep doing real work in order to keep getting income.</align>
+<align>The custom software business would continue to exist, more or less unchanged, in a free software world.</align>
+<align>Therefore, I no longer expect that most paid programmers would earn less in a free software world.</align>
+<align>In the 1980s I had not yet realized how confusing it was to speak of “the issue” of “intellectual property”.</align>
+<align>That term is obviously biased; more subtle is the fact that it lumps together various disparate laws which raise very different issues.</align>
+<align>Nowadays I urge people to reject the term “intellectual property” entirely, lest it lead others to suppose that those laws form one coherent issue.</align>
+<align>The way to be clear is to discuss patents, copyrights, and trademarks separately.</align>
+<align>See further explanation of how this term spreads confusion and bias.</align>
+<align>Subsequently we learned to distinguish between “free software” and “freeware”.</align>
+<align>The term “freeware” means software you are free to redistribute, but usually you are not free to study and change the source code, so most of it is not free software.</align>
+<align>See “Confusing Words and Phrases” for more explanation.</align>
+<align>Why Free Software needs Free Documentation
+Join our mailing list about the dangers of eBooks.</align>
+<align>The GNU Free Documentation License
+The biggest deficiency in free operating systems is not in the software—it is the lack of good free manuals that we can include in these systems.</align>
+<align>Many of our most important programs do not come with full manuals.</align>
+<align>Documentation is an essential part of any software package; when an important free software package does not come with a free manual, that is a major gap.</align>
+<align>We have many such gaps today.</align>
+<align>Once upon a time, many years ago, I thought I would learn Perl.</align>
+<align>I got a copy of a free manual, but I found it hard to read.</align>
+<align>When I asked Perl users about alternatives, they told me that there were better introductory manuals—but those were not free (not freedom-respecting).</align>
+<align>Why was this?</align>
+<align>The authors of the good manuals had written them for O'Reilly Associates, which published them with restrictive terms—no copying, no modification, source files not available—which made them nonfree, thus excluded them from the Free World.</align>
+<align>That wasn't the first time this sort of thing has happened, and (to our community's great loss) it was far from the last.</align>
+<align>Proprietary manual publishers have enticed a great many authors to restrict their manuals since then.</align>
+<align>Many times I have heard a GNU user eagerly tell me about a manual that he is writing, with which he expects to help the GNU Project—and then had my hopes dashed, as he proceeded to explain that he had signed a contract with a publisher that would restrict it so that we cannot use it.</align>
+<align>Given that writing good English is a rare skill among programmers, we can ill afford to lose manuals this way.</align>
+<align>Free documentation, like free software, is a matter of freedom, not price.</align>
+<align>The problem with these manuals was not that O'Reilly Associates charged a price for printed copies—that in itself is fine.</align>
+<align>(The Free Software Foundation sells printed copies of free GNU manuals, too.) But GNU manuals are available in source code form, while these manuals are available only on paper.</align>
+<align>GNU manuals come with permission to copy and modify; the Perl manuals do not.</align>
+<align>These restrictions are the problems.</align>
+<align>The criterion for a free manual is pretty much the same as for free software: it is a matter of giving all users certain freedoms.</align>
+<align>Redistribution (including commercial redistribution) must be permitted, so that the manual can accompany every copy of the program, on line or on paper.</align>
+<align>Permission for modification is crucial too.</align>
+<align>As a general rule, I don't believe that it is essential for people to have permission to modify all sorts of articles and books.</align>
+<align>The issues for writings are not necessarily the same as those for software.</align>
+<align>For example, I don't think you or I are obliged to give permission to modify articles like this one, which describe our actions and our views.</align>
+<align>But there is a particular reason why the freedom to modify is crucial for documentation for free software.</align>
+<align>When people exercise their right to modify the software, and add or change its features, if they are conscientious they will change the manual too—so they can provide accurate and usable documentation with the modified program.</align>
+<align>A manual which forbids programmers from being conscientious and finishing the job, or more precisely requires them to write a new manual from scratch if they change the program, does not fill our community's needs.</align>
+<align>While a blanket prohibition on modification is unacceptable, some kinds of limits on the method of modification pose no problem.</align>
+<align>For example, requirements to preserve the original author's copyright notice, the distribution terms, or the list of authors, are OK.</align>
+<align>It is also no problem to require modified versions to include notice that they were modified, even to have entire sections that may not be deleted or changed, as long as these sections deal with nontechnical topics. (Some GNU manuals have them.)</align>
+<align>These kinds of restrictions are not a problem because, as a practical matter, they don't stop the conscientious programmer from adapting the manual to fit the modified program.</align>
+<align>In other words, they don't block the free software community from making full use of the manual.</align>
+<align>However, it must be possible to modify all the technical content of the manual, and then distribute the result through all the usual media, through all the usual channels; otherwise, the restrictions do block the community, the manual is not free, and so we need another manual.</align>
+<align>Unfortunately, it is often hard to find someone to write another manual when a proprietary manual exists.</align>
+<align>The obstacle is that many users think that a proprietary manual is good enough—so they don't see the need to write a free manual.</align>
+<align>They do not see that the free operating system has a gap that needs filling.</align>
+<align>Why do users think that proprietary manuals are good enough?</align>
+<align>Some have not considered the issue.</align>
+<align>I hope this article will do something to change that.</align>
+<align>Other users consider proprietary manuals acceptable for the same reason so many people consider proprietary software acceptable: they judge in purely practical terms, not using freedom as a criterion.</align>
+<align>These people are entitled to their opinions, but since those opinions spring from values which do not include freedom, they are no guide for those of us who do value freedom.</align>
+<align>Please spread the word about this issue.</align>
+<align>We continue to lose manuals to proprietary publishing.</align>
+<align>If we spread the word that proprietary manuals are not sufficient, perhaps the next person who wants to help GNU by writing documentation will realize, before it is too late, that he must above all make it free.</align>
+<align>We can also encourage commercial publishers to sell free, copylefted manuals instead of proprietary ones.</align>
+<align>One way you can help this is to check the distribution terms of a manual before you buy it, and prefer copylefted manuals to noncopylefted ones.</align>
+<align>[Note: We maintain a page that lists free books available from other publishers].</align>
+<align>Selling Free Software
+Some views on the ideas of selling exceptions to free software licenses, such as the GNU GPL are also available.</align>
+<align>Many people believe that the spirit of the GNU Project is that you should not charge money for distributing copies of software, or that you should charge as little as possible—just enough to cover the cost.</align>
+<align>This is a misunderstanding.</align>
+<align>Actually, we encourage people who redistribute free software to charge as much as they wish or can.</align>
+<align>If a license does not permit users to make copies and sell them, it is a nonfree license.</align>
+<align>If this seems surprising to you, please read on.</align>
+<align>The word “free” has two legitimate general meanings; it can refer either to freedom or to price.</align>
+<align>When we speak of “free software”, we're talking about freedom, not price.</align>
+<align>(Think of “free speech”, not “free beer”.) Specifically, it means that a user is free to run the program, study and change the program, and redistribute the program with or without changes.</align>
+<align>Free programs are sometimes distributed gratis, and sometimes for a substantial price.</align>
+<align>Often the same program is available in both ways from different places.</align>
+<align>The program is free regardless of the price, because users have freedom in using it.</align>
+<align>Nonfree programs are usually sold for a high price, but sometimes a store will give you a copy at no charge.</align>
+<align>That doesn't make it free software, though.</align>
+<align>Price or no price, the program is nonfree because its users are denied freedom.</align>
+<align>Since free software is not a matter of price, a low price doesn't make the software free, or even closer to free.</align>
+<align>So if you are redistributing copies of free software, you might as well charge a substantial fee and make some money.</align>
+<align>Redistributing free software is a good and legitimate activity; if you do it, you might as well make a profit from it.</align>
+<align>Free software is a community project, and everyone who depends on it ought to look for ways to contribute to building the community.</align>
+<align>For a distributor, the way to do this is to give a part of the profit to free software development projects or to the Free Software Foundation.</align>
+<align>This way you can advance the world of free software.</align>
+<align>Distributing free software is an opportunity to raise funds for development.</align>
+<align>Don't waste it!</align>
+<align>In order to contribute funds, you need to have some extra.</align>
+<align>If you charge too low a fee, you won't have anything to spare to support development.</align>
+<align>Will a higher distribution price hurt some users?</align>
+<align>People sometimes worry that a high distribution fee will put free software out of range for users who don't have a lot of money.</align>
+<align>With proprietary software, a high price does exactly that—but free software is different.</align>
+<align>The difference is that free software naturally tends to spread around, and there are many ways to get it.</align>
+<align>Software hoarders try their damnedest to stop you from running a proprietary program without paying the standard price.</align>
+<align>If this price is high, that does make it hard for some users to use the program.</align>
+<align>With free software, users don't have to pay the distribution fee in order to use the software.</align>
+<align>They can copy the program from a friend who has a copy, or with the help of a friend who has network access.</align>
+<align>Or several users can join together, split the price of one CD-ROM, then each in turn can install the software.</align>
+<align>A high CD-ROM price is not a major obstacle when the software is free.</align>
+<align>Will a higher distribution price discourage use of free software?</align>
+<align>Another common concern is for the popularity of free software.</align>
+<align>People think that a high price for distribution would reduce the number of users, or that a low price is likely to encourage users.</align>
+<align>This is true for proprietary software—but free software is different.</align>
+<align>With so many ways to get copies, the price of distribution service has less effect on popularity.</align>
+<align>In the long run, how many people use free software is determined mainly by how much free software can do, and how easy it is to use.</align>
+<align>Many users do not make freedom their priority; they may continue to use proprietary software if free software can't do all the jobs they want done.</align>
+<align>Thus, if we want to increase the number of users in the long run, we should above all develop more free software.</align>
+<align>The most direct way to do this is by writing needed free software or manuals yourself.</align>
+<align>But if you do distribution rather than writing, the best way you can help is by raising funds for others to write them.</align>
+<align>The term “selling software” can be confusing too
+Strictly speaking, “selling” means trading goods for money.</align>
+<align>Selling a copy of a free program is legitimate, and we encourage it.</align>
+<align>However, when people think of “selling software”, they usually imagine doing it the way most companies do it: making the software proprietary rather than free.</align>
+<align>So unless you're going to draw distinctions carefully, the way this article does, we suggest it is better to avoid using the term “selling software” and choose some other wording instead.</align>
+<align>For example, you could say “distributing free software for a fee”—that is unambiguous.</align>
+<align>High or low fees, and the GNU GPL
+Except for one special situation, the GNU General Public License (GNU GPL) has no requirements about how much you can charge for distributing a copy of free software.</align>
+<align>You can charge nothing, a penny, a dollar, or a billion dollars.</align>
+<align>It's up to you, and the marketplace, so don't complain to us if nobody wants to pay a billion dollars for a copy.</align>
+<align>The one exception is in the case where binaries are distributed without the corresponding complete source code.</align>
+<align>Those who do this are required by the GNU GPL to provide source code on subsequent request.</align>
+<align>Without a limit on the fee for the source code, they would be able set a fee too large for anyone to pay—such as a billion dollars—and thus pretend to release source code while in truth concealing it.</align>
+<align>So in this case we have to limit the fee for source in order to ensure the user's freedom.</align>
+<align>In ordinary situations, however, there is no such justification for limiting distribution fees, so we do not limit them.</align>
+<align>Sometimes companies whose activities cross the line stated in the GNU GPL plead for permission, saying that they “won't charge money for the GNU software” or such like.</align>
+<align>That won't get them anywhere with us.</align>
+<align>Free software is about freedom, and enforcing the GPL is defending freedom.</align>
+<align>When we defend users' freedom, we are not distracted by side issues such as how much of a distribution fee is charged.</align>
+<align>Freedom is the issue, the whole issue, and the only issue.</align>

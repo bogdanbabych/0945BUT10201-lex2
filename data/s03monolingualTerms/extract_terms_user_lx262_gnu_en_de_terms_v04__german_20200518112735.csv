@@ -1,0 +1,1003 @@
+"corpus","user/lx262/gnu_en_de_terms_v04__german"
+"subcorpus",""
+"Item","Score","Freq","Ref_freq","Rel_freq","Rel_ref_freq"
+"freie Software",1851.520,126,454,5481.359,1.961
+"proprietäre Software",904.880,25,47,1087.571,0.203
+"modifizierte Version",611.190,19,82,826.554,0.354
+"unfreie Software",602.800,14,3,609.040,0.013
+"freies Handbuch",479.530,11,0,478.531,0.000
+"freies Betriebssystem",410.560,11,39,478.531,0.168
+"freies Programm",395.310,10,24,435.028,0.104
+"unfreies Programm",390.960,9,1,391.526,0.004
+"freie Softwarelizenz",346.250,8,2,348.023,0.009
+"proprietäres Programm",344.880,8,3,348.023,0.013
+"wesentliche Freiheit",304.300,7,1,304.520,0.004
+"freie Lizenz",302.410,9,69,391.526,0.298
+"proprietäres Handbuch",262.020,6,0,261.017,0.000
+"hoher Vertriebspreis",175.010,4,0,174.011,0.000
+"Gnu Gpl",172.090,4,4,174.011,0.017
+"ausführbare Form",170.740,4,6,174.011,0.026
+"freie Dokumentation",159.830,4,22,174.011,0.095
+"geänderte Version",157.950,4,25,174.011,0.108
+"natürliches Recht",155.010,4,30,174.011,0.130
+"rekursives Akronym",131.510,3,0,130.509,0.000
+"finanzieller Ansporn",131.510,3,0,130.509,0.000
+"unfreie Bibliothek",131.510,3,0,130.509,0.000
+"gutes freies Handbuch",131.510,3,0,130.509,0.000
+"gewissenhafter Programmierer",131.510,3,0,130.509,0.000
+"eigene modifizierte Version",131.510,3,0,130.509,0.000
+"vermeidendes Wort",131.510,3,0,130.509,0.000
+"ungerechte Macht",130.980,3,1,130.509,0.004
+"modifiziertes Programm",129.950,3,3,130.509,0.013
+"unixoides System",129.950,3,3,130.509,0.013
+"bestimmte Freiheit",128.800,3,5,130.509,0.022
+"Frage der Freiheit",128.300,3,6,130.509,0.026
+"potenzielles Problem",125.610,3,11,130.509,0.048
+"anderer Programmierer",124.530,3,13,130.509,0.056
+"neue Lizenz",115.560,3,32,130.509,0.138
+"Ai Labs",88.000,2,0,87.006,0.000
+"Beginn des Gnu-projekts",88.000,2,0,87.006,0.000
+"proprietäre Bibliothek",88.000,2,0,87.006,0.000
+"Gnu C-bibliothek",88.000,2,0,87.006,0.000
+"plattformübergreifender Compiler",88.000,2,0,87.006,0.000
+"Datenverarbeitung der Menschen",88.000,2,0,87.006,0.000
+"gesamte Eingabedatei",88.000,2,0,87.006,0.000
+"früher Entwickler",88.000,2,0,87.006,0.000
+"Name Gnu",88.000,2,0,87.006,0.000
+"Software-teilende Gemeinschaft",88.000,2,0,87.006,0.000
+"Gnu Hurd",88.000,2,0,87.006,0.000
+"ganzer technischer Inhalt",88.000,2,0,87.006,0.000
+"Kopie eines Programms",88.000,2,0,87.006,0.000
+"beruhende Lizenz",88.000,2,0,87.006,0.000
+"vertragsbasierte Lizenz",88.000,2,0,87.006,0.000
+"Nutzung Unfreier Software",88.000,2,0,87.006,0.000
+"proprietäres Paket",88.000,2,0,87.006,0.000
+"beträchtlicher Preis",88.000,2,0,87.006,0.000
+"proprietäres Software-sozialsystem",88.000,2,0,87.006,0.000
+"Libre Software",88.000,2,0,87.006,0.000
+"wichtiges freies Softwarepaket",88.000,2,0,87.006,0.000
+"proprietäres Softwareprodukt",88.000,2,0,87.006,0.000
+"proprietäres Softwareunternehmen",88.000,2,0,87.006,0.000
+"nichttechnisches Thema",88.000,2,0,87.006,0.000
+"eigene geänderte Version",88.000,2,0,87.006,0.000
+"proprietäre Version",88.000,2,0,87.006,0.000
+"proprietäre modifizierte Version",88.000,2,0,87.006,0.000
+"freier Ersatz",87.650,2,1,87.006,0.004
+"Frage des Prinzips",87.650,2,1,87.006,0.004
+"Freiheit der Nutzer",87.650,2,1,87.006,0.004
+"Inhalt des Handbuchs",87.650,2,1,87.006,0.004
+"Kopie Freier Software",87.650,2,1,87.006,0.004
+"freizügige Lizenz",87.650,2,1,87.006,0.004
+"unfreie Lizenz",87.650,2,1,87.006,0.004
+"neuer Compiler",87.310,2,2,87.006,0.009
+"eigene Datenverarbeitung",87.310,2,2,87.006,0.009
+"Quellcode des Programms",87.310,2,2,87.006,0.009
+"freies Softwarepaket",87.310,2,2,87.006,0.009
+"kommerzielle Entwicklung",86.960,2,3,87.006,0.013
+"bestimmte Lizenz",86.530,2,4,87.006,0.017
+"pädagogisches Werk",86.530,2,4,87.006,0.017
+"vorhandener Modul",86.190,2,5,87.006,0.022
+"freier Treiber",86.190,2,5,87.006,0.022
+"moralische Entscheidung",85.110,2,8,87.006,0.035
+"egoistischer Grund",85.110,2,8,87.006,0.035
+"fehlende Komponente",84.780,2,9,87.006,0.039
+"genutztes Programm",84.780,2,9,87.006,0.039
+"Richard Stallman",84.050,2,11,87.006,0.048
+"Teil der Aufgabe",84.050,2,11,87.006,0.048
+"Free Software",83.730,2,12,87.006,0.052
+"sozialer Beitrag",83.340,2,13,87.006,0.056
+"gemachte Änderung",83.340,2,13,87.006,0.056
+"nützliche Software",82.320,2,16,87.006,0.069
+"technischer Vorteil",81.040,2,20,87.006,0.086
+"Zukunft der Gesellschaft",81.040,2,20,87.006,0.086
+"exakte Kopie",79.790,2,24,87.006,0.104
+"technischer Inhalt",78.580,2,28,87.006,0.121
+"Anzahl der Nutzer",72.370,2,50,87.006,0.216
+"andere Bibliothek",68.270,2,67,87.006,0.289
+"großer Mangel",68.270,2,67,87.006,0.289
+"eigener Zweck",67.580,3,219,130.509,0.946
+"gedrucktes Exemplar",67.390,2,71,87.006,0.307
+"bestimmter Grund",59.660,2,110,87.006,0.475
+"geistiges Eigentum",57.790,6,818,261.017,3.534
+"einziger Weg",56.950,3,303,130.509,1.309
+"neue Hardware",56.520,2,129,87.006,0.557
+"neuer Benutzer",55.910,2,133,87.006,0.575
+"große Sammlung",50.750,2,170,87.006,0.734
+"goldene Regel",45.040,2,221,87.006,0.955
+"mögliche 8-bit-codes",44.500,1,0,43.503,0.000
+"Bourne Again",44.500,1,0,43.503,0.000
+"Akt der Freundschaft",44.500,1,0,43.503,0.000
+"unproduktive Aktivität",44.500,1,0,43.503,0.000
+"Jahr Algorithmus",44.500,1,0,43.503,0.000
+"geeignete Alias-funktion",44.500,1,0,43.503,0.000
+"Androhung einer Patentklage",44.500,1,0,43.503,0.000
+"Anfang eines Schemas",44.500,1,0,43.503,0.000
+"unabdingbare Anforderung",44.500,1,0,43.503,0.000
+"unbeantwortetes Anliegen",44.500,1,0,43.503,0.000
+"nachträgliche Anmerkung",44.500,1,0,43.503,0.000
+"Annahme des Fragestellers",44.500,1,0,43.503,0.000
+"dritte Annahme",44.500,1,0,43.503,0.000
+"gehaltene Annahme",44.500,1,0,43.503,0.000
+"weite unausgesprochene Annahme",44.500,1,0,43.503,0.000
+"unmoralischer Ansatz",44.500,1,0,43.503,0.000
+"Anschauung der Freie-software-bewegung",44.500,1,0,43.503,0.000
+"reduzierter finanzieller Ansporn",44.500,1,0,43.503,0.000
+"unerschütterliche Anstrengung",44.500,1,0,43.503,0.000
+"benutzerorientierte Anwendung",44.500,1,0,43.503,0.000
+"terminalunabhängige Anzeigeunterstützung",44.500,1,0,43.503,0.000
+"verteilte Arbeit",44.500,1,0,43.503,0.000
+"Art Angeblicher Rechte",44.500,1,0,43.503,0.000
+"Art der Modifizierung",44.500,1,0,43.503,0.000
+"Art des Copyleft",44.500,1,0,43.503,0.000
+"Aufgabe des Unix-betriebssystemkerns",44.500,1,0,43.503,0.000
+"durchführbare Aufgabe",44.500,1,0,43.503,0.000
+"allgemeine Aufgabenliste",44.500,1,0,43.503,0.000
+"Aufhebung der Alten Lizenz",44.500,1,0,43.503,0.000
+"wahrhafte Aufrichtigkeit",44.500,1,0,43.503,0.000
+"Aufwand eines Lizenzvertrages",44.500,1,0,43.503,0.000
+"triviale Ausfuhrbestimmung",44.500,1,0,43.503,0.000
+"staatliche Ausfuhrkontrollbestimmung",44.500,1,0,43.503,0.000
+"ganze Ausgabedatei",44.500,1,0,43.503,0.000
+"Ausnahme einer Bestimmten Situation",44.500,1,0,43.503,0.000
+"Ausstattung der Arbeitsumgebung",44.500,1,0,43.503,0.000
+"Ausuferung Verschiedener Freier Softwarelizenzen",44.500,1,0,43.503,0.000
+"überschaubare Ausuferung",44.500,1,0,43.503,0.000
+"Autor der Guten Handbücher",44.500,1,0,43.503,0.000
+"freies Bios",44.500,1,0,43.503,0.000
+"Bandbreite Möglicher Beschränkungen",44.500,1,0,43.503,0.000
+"übliche Basis",44.500,1,0,43.503,0.000
+"falsche Bedeutung",44.500,1,0,43.503,0.000
+"Bedingung der Lizenz",44.500,1,0,43.503,0.000
+"genutzter Befehlszeileninterpreter",44.500,1,0,43.503,0.000
+"Befürworter der Freien Marktwirtschaft",44.500,1,0,43.503,0.000
+"Begrenzung des Preises",44.500,1,0,43.503,0.000
+"Beispiel eines Saass-übersetzungsdienstes",44.500,1,0,43.503,0.000
+"nicht-finanzielle Belohnung",44.500,1,0,43.503,0.000
+"Benutzen Unfreier Software",44.500,1,0,43.503,0.000
+"Produkt Benutzer",44.500,1,0,43.503,0.000
+"besonderer Benutzer",44.500,1,0,43.503,0.000
+"grafische Benutzeroberflächen-umgebung",44.500,1,0,43.503,0.000
+"unfreie grafische Benutzerschnittstelle",44.500,1,0,43.503,0.000
+"Benutzung eines Rechners",44.500,1,0,43.503,0.000
+"Berechnung der Luft",44.500,1,0,43.503,0.000
+"Berechtigung Beschränkung",44.500,1,0,43.503,0.000
+"Beschränkung eines Programms",44.500,1,0,43.503,0.000
+"Betriebssystem eines Rechners",44.500,1,0,43.503,0.000
+"installierbares freies Betriebssystem",44.500,1,0,43.503,0.000
+"anderer Betriebssystemkern",44.500,1,0,43.503,0.000
+"Bewusstsein der Philosophie",44.500,1,0,43.503,0.000
+"bestimmte proprietäre Bibliothek",44.500,1,0,43.503,0.000
+"fehlende Bibliothek",44.500,1,0,43.503,0.000
+"jedwede Bibliothek",44.500,1,0,43.503,0.000
+"nahe verlockende unfreie Bibliothek",44.500,1,0,43.503,0.000
+"verlockende unfreie Bibliothek",44.500,1,0,43.503,0.000
+"Buch Hackers",44.500,1,0,43.503,0.000
+"Michael Bushnell",44.500,1,0,43.503,0.000
+"Thomas Bushnell",44.500,1,0,43.503,0.000
+"einzige C-bibliothek",44.500,1,0,43.503,0.000
+"optimierender C-compiler",44.500,1,0,43.503,0.000
+"Ceteris Paribus",44.500,1,0,43.503,0.000
+"verschleierter Code",44.500,1,0,43.503,0.000
+"portables Common",44.500,1,0,43.503,0.000
+"GNUer Compiler",44.500,1,0,43.503,0.000
+"Pastler Compiler",44.500,1,0,43.503,0.000
+"ganzer Compiler",44.500,1,0,43.503,0.000
+"effektives Copyleft",44.500,1,0,43.503,0.000
+"einfaches Copyleft",44.500,1,0,43.503,0.000
+"Copyright-hinweis des Originalautors",44.500,1,0,43.503,0.000
+"Copyright-hinweis des Ursprünglichen Autors",44.500,1,0,43.503,0.000
+"Copyrightinhaber des Hinzuzufügenden Quellcodes",44.500,1,0,43.503,0.000
+"absturzsicheres Dateisystem",44.500,1,0,43.503,0.000
+"eigene Datenverarbeitungbedürfnisse",44.500,1,0,43.503,0.000
+"eigene Datenverarbeitungsaufgabe",44.500,1,0,43.503,0.000
+"Daumen des Unternehmens",44.500,1,0,43.503,0.000
+"praktische Definition",44.500,1,0,43.503,0.000
+"gegenseitige Destruktivität",44.500,1,0,43.503,0.000
+"Digital Pdp-10",44.500,1,0,43.503,0.000
+"freie Distribution",44.500,1,0,43.503,0.000
+"Dokumentation Freier Software",44.500,1,0,43.503,0.000
+"Durchsetzung der Gpl",44.500,1,0,43.503,0.000
+"Eigentümer Proprietärer Software",44.500,1,0,43.503,0.000
+"Einführung einer Lizenzänderung",44.500,1,0,43.503,0.000
+"Einhaltung einer Lizenz",44.500,1,0,43.503,0.000
+"Einhaltung einer Unfreien Lizenz",44.500,1,0,43.503,0.000
+"Einnahme der Fsf",44.500,1,0,43.503,0.000
+"Einrichtung des Labors",44.500,1,0,43.503,0.000
+"entkräftender Einwand",44.500,1,0,43.503,0.000
+"weiter häufiger Einwand",44.500,1,0,43.503,0.000
+"Ende einer Vertraulichkeitsvereinbarung",44.500,1,0,43.503,0.000
+"empfangendes Ende",44.500,1,0,43.503,0.000
+"Energie der Arbeit",44.500,1,0,43.503,0.000
+"ausreichende Entschlossenheit",44.500,1,0,43.503,0.000
+"Entwickeln Freier Software",44.500,1,0,43.503,0.000
+"proprietärer Entwickler",44.500,1,0,43.503,0.000
+"Entwicklung Freier Anwendungen",44.500,1,0,43.503,0.000
+"Entwicklung des Freien Betriebssystems",44.500,1,0,43.503,0.000
+"Entwicklung eines Freien Ersatzes",44.500,1,0,43.503,0.000
+"Entwicklung eines Ganzen Systems",44.500,1,0,43.503,0.000
+"kompatibler Ersatz",44.500,1,0,43.503,0.000
+"kompatible Ersatzbibliothek",44.500,1,0,43.503,0.000
+"ebensolche Erwähnung",44.500,1,0,43.503,0.000
+"kantische Ethik",44.500,1,0,43.503,0.000
+"Exemplar eines Freien Handbuchs",44.500,1,0,43.503,0.000
+"Ftp-server des Mit",44.500,1,0,43.503,0.000
+"anonymer Ftp-server",44.500,1,0,43.503,0.000
+"neuer Ftp-server",44.500,1,0,43.503,0.000
+"wichtige Ftp-vertriebsseite",44.500,1,0,43.503,0.000
+"Fall eines Nutzers",44.500,1,0,43.503,0.000
+"ausschreitender Fall",44.500,1,0,43.503,0.000
+"Lisp-basiertes Fenstersystem",44.500,1,0,43.503,0.000
+"anderes Fenstersystem",44.500,1,0,43.503,0.000
+"allgegenwärtige Fernsehkamera",44.500,1,0,43.503,0.000
+"Flexibilität des Konzepts",44.500,1,0,43.503,0.000
+"Form des Indirekten Schadens",44.500,1,0,43.503,0.000
+"Fortschreiten des Gnu-projekts",44.500,1,0,43.503,0.000
+"Begriff Freeware",44.500,1,0,43.503,0.000
+"anderer Freie-software-entwickler",44.500,1,0,43.503,0.000
+"weite Freie-software-entwicklung",44.500,1,0,43.503,0.000
+"große Freie-software-gemeinschaft",44.500,1,0,43.503,0.000
+"neues Freie-software-produkt",44.500,1,0,43.503,0.000
+"einzelnes Freie-software-projekt",44.500,1,0,43.503,0.000
+"umfangreiche Freie-software-sammlung",44.500,1,0,43.503,0.000
+"Freie-software-welt der Freien Software",44.500,1,0,43.503,0.000
+"Freigabe der Eigenen Geänderten Version",44.500,1,0,43.503,0.000
+"Freigabe der Änderungen",44.500,1,0,43.503,0.000
+"Freigabe des Quellcodes",44.500,1,0,43.503,0.000
+"Freiheit Bedeutsamen Ziels",44.500,1,0,43.503,0.000
+"Freiheit des Durchschnittlichen X11-benutzer",44.500,1,0,43.503,0.000
+"Programm Freiheit",44.500,1,0,43.503,0.000
+"andere wesentliche Freiheit",44.500,1,0,43.503,0.000
+"zukünftige Freiheit",44.500,1,0,43.503,0.000
+"bösartige Funktion",44.500,1,0,43.503,0.000
+"verschiedene bösartige Funktion",44.500,1,0,43.503,0.000
+"Funktionalität des Programm",44.500,1,0,43.503,0.000
+"Förderung der Urheberschaft",44.500,1,0,43.503,0.000
+"komprimierte Gif-datei",44.500,1,0,43.503,0.000
+"freies Gnu-handbuch",44.500,1,0,43.503,0.000
+"nachstehendes Gnu-manifest",44.500,1,0,43.503,0.000
+"Gnu-paket der Freie-software-gemeinschaft",44.500,1,0,43.503,0.000
+"einsatzfähiges Gnu-system",44.500,1,0,43.503,0.000
+"fertiges Gnu-system",44.500,1,0,43.503,0.000
+"funktionierendes Gnu-system",44.500,1,0,43.503,0.000
+"gesamtes Gnu-system",44.500,1,0,43.503,0.000
+"komplettes Gnu-system",44.500,1,0,43.503,0.000
+"Gnu C-compilers",44.500,1,0,43.503,0.000
+"Gnu Emacs",44.500,1,0,43.503,0.000
+"Linux Gnu",44.500,1,0,43.503,0.000
+"freies Gnu",44.500,1,0,43.503,0.000
+"ganze Gnu",44.500,1,0,43.503,0.000
+"gewöhnliche Gnu",44.500,1,0,43.503,0.000
+"gebührenpflichtige Gasmaske",44.500,1,0,43.503,0.000
+"vorhandene Gastfreundlichkeit",44.500,1,0,43.503,0.000
+"Gebiet der Softwareentwicklung",44.500,1,0,43.503,0.000
+"Gebrauch des Druckers",44.500,1,0,43.503,0.000
+"Gebrauch eines Programms",44.500,1,0,43.503,0.000
+"Geheimhalt der Spezifikationen",44.500,1,0,43.503,0.000
+"Geist des Prinzips",44.500,1,0,43.503,0.000
+"Reilly Geld",44.500,1,0,43.503,0.000
+"Gemeinschaft der Nutzer",44.500,1,0,43.503,0.000
+"entvölkerte Gemeinschaft",44.500,1,0,43.503,0.000
+"erste Software-teilende Gemeinschaft",44.500,1,0,43.503,0.000
+"rechnernutzende Gemeinschaft",44.500,1,0,43.503,0.000
+"zusammenarbeitende Gemeinschaft",44.500,1,0,43.503,0.000
+"häufiges Geschäftsmodell",44.500,1,0,43.503,0.000
+"bestimmte weitverbreitete Geschäftspraxis",44.500,1,0,43.503,0.000
+"weitverbreitete Geschäftspraxis",44.500,1,0,43.503,0.000
+"verschiedenes unterschiedliches Gesetz",44.500,1,0,43.503,0.000
+"entscheidendes Glücksgefühl",44.500,1,0,43.503,0.000
+"Gnade Einzelner Programmierer",44.500,1,0,43.503,0.000
+"Grundlage des Gesunden Menschenverstandes",44.500,1,0,43.503,0.000
+"andere organisatorische Grundlage",44.500,1,0,43.503,0.000
+"feste Größenbegrenzung",44.500,1,0,43.503,0.000
+"willkürliche feste Größenbegrenzung",44.500,1,0,43.503,0.000
+"Gnu Hurd",44.500,1,0,43.503,0.000
+"Gnu Hacker",44.500,1,0,43.503,0.000
+"zusammenarbeitender Hacker",44.500,1,0,43.503,0.000
+"einführendes Handbuch",44.500,1,0,43.503,0.000
+"gutes einführendes Handbuch",44.500,1,0,43.503,0.000
+"unfreies Handbuch",44.500,1,0,43.503,0.000
+"vollständiges Handbuch",44.500,1,0,43.503,0.000
+"Hardware Hardwarehersteller",44.500,1,0,43.503,0.000
+"Hauptentwickler des Systemkerns",44.500,1,0,43.503,0.000
+"Herde Gnus",44.500,1,0,43.503,0.000
+"Hilfe der Cvsweb-oberflächezu",44.500,1,0,43.503,0.000
+"universelle Hintertüre",44.500,1,0,43.503,0.000
+"Hinzufügen Neuer Programmfunktionen",44.500,1,0,43.503,0.000
+"Hinzufügen Weiterer Freier Software",44.500,1,0,43.503,0.000
+"Hälfte der Programmierer",44.500,1,0,43.503,0.000
+"Idee des Urheberrechts",44.500,1,0,43.503,0.000
+"verführerische Illusion",44.500,1,0,43.503,0.000
+"Instrument Ungerechter Macht",44.500,1,0,43.503,0.000
+"Instrument der Ungerechten Macht",44.500,1,0,43.503,0.000
+"Internet der Schnüffler",44.500,1,0,43.503,0.000
+"Internet der Telefonverkäufer",44.500,1,0,43.503,0.000
+"Jahr des Mauerbauens",44.500,1,0,43.503,0.000
+"versiegelter Kasten",44.500,1,0,43.503,0.000
+"Compiler Kit",44.500,1,0,43.503,0.000
+"geringfügige Klarstellung",44.500,1,0,43.503,0.000
+"weite geringfügige Klarstellung",44.500,1,0,43.503,0.000
+"Kombination eines Freien Programms",44.500,1,0,43.503,0.000
+"hinzugefügter Kommentar",44.500,1,0,43.503,0.000
+"genaue Kommunikation",44.500,1,0,43.503,0.000
+"Komplexität der Gnu",44.500,1,0,43.503,0.000
+"Komponente des Gnu-systems",44.500,1,0,43.503,0.000
+"einzige große fehlende Komponente",44.500,1,0,43.503,0.000
+"große fehlende Komponente",44.500,1,0,43.503,0.000
+"enstehende Konsequenz",44.500,1,0,43.503,0.000
+"Kontrolle des Serverbetreibers",44.500,1,0,43.503,0.000
+"kollektive Kontrolle",44.500,1,0,43.503,0.000
+"fähigkeitsbasiertes Konzept",44.500,1,0,43.503,0.000
+"Kopie Eigener Modifizierter Versionen",44.500,1,0,43.503,0.000
+"Kopie eines Freien Programms",44.500,1,0,43.503,0.000
+"Kopieren eines Programms",44.500,1,0,43.503,0.000
+"eingeschränktes Kopieren",44.500,1,0,43.503,0.000
+"Kriterium eines Freien Handbuchs",44.500,1,0,43.503,0.000
+"außergewöhnliche Kühlung",44.500,1,0,43.503,0.000
+"Livermore Laboratory",44.500,1,0,43.503,0.000
+"Leiter des Mit",44.500,1,0,43.503,0.000
+"Gnu Library",44.500,1,0,43.503,0.000
+"Library Gpl",44.500,1,0,43.503,0.000
+"Gnu Linux-libre-betriebssystemkern",44.500,1,0,43.503,0.000
+"Liste der Verbleibenden Lücken",44.500,1,0,43.503,0.000
+"Lizenz eines Anderen Programms",44.500,1,0,43.503,0.000
+"Lizenz eines Unfreien Programms",44.500,1,0,43.503,0.000
+"auftragsbezogene Lizenz",44.500,1,0,43.503,0.000
+"betreffende Lizenz",44.500,1,0,43.503,0.000
+"einfache freizügige Lizenz",44.500,1,0,43.503,0.000
+"geregelte Lizenz",44.500,1,0,43.503,0.000
+"nachträgliche Lizenzänderung",44.500,1,0,43.503,0.000
+"komprimiertes Mp3-audio",44.500,1,0,43.503,0.000
+"Macht der Entwickler",44.500,1,0,43.503,0.000
+"Gnu Make",44.500,1,0,43.503,0.000
+"Mangel Bestimmter Fähigkeiten",44.500,1,0,43.503,0.000
+"Roland Mcgrath",44.500,1,0,43.503,0.000
+"schwerfälliger Mechanismus",44.500,1,0,43.503,0.000
+"unfreies Mehrbenutzer-betriebssystem",44.500,1,0,43.503,0.000
+"Menge Nützlicher Software",44.500,1,0,43.503,0.000
+"Mitbringen Proprietärer Software",44.500,1,0,43.503,0.000
+"Mitteilung einer Urheberrechtsverletzung",44.500,1,0,43.503,0.000
+"destruktives Mittel",44.500,1,0,43.503,0.000
+"eigene Modifikation",44.500,1,0,43.503,0.000
+"proprietäre Modifikation",44.500,1,0,43.503,0.000
+"eigene Modifizierung",44.500,1,0,43.503,0.000
+"lizenzierter Modul",44.500,1,0,43.503,0.000
+"lizenzierter vorhandener Modul",44.500,1,0,43.503,0.000
+"auferlegtes Monopol",44.500,1,0,43.503,0.000
+"Problem Motif",44.500,1,0,43.503,0.000
+"nahes Motif",44.500,1,0,43.503,0.000
+"Möglichkeit der Freigabe",44.500,1,0,43.503,0.000
+"Nachfrage Früherer Entwickler",44.500,1,0,43.503,0.000
+"C-bibliothek Nachricht",44.500,1,0,43.503,0.000
+"Name Hurd",44.500,1,0,43.503,0.000
+"Name der Gnu-programme",44.500,1,0,43.503,0.000
+"Name der Modifizierten Version",44.500,1,0,43.503,0.000
+"Name des Originalprogramms",44.500,1,0,43.503,0.000
+"allgemeines Namensmuster",44.500,1,0,43.503,0.000
+"Commons Namensnennung-keine",44.500,1,0,43.503,0.000
+"Nutzer eines Programms",44.500,1,0,43.503,0.000
+"Nutzung des Gnu-systems",44.500,1,0,43.503,0.000
+"Nutzung eines Programms",44.500,1,0,43.503,0.000
+"Nutzungsbedingung des Programms",44.500,1,0,43.503,0.000
+"Large Objects",44.500,1,0,43.503,0.000
+"selbener schlechter Ort",44.500,1,0,43.503,0.000
+"Pdp-10 Emacs",44.500,1,0,43.503,0.000
+"neuer Pdp-10",44.500,1,0,43.503,0.000
+"ursprünglicher Pdp-10",44.500,1,0,43.503,0.000
+"freiheitsentziehendes Paket",44.500,1,0,43.503,0.000
+"Yacc-kompatibler Parsergenerator",44.500,1,0,43.503,0.000
+"Pastel Compilers",44.500,1,0,43.503,0.000
+"Philosophie des Gnu-projekts",44.500,1,0,43.503,0.000
+"selbstzerstörerische Politik",44.500,1,0,43.503,0.000
+"Popularität Freier Software",44.500,1,0,43.503,0.000
+"Portierung des Betriebssystems",44.500,1,0,43.503,0.000
+"Preis der Quelltexte",44.500,1,0,43.503,0.000
+"schlüssiges Problem",44.500,1,0,43.503,0.000
+"subtiles Problem",44.500,1,0,43.503,0.000
+"verschiedenes praktisches Problem",44.500,1,0,43.503,0.000
+"Programm der Nutzer",44.500,1,0,43.503,0.000
+"geändertes Programm",44.500,1,0,43.503,0.000
+"unbekanntes interessantes Programm",44.500,1,0,43.503,0.000
+"neue Programmfunktion",44.500,1,0,43.503,0.000
+"echte Programmierarbeit",44.500,1,0,43.503,0.000
+"Verdienen Programmierer",44.500,1,0,43.503,0.000
+"ahnungsloser Programmierer",44.500,1,0,43.503,0.000
+"anderer ahnungsloser Programmierer",44.500,1,0,43.503,0.000
+"ungarischer Programmierer",44.500,1,0,43.503,0.000
+"einsetzbare Programmversion",44.500,1,0,43.503,0.000
+"modifizierte Programmversion",44.500,1,0,43.503,0.000
+"Projekt Hoher Priorität",44.500,1,0,43.503,0.000
+"Projekt einer Grafischen Benutzeroberflächen-umgebung",44.500,1,0,43.503,0.000
+"entsprechender vollständiger Quellcode",44.500,1,0,43.503,0.000
+"hinzuzufügender Quellcode",44.500,1,0,43.503,0.000
+"unfreier Quellcode",44.500,1,0,43.503,0.000
+"Quelltext des Systems",44.500,1,0,43.503,0.000
+"notwendiger Quelltext",44.500,1,0,43.503,0.000
+"Gnu Readline",44.500,1,0,43.503,0.000
+"entschiedene Reaktion",44.500,1,0,43.503,0.000
+"Rechner einer Anderen Person",44.500,1,0,43.503,0.000
+"gespendeter Rechner",44.500,1,0,43.503,0.000
+"verschiedene Rechnerfirma",44.500,1,0,43.503,0.000
+"intrinsisches Recht",44.500,1,0,43.503,0.000
+"unbestreitbares natürliches Recht",44.500,1,0,43.503,0.000
+"solche Rechtfertigung",44.500,1,0,43.503,0.000
+"Redistribution des Programms",44.500,1,0,43.503,0.000
+"rückwirkende Restriktion",44.500,1,0,43.503,0.000
+"übertriebene Restriktion",44.500,1,0,43.503,0.000
+"Richtung einer Welt",44.500,1,0,43.503,0.000
+"Ruf des Gnu-projekts",44.500,1,0,43.503,0.000
+"Sammlung Gpl-lizenzierter",44.500,1,0,43.503,0.000
+"Schaffen einer Neuen Software",44.500,1,0,43.503,0.000
+"einziger vorhandener Schiedsrichter",44.500,1,0,43.503,0.000
+"vorhandener Schiedsrichter",44.500,1,0,43.503,0.000
+"Schlussfolgerung des Punktes",44.500,1,0,43.503,0.000
+"Schreiben Innovativer Programme",44.500,1,0,43.503,0.000
+"Bildung Schule",44.500,1,0,43.503,0.000
+"Liebe Schülerschaft",44.500,1,0,43.503,0.000
+"Sinn des Gnu-projektes",44.500,1,0,43.503,0.000
+"unfreie Skype-client-software",44.500,1,0,43.503,0.000
+"Ausdruck Software",44.500,1,0,43.503,0.000
+"Software Teilenden Gemeinschaft",44.500,1,0,43.503,0.000
+"Software der Freiheit",44.500,1,0,43.503,0.000
+"andere nützliche Software",44.500,1,0,43.503,0.000
+"andere verfügbare freie Software",44.500,1,0,43.503,0.000
+"benutzerdefinierte Software",44.500,1,0,43.503,0.000
+"benötigte freie Software",44.500,1,0,43.503,0.000
+"entscheidende Software",44.500,1,0,43.503,0.000
+"freie kommerzielle Software",44.500,1,0,43.503,0.000
+"geheime Software",44.500,1,0,43.503,0.000
+"geschäftliche Software",44.500,1,0,43.503,0.000
+"kommerzielle freie Software",44.500,1,0,43.503,0.000
+"neue freie Software",44.500,1,0,43.503,0.000
+"verfügbare freie Software",44.500,1,0,43.503,0.000
+"verfügbare proprietäre Software",44.500,1,0,43.503,0.000
+"verkaufte freie Software",44.500,1,0,43.503,0.000
+"verschiedene andere nützliche Software",44.500,1,0,43.503,0.000
+"aktuelle Softwareaufgabe",44.500,1,0,43.503,0.000
+"benutzerdefiniertes Softwaregeschäft",44.500,1,0,43.503,0.000
+"gleiche Softwarekategorie",44.500,1,0,43.503,0.000
+"anderes Softwarekategorien",44.500,1,0,43.503,0.000
+"bestimmte Softwarelizenz",44.500,1,0,43.503,0.000
+"verschiedene freie Softwarelizenz",44.500,1,0,43.503,0.000
+"vorhandene freie Softwarelizenz",44.500,1,0,43.503,0.000
+"proprietäres Softwarepaket",44.500,1,0,43.503,0.000
+"einzelnes Softwareprogramm",44.500,1,0,43.503,0.000
+"ganze Softwaresammlung",44.500,1,0,43.503,0.000
+"unixoides Softwaresystem",44.500,1,0,43.503,0.000
+"bereitgestellte Softwareversion",44.500,1,0,43.503,0.000
+"proprietäre Softwarewelt",44.500,1,0,43.503,0.000
+"kleine Speichergröße",44.500,1,0,43.503,0.000
+"Spektrum Verschiedener Möglicher Spiele",44.500,1,0,43.503,0.000
+"verschiedenes mögliches Spiel",44.500,1,0,43.503,0.000
+"Spionagagentur der Us-regierung",44.500,1,0,43.503,0.000
+"digitale Spionagagentur",44.500,1,0,43.503,0.000
+"andere bedrohte Stadt",44.500,1,0,43.503,0.000
+"32-Bit-Rechner Standard",44.500,1,0,43.503,0.000
+"Standard Guter Praxis",44.500,1,0,43.503,0.000
+"Steuerelement des X-werkzeugsatzes",44.500,1,0,43.503,0.000
+"freies Steuerelement",44.500,1,0,43.503,0.000
+"gesamter Steuersatz",44.500,1,0,43.503,0.000
+"gesamter Syntaxbaum",44.500,1,0,43.503,0.000
+"gebrauchsfertiges System",44.500,1,0,43.503,0.000
+"unixartiges System",44.500,1,0,43.503,0.000
+"angestellter Systemhacker",44.500,1,0,43.503,0.000
+"Unix-kompatibler Systemkern",44.500,1,0,43.503,0.000
+"anfänglicher Systemkern",44.500,1,0,43.503,0.000
+"benannter Systemkern",44.500,1,0,43.503,0.000
+"gute Systemsoftware",44.500,1,0,43.503,0.000
+"Gnu Tar",44.500,1,0,43.503,0.000
+"Teil Freier Software",44.500,1,0,43.503,0.000
+"Teil der Freie-software-bewegung",44.500,1,0,43.503,0.000
+"Teil der Größeren Freie-software-gemeinschaft",44.500,1,0,43.503,0.000
+"Teil des Systemkerns",44.500,1,0,43.503,0.000
+"Teil einer Software-teilenden Gemeinschaft",44.500,1,0,43.503,0.000
+"Teil eines Freien Betriebssystems",44.500,1,0,43.503,0.000
+"unfreier Teil",44.500,1,0,43.503,0.000
+"perverse Terminologie",44.500,1,0,43.503,0.000
+"praktizierende perverse Terminologie",44.500,1,0,43.503,0.000
+"rechtliche Tradition",44.500,1,0,43.503,0.000
+"gutes pädagogisches Umfeld",44.500,1,0,43.503,0.000
+"Umsetzung des Copyleft",44.500,1,0,43.503,0.000
+"sekundäre Ungerechtigkeit",44.500,1,0,43.503,0.000
+"vorheriges Ungleichgewicht",44.500,1,0,43.503,0.000
+"einzelnes Unix-dienstprogramm",44.500,1,0,43.503,0.000
+"fehlender Unix-komponenten",44.500,1,0,43.503,0.000
+"gewöhnliches Unix-programm",44.500,1,0,43.503,0.000
+"Schreiben Unix-system",44.500,1,0,43.503,0.000
+"komplettes Unix-system",44.500,1,0,43.503,0.000
+"unfreies Unix-system",44.500,1,0,43.503,0.000
+"proprietäres Unix-systemen",44.500,1,0,43.503,0.000
+"Unternehmen Symbolics",44.500,1,0,43.503,0.000
+"freie Unterroutine",44.500,1,0,43.503,0.000
+"verfügbare freie Unterroutine",44.500,1,0,43.503,0.000
+"Unterstützung des Betriebssystems",44.500,1,0,43.503,0.000
+"Unterstützung des Geschäfts",44.500,1,0,43.503,0.000
+"gemeinsamer Upstream",44.500,1,0,43.503,0.000
+"distribuierte Variante",44.500,1,0,43.503,0.000
+"Verbesserung der Öffentlichkeit",44.500,1,0,43.503,0.000
+"gebräuchliche Verbesserung",44.500,1,0,43.503,0.000
+"Verbot einer Modifizierung",44.500,1,0,43.503,0.000
+"Verbreitung Modifizierter Versionen",44.500,1,0,43.503,0.000
+"Verkauf Freier Handbücher",44.500,1,0,43.503,0.000
+"Verkauf eines Betriebssystems",44.500,1,0,43.503,0.000
+"proprietäre Verlagspraktik",44.500,1,0,43.503,0.000
+"Verleger Proprietärer Handbücher",44.500,1,0,43.503,0.000
+"kommerzieller Verleger",44.500,1,0,43.503,0.000
+"derzeitige Vermarktungspraktik",44.500,1,0,43.503,0.000
+"beliebte unfreie Verschlüsselungssoftware",44.500,1,0,43.503,0.000
+"unfreie Verschlüsselungssoftware",44.500,1,0,43.503,0.000
+"Version des Gnu-systems",44.500,1,0,43.503,0.000
+"Version eines Dritten",44.500,1,0,43.503,0.000
+"distribuierte Version",44.500,1,0,43.503,0.000
+"große kombinierte Version",44.500,1,0,43.503,0.000
+"unmodifizierte Version",44.500,1,0,43.503,0.000
+"verschiedene inkompatible Version",44.500,1,0,43.503,0.000
+"Versuch eines Angriffs",44.500,1,0,43.503,0.000
+"geschäftlicher Vertrieb",44.500,1,0,43.503,0.000
+"Vertriebsbedingung der Gnu",44.500,1,0,43.503,0.000
+"Vertriebsbedingung des Mit",44.500,1,0,43.503,0.000
+"Vertriebsbedingung eines Handbuchs",44.500,1,0,43.503,0.000
+"eigene Vertriebsbedingung",44.500,1,0,43.503,0.000
+"Vertriebsgeschäft der Emacs-magnetbänder",44.500,1,0,43.503,0.000
+"unfreies Vertriebsschema",44.500,1,0,43.503,0.000
+"verschiedenes unfreies Vertriebsschema",44.500,1,0,43.503,0.000
+"fürchterliche Verwechselung",44.500,1,0,43.503,0.000
+"Begriff Verwechslungsgefahr",44.500,1,0,43.503,0.000
+"Verwendung Eigener Ideen",44.500,1,0,43.503,0.000
+"Vorläufer der Unternehmen",44.500,1,0,43.503,0.000
+"Wort Vorteil",44.500,1,0,43.503,0.000
+"Votum der Steuerzahler",44.500,1,0,43.503,0.000
+"Wahl des Anwendbaren Rechts",44.500,1,0,43.503,0.000
+"Weise des Üblichen Zwecks",44.500,1,0,43.503,0.000
+"verschwörerische Weise",44.500,1,0,43.503,0.000
+"Weitergabe Exakter Kopien",44.500,1,0,43.503,0.000
+"freies kulturelles Werk",44.500,1,0,43.503,0.000
+"nicht-fiktionales Werk",44.500,1,0,43.503,0.000
+"Wert der Freie-software-bewegung",44.500,1,0,43.503,0.000
+"Wichtigkeit der Freiheit",44.500,1,0,43.503,0.000
+"Windows-programmfehler der Nsa",44.500,1,0,43.503,0.000
+"Professor Winston",44.500,1,0,43.503,0.000
+"Wirksamkeit des Bazaar-entwicklungsmodells",44.500,1,0,43.503,0.000
+"Wochenstunde Notwendiger Aufgaben",44.500,1,0,43.503,0.000
+"andere Wortwahl",44.500,1,0,43.503,0.000
+"durchschnittlicher X11-benutzer",44.500,1,0,43.503,0.000
+"amerikanischer Zeitvertreib",44.500,1,0,43.503,0.000
+"traditioneller amerikanischer Zeitvertreib",44.500,1,0,43.503,0.000
+"zulässiges Ziel",44.500,1,0,43.503,0.000
+"Zugänglichkeit des Quellcodes",44.500,1,0,43.503,0.000
+"Zurückweise Unfreier Software",44.500,1,0,43.503,0.000
+"Zusammenbruch der Gemeinschaft",44.500,1,0,43.503,0.000
+"Zusammenführung der Verfügbaren Freien Unterroutinen",44.500,1,0,43.503,0.000
+"üblicher Zweck",44.500,1,0,43.503,0.000
+"Zweckmäßigkeit des Programm",44.500,1,0,43.503,0.000
+"Apple Idinger",44.500,1,0,43.503,0.000
+"Änderung der Lizenz",44.500,1,0,43.503,0.000
+"gerechtfertigtes Übel",44.500,1,0,43.503,0.000
+"kompletter Abschnitt",44.320,1,1,43.503,0.004
+"fundamentaler Akt",44.320,1,1,43.503,0.004
+"produktive Aktivität",44.320,1,1,43.503,0.004
+"derartige Alternative",44.320,1,1,43.503,0.004
+"proprietäre Anwendung",44.320,1,1,43.503,0.004
+"solidees Arbeit",44.320,1,1,43.503,0.004
+"Art der Handlung",44.320,1,1,43.503,0.004
+"Aufgabe des Übersetzens",44.320,1,1,43.503,0.004
+"kleine Benutzergruppe",44.320,1,1,43.503,0.004
+"besteuernder Betrag",44.320,1,1,43.503,0.004
+"Betrieb des Rechners",44.320,1,1,43.503,0.004
+"Code des Betriebssystems",44.320,1,1,43.503,0.004
+"Entwickler Freier Software",44.320,1,1,43.503,0.004
+"Entwickler Proprietärer Software",44.320,1,1,43.503,0.004
+"Entwicklung des Betriebssystems",44.320,1,1,43.503,0.004
+"gleiche Fassung",44.320,1,1,43.503,0.004
+"Frage der Rechte",44.320,1,1,43.503,0.004
+"entscheidende Freiheit",44.320,1,1,43.503,0.004
+"Library Gpl",44.320,1,1,43.503,0.004
+"teilende Gemeinschaft",44.320,1,1,43.503,0.004
+"weites Handbuch",44.320,1,1,43.503,0.004
+"geheime Hardware",44.320,1,1,43.503,0.004
+"gute Konsequenz",44.320,1,1,43.503,0.004
+"ausführbare Kopie",44.320,1,1,43.503,0.004
+"gemachte Kopie",44.320,1,1,43.503,0.004
+"Binary Large",44.320,1,1,43.503,0.004
+"verbrauchter Liter",44.320,1,1,43.503,0.004
+"Möglichkeit der Erbringung",44.320,1,1,43.503,0.004
+"Name des Systems",44.320,1,1,43.503,0.004
+"Niveau der Unterstützung",44.320,1,1,43.503,0.004
+"gegründete gemeinnützige Organisation",44.320,1,1,43.503,0.004
+"quelloffenes Programm",44.320,1,1,43.503,0.004
+"versehenes Programm",44.320,1,1,43.503,0.004
+"zusammengesetztes Programm",44.320,1,1,43.503,0.004
+"bezahlter Programmierer",44.320,1,1,43.503,0.004
+"andere Programmänderung",44.320,1,1,43.503,0.004
+"vollständiger Quellcode",44.320,1,1,43.503,0.004
+"Reaktion der Gemeinschaft",44.320,1,1,43.503,0.004
+"akzeptable Richtlinie",44.320,1,1,43.503,0.004
+"freie Software-gemeinschaft",44.320,1,1,43.503,0.004
+"weite freie Software",44.320,1,1,43.503,0.004
+"gesamte Steuerschuld",44.320,1,1,43.503,0.004
+"entwickelte Systemkomponente",44.320,1,1,43.503,0.004
+"geschriebener Teil",44.320,1,1,43.503,0.004
+"unfreier Treiber",44.320,1,1,43.503,0.004
+"Free University",44.320,1,1,43.503,0.004
+"inkompatible Version",44.320,1,1,43.503,0.004
+"ungültiger Verweis",44.320,1,1,43.503,0.004
+"Verwendung Freier Software",44.320,1,1,43.503,0.004
+"ethischer Vorteil",44.320,1,1,43.503,0.004
+"rechtlicher Vorwand",44.320,1,1,43.503,0.004
+"niederländisches Wort",44.320,1,1,43.503,0.004
+"anhaltendes Ziel",44.320,1,1,43.503,0.004
+"moralisches Äquivalent",44.320,1,1,43.503,0.004
+"umfangreiche Überlegung",44.320,1,1,43.503,0.004
+"großer Adressraum",44.150,1,2,43.503,0.009
+"Anfang des Projekts",44.150,1,2,43.503,0.009
+"Art der Entwicklung",44.150,1,2,43.503,0.009
+"anerkannte Art",44.150,1,2,43.503,0.009
+"Aufbau der Gemeinschaft",44.150,1,2,43.503,0.009
+"erhebliche Aufgabe",44.150,1,2,43.503,0.009
+"vorgeschlagener Begriff",44.150,1,2,43.503,0.009
+"eindeutiges Beispiel",44.150,1,2,43.503,0.009
+"paradigmatisches Beispiel",44.150,1,2,43.503,0.009
+"vollständiges Betriebssystem",44.150,1,2,43.503,0.009
+"Compiler Collection",44.150,1,2,43.503,0.009
+"zusammenhängender Dienst",44.150,1,2,43.503,0.009
+"brauchbare Dokumentation",44.150,1,2,43.503,0.009
+"nutzbare Dokumentation",44.150,1,2,43.503,0.009
+"unnötige Doppelarbeit",44.150,1,2,43.503,0.009
+"Form des Programms",44.150,1,2,43.503,0.009
+"Funktion der Bibliothek",44.150,1,2,43.503,0.009
+"patentierte Funktion",44.150,1,2,43.503,0.009
+"uneingeschränkter Gebrauch",44.150,1,2,43.503,0.009
+"ähnlicher Geist",44.150,1,2,43.503,0.009
+"Geschwindigkeit des Fortschritts",44.150,1,2,43.503,0.009
+"anderes Handbuch",44.150,1,2,43.503,0.009
+"individuelle Kontrolle",44.150,1,2,43.503,0.009
+"andere Korrektur",44.150,1,2,43.503,0.009
+"gewährte Lizenz",44.150,1,2,43.503,0.009
+"nützlicher Modul",44.150,1,2,43.503,0.009
+"schlimmer Ort",44.150,1,2,43.503,0.009
+"verfügbare Person",44.150,1,2,43.503,0.009
+"eigener Quellcode",44.150,1,2,43.503,0.009
+"brauchbare Software",44.150,1,2,43.503,0.009
+"angenommenes Szenario",44.150,1,2,43.503,0.009
+"gleiche Ungerechtigkeit",44.150,1,2,43.503,0.009
+"ausgegliedertes Unternehmen",44.150,1,2,43.503,0.009
+"zahlendes Unternehmen",44.150,1,2,43.503,0.009
+"kommerzieller Verkauf",44.150,1,2,43.503,0.009
+"kombinierte Version",44.150,1,2,43.503,0.009
+"gegenteilige Weise",44.150,1,2,43.503,0.009
+"Welt der Freien Software",44.150,1,2,43.503,0.009
+"technisches Ziel",44.150,1,2,43.503,0.009
+"dynamische Zuweisung",44.150,1,2,43.503,0.009
+"bestimmte Bedrohung",43.970,1,3,43.503,0.013
+"Benutzer des Programms",43.970,1,3,43.503,0.013
+"proprietäres Betriebssystem",43.970,1,3,43.503,0.013
+"Druck der Us-regierung",43.970,1,3,43.503,0.013
+"Gnu Emacs",43.970,1,3,43.503,0.013
+"binäre Form",43.970,1,3,43.503,0.013
+"Interchanges Format",43.970,1,3,43.503,0.013
+"Freiheit des Nutzers",43.970,1,3,43.503,0.013
+"attraktive Funktion",43.970,1,3,43.503,0.013
+"voller Gebrauch",43.970,1,3,43.503,0.013
+"feste Haltung",43.970,1,3,43.503,0.013
+"Hand des Autors",43.970,1,3,43.503,0.013
+"gegenseitiger Kampf",43.970,1,3,43.503,0.013
+"Liste der Spiele",43.970,1,3,43.503,0.013
+"verbleibende Lücke",43.970,1,3,43.503,0.013
+"gängiges Medium",43.970,1,3,43.503,0.013
+"gebräuchliches Mittel",43.970,1,3,43.503,0.013
+"einzelner Programmierer",43.970,1,3,43.503,0.013
+"talentierter Programmierer",43.970,1,3,43.503,0.013
+"kompletter Quelltext",43.970,1,3,43.503,0.013
+"praktische Realität",43.970,1,3,43.503,0.013
+"andere Schlacht",43.970,1,3,43.503,0.013
+"Souveränität des Staates",43.970,1,3,43.503,0.013
+"Version des Systems",43.970,1,3,43.503,0.013
+"ursprüngliche Ankündigung",43.760,1,4,43.503,0.017
+"allgemeiner Artikel",43.760,1,4,43.503,0.017
+"schlimme Bedrohung",43.760,1,4,43.503,0.017
+"zufriedener Benutzer",43.760,1,4,43.503,0.017
+"derartige Beschränkung",43.760,1,4,43.503,0.017
+"Bestandteil der Software",43.760,1,4,43.503,0.017
+"kommerzieller Distributor",43.760,1,4,43.503,0.017
+"andere Entität",43.760,1,4,43.503,0.017
+"Frage der Praxis",43.760,1,4,43.503,0.017
+"Frage der Strategie",43.760,1,4,43.503,0.017
+"freie Gnu",43.760,1,4,43.503,0.017
+"Gefühl der Harmonie",43.760,1,4,43.503,0.017
+"gewaltige Kosten",43.760,1,4,43.503,0.017
+"alte Lizenz",43.760,1,4,43.503,0.017
+"übliches Medium",43.760,1,4,43.503,0.017
+"bekannte Praxis",43.760,1,4,43.503,0.017
+"angebliches Recht",43.760,1,4,43.503,0.017
+"heutige Schätzung",43.760,1,4,43.503,0.017
+"bedrohte Stadt",43.760,1,4,43.503,0.017
+"pädagogisches Umfeld",43.760,1,4,43.503,0.017
+"Unterstützung einer Vielzahl",43.760,1,4,43.503,0.017
+"kostengünstige Werbung",43.760,1,4,43.503,0.017
+"absichtliche Zerstörung",43.760,1,4,43.503,0.017
+"Übersetzung des Begriffs",43.760,1,4,43.503,0.017
+"subjektive Angelegenheit",43.590,1,5,43.503,0.022
+"implizite Annahme",43.590,1,5,43.503,0.022
+"unausgesprochene Annahme",43.590,1,5,43.503,0.022
+"freie Anwendung",43.590,1,5,43.503,0.022
+"gleiche Auswirkung",43.590,1,5,43.503,0.022
+"irreführender Begriff",43.590,1,5,43.503,0.022
+"inspirierendes Beispiel",43.590,1,5,43.503,0.022
+"schlechte Bildung",43.590,1,5,43.503,0.022
+"Entwicklung Freier Software",43.590,1,5,43.503,0.022
+"Funktionsweise des Programms",43.590,1,5,43.503,0.022
+"anderer Hacker",43.590,1,5,43.503,0.022
+"richtige Kenntnis",43.590,1,5,43.503,0.022
+"Gnu Privacy",43.590,1,5,43.503,0.022
+"kommerzieller Vertrieb",43.590,1,5,43.503,0.022
+"fadenscheiniger Vorwand",43.590,1,5,43.503,0.022
+"möglicher Artikel",43.420,1,6,43.503,0.026
+"ursprünglicher Autor",43.420,1,6,43.503,0.026
+"zusätzliche Berechtigung",43.420,1,6,43.503,0.026
+"freies Buch",43.420,1,6,43.503,0.026
+"häufiger Einwand",43.420,1,6,43.503,0.026
+"besondere Gemeinschaft",43.420,1,6,43.503,0.026
+"Grundlage der Gesellschaft",43.420,1,6,43.503,0.026
+"Hilfe eines Freundes",43.420,1,6,43.503,0.026
+"Audio Layer",43.420,1,6,43.503,0.026
+"gravierende Lücke",43.420,1,6,43.503,0.026
+"patentiertes Produkt",43.420,1,6,43.503,0.026
+"ausgeführtes Programm",43.420,1,6,43.503,0.026
+"großer Rechner",43.420,1,6,43.503,0.026
+"kompatibles System",43.420,1,6,43.503,0.026
+"pauschales Verbot",43.420,1,6,43.503,0.026
+"praktische Wirksamkeit",43.420,1,6,43.503,0.026
+"bedeutsames Ziel",43.420,1,6,43.503,0.026
+"organisierte Zusammenarbeit",43.420,1,6,43.503,0.026
+"Secures Boot",43.210,1,7,43.503,0.030
+"angegebene Grenze",43.210,1,7,43.503,0.030
+"üblicher Kanal",43.210,1,7,43.503,0.030
+"gleiche Überlegung",43.210,1,7,43.503,0.030
+"restriktive Bedingung",43.040,1,8,43.503,0.035
+"Bereich der Datenverarbeitung",43.040,1,8,43.503,0.035
+"gutes Handbuch",43.040,1,8,43.503,0.035
+"Kontrolle des Staates",43.040,1,8,43.503,0.035
+"weltweite Mission",43.040,1,8,43.503,0.035
+"häufige Missverständnis",43.040,1,8,43.503,0.035
+"Möglichkeit der Hilfe",43.040,1,8,43.503,0.035
+"Nutzung des Werks",43.040,1,8,43.503,0.035
+"besondere Rechtsvorschrift",43.040,1,8,43.503,0.035
+"Sache der Vergangenheit",43.040,1,8,43.503,0.035
+"bekannter Standard",43.040,1,8,43.503,0.035
+"anderer Verleger",43.040,1,8,43.503,0.035
+"eindeutiges Wort",43.040,1,8,43.503,0.035
+"substanzielle Änderung",43.040,1,8,43.503,0.035
+"ähnliches Bedürfnis",42.870,1,9,43.503,0.039
+"mögliche Beschränkung",42.870,1,9,43.503,0.039
+"Debian Gnu",42.870,1,9,43.503,0.039
+"technische Idee",42.870,1,9,43.503,0.039
+"bestehende Komponente",42.870,1,9,43.503,0.039
+"Liste der Autoren",42.870,1,9,43.503,0.039
+"verschiedene Lizenz",42.870,1,9,43.503,0.039
+"englische Originalausgabe",42.870,1,9,43.503,0.039
+"Prozent des Preises",42.870,1,9,43.503,0.039
+"proprietäres System",42.870,1,9,43.503,0.039
+"sozialer Vorteil",42.870,1,9,43.503,0.039
+"kulturelles Werk",42.870,1,9,43.503,0.039
+"sorgfältige Überlegung",42.870,1,9,43.503,0.039
+"langer Dateiname",42.670,1,10,43.503,0.043
+"vollständiger Ersatz",42.670,1,10,43.503,0.043
+"derartige Forderung",42.670,1,10,43.503,0.043
+"schlechter Ort",42.670,1,10,43.503,0.043
+"Weiterentwicklung des Programms",42.670,1,10,43.503,0.043
+"grafische Benutzerschnittstelle",42.500,1,11,43.503,0.048
+"gleicher Druck",42.500,1,11,43.503,0.048
+"seltene Gabe",42.500,1,11,43.503,0.048
+"gleiches Gehalt",42.500,1,11,43.503,0.048
+"andere Philosophie",42.500,1,11,43.503,0.048
+"Rest der Klasse",42.500,1,11,43.503,0.048
+"andere Schlussfolgerung",42.500,1,11,43.503,0.048
+"mögliches Spiel",42.500,1,11,43.503,0.048
+"bestimmte Umgebung",42.500,1,11,43.503,0.048
+"verschiedene Übersetzung",42.500,1,11,43.503,0.048
+"unwiderstehliche Anziehungskraft",42.340,1,12,43.503,0.052
+"unerwartete Entwicklung",42.340,1,12,43.503,0.052
+"teures Geschäft",42.340,1,12,43.503,0.052
+"Von Red",42.340,1,12,43.503,0.052
+"direkter Druck",42.140,1,13,43.503,0.056
+"einzige Grundlage",42.140,1,13,43.503,0.056
+"kleiner Rechner",42.140,1,13,43.503,0.056
+"freies System",42.140,1,13,43.503,0.056
+"vorhandener Teil",42.140,1,13,43.503,0.056
+"ethische Verpflichtung",42.140,1,13,43.503,0.056
+"erforderliche Bedingung",41.980,1,14,43.503,0.060
+"gleiches Gebiet",41.980,1,14,43.503,0.060
+"gesamte Gemeinschaft",41.980,1,14,43.503,0.060
+"falsche Idee",41.980,1,14,43.503,0.060
+"moderner Rechner",41.980,1,14,43.503,0.060
+"ideales System",41.980,1,14,43.503,0.060
+"Wahl des Kunden",41.980,1,14,43.503,0.060
+"gleiche Argumentation",41.830,1,15,43.503,0.065
+"unterschiedliches Gesetz",41.830,1,15,43.503,0.065
+"eigene Absicht",41.630,1,16,43.503,0.069
+"ähnliche Ausstattung",41.630,1,16,43.503,0.069
+"Reverse Engineering",41.630,1,16,43.503,0.069
+"nahe Person",41.630,1,16,43.503,0.069
+"guter Programmierer",41.630,1,16,43.503,0.069
+"offener Quellcode",41.630,1,16,43.503,0.069
+"wohltätige Einrichtung",41.470,1,17,43.503,0.073
+"praktischer Gesichtspunkt",41.470,1,17,43.503,0.073
+"gedrucktes Handbuch",41.470,1,17,43.503,0.073
+"guter Begriff",41.320,1,18,43.503,0.078
+"unwichtiges Detail",41.320,1,18,43.503,0.078
+"bestimmte Einschränkung",41.320,1,18,43.503,0.078
+"bestimmte Richtlinie",41.320,1,18,43.503,0.078
+"virtueller Speicher",41.320,1,18,43.503,0.078
+"Version des Programms",41.320,1,18,43.503,0.078
+"organisatorische Grundlage",41.130,1,19,43.503,0.082
+"kompetente Person",41.130,1,19,43.503,0.082
+"ganzer Abschnitt",40.980,1,20,43.503,0.086
+"endgültiges Ziel",40.980,1,20,43.503,0.086
+"interessante Arbeit",40.830,1,21,43.503,0.091
+"Beginn der Entwicklung",40.830,1,21,43.503,0.091
+"eigentliche Botschaft",40.830,1,21,43.503,0.091
+"Frage des Preises",40.830,1,21,43.503,0.091
+"Weise Geld",40.830,1,21,43.503,0.091
+"Artificial Intelligence",40.830,1,21,43.503,0.091
+"Amazon Kindle",40.830,1,21,43.503,0.091
+"Leben Anderer Menschen",40.830,1,21,43.503,0.091
+"steigende Nutzerzahl",40.830,1,21,43.503,0.091
+"geschriebenes Programm",40.830,1,21,43.503,0.091
+"leistungsfähige Software",40.830,1,21,43.503,0.091
+"Teil des Textes",40.830,1,21,43.503,0.091
+"nützliches Wissen",40.830,1,21,43.503,0.091
+"spanisches Wort",40.830,1,21,43.503,0.091
+"gebräuchlicher Begriff",40.640,1,22,43.503,0.095
+"innovatives Programm",40.640,1,22,43.503,0.095
+"einfache Entscheidung",40.490,1,23,43.503,0.099
+"verursachtes Problem",40.490,1,23,43.503,0.099
+"National Science",40.490,1,23,43.503,0.099
+"Teil des Gewinns",40.490,1,23,43.503,0.099
+"unerwartetes Problem",40.350,1,24,43.503,0.104
+"nützliche Anwendung",40.160,1,25,43.503,0.108
+"allgemeine Aufgabe",40.160,1,25,43.503,0.108
+"praktische Erwägung",40.160,1,25,43.503,0.108
+"genutzte Software",40.160,1,25,43.503,0.108
+"wichtiger Lebensbereich",40.020,1,26,43.503,0.112
+"abgeleitetes Werk",40.020,1,26,43.503,0.112
+"gleiches Argument",39.880,1,27,43.503,0.117
+"weite Ressource",39.880,1,27,43.503,0.117
+"anderer Nachteil",39.560,1,29,43.503,0.125
+"paradoxe Situation",39.560,1,29,43.503,0.125
+"Teil der Gemeinschaft",39.560,1,29,43.503,0.125
+"anderes Programm",39.520,3,539,130.509,2.329
+"engagierter Mensch",39.450,2,285,87.006,1.231
+"andere Formulierung",39.420,1,30,43.503,0.130
+"unveräußerliches Recht",39.420,1,30,43.503,0.130
+"freie Version",39.420,1,30,43.503,0.130
+"Problem der Welt",39.280,1,31,43.503,0.134
+"weites Schreiben",39.110,1,32,43.503,0.138
+"kommerzielle Software",39.110,1,32,43.503,0.138
+"Science Foundation",38.970,1,33,43.503,0.143
+"größtmögliche Freiheit",38.970,1,33,43.503,0.143
+"tatsächliches Problem",38.970,1,33,43.503,0.143
+"wichtiger Weg",38.970,1,33,43.503,0.143
+"Änderung des Namens",38.970,1,33,43.503,0.143
+"guter Bürger",38.830,1,34,43.503,0.147
+"fertiges Ergebnis",38.830,1,34,43.503,0.147
+"neues Handbuch",38.830,1,34,43.503,0.147
+"damaliger Leiter",38.830,1,34,43.503,0.147
+"beliebiger Rechner",38.830,1,34,43.503,0.147
+"fehlender Teil",38.830,1,34,43.503,0.147
+"bestimmte Fähigkeit",38.660,1,35,43.503,0.151
+"allgemeine Bedeutung",38.530,1,36,43.503,0.156
+"verschiedene Bedeutung",38.530,1,36,43.503,0.156
+"bloße Existenz",38.530,1,36,43.503,0.156
+"geringes Entgelt",38.400,1,37,43.503,0.160
+"eigene Freiheit",38.400,1,37,43.503,0.160
+"ander Freiwillige",38.400,1,37,43.503,0.160
+"wichtiges Programm",38.230,1,38,43.503,0.164
+"praktischer Vorteil",38.230,1,38,43.503,0.164
+"eigenes Betriebssystem",38.100,1,39,43.503,0.168
+"verschiedene Herausforderung",38.100,1,39,43.503,0.168
+"professioneller Musiker",38.100,1,39,43.503,0.168
+"notwendige Aufgabe",37.970,1,40,43.503,0.173
+"unterschiedliches Problem",37.970,1,40,43.503,0.173
+"verschiedene Antwort",37.810,1,41,43.503,0.177
+"umfangreiche Aufgabe",37.810,1,41,43.503,0.177
+"Teil der Einnahmen",37.810,1,41,43.503,0.177
+"beschriebene Weise",37.810,1,41,43.503,0.177
+"geringes Übel",37.810,1,41,43.503,0.177
+"anderes Utensil",37.680,1,42,43.503,0.181
+"üblicher Preis",37.550,1,43,43.503,0.186
+"erhöhter Aufwand",37.400,1,44,43.503,0.190
+"gesamte Energie",37.400,1,44,43.503,0.190
+"ungewöhnliche Weise",37.400,1,44,43.503,0.190
+"funktionierendes System",37.150,1,46,43.503,0.199
+"echter Gewinn",36.870,1,48,43.503,0.207
+"vollständige Übersicht",36.870,1,48,43.503,0.207
+"grundlegende Anforderung",36.600,1,50,43.503,0.216
+"weite Anfrage",36.600,1,50,43.503,0.216
+"niedriger Preis",36.400,3,605,130.509,2.614
+"andere Gruppierung",36.240,1,53,43.503,0.229
+"wichtige Möglichkeit",36.240,1,53,43.503,0.229
+"bestimmte Anwendung",35.980,1,55,43.503,0.238
+"kurze Darstellung",35.860,1,56,43.503,0.242
+"erweiterte Version",35.860,1,56,43.503,0.242
+"produktiver Einsatz",35.720,1,57,43.503,0.246
+"öffentliche Nutzung",35.720,1,57,43.503,0.246
+"gutes Englisch",35.720,1,57,43.503,0.246
+"neue Grundlage",35.600,1,58,43.503,0.251
+"ursprünglicher Name",35.600,1,58,43.503,0.251
+"entscheidender Fall",35.490,1,59,43.503,0.255
+"bestimmte Situation",35.290,2,346,87.006,1.495
+"bestimmtes Programm",35.120,1,62,43.503,0.268
+"frankierter Rückumschlag",35.120,1,62,43.503,0.268
+"notwendige Bedingung",34.990,1,63,43.503,0.272
+"beantwortete Frage",34.880,1,64,43.503,0.277
+"verbesserte Version",34.880,1,64,43.503,0.277
+"Internet der Dinge",34.630,1,66,43.503,0.285
+"vollständige Kontrolle",34.520,1,67,43.503,0.289
+"feste Gruppe",34.420,1,68,43.503,0.294
+"anderer Läufer",34.420,1,68,43.503,0.294
+"genauer Wortlaut",34.420,1,68,43.503,0.294
+"meistes Geld",34.290,1,69,43.503,0.298
+"späte Änderung",34.290,1,69,43.503,0.298
+"wesentliche Eigenschaft",34.180,1,70,43.503,0.302
+"ethischer Grund",34.180,1,70,43.503,0.302
+"weites Indiz",33.950,1,72,43.503,0.311
+"neues Paket",33.950,1,72,43.503,0.311
+"freie Welt",33.740,1,74,43.503,0.320
+"starkes Gefühl",33.310,1,78,43.503,0.337
+"praktisches Problem",33.310,1,78,43.503,0.337
+"eigene Software",33.310,1,78,43.503,0.337
+"schwieriger Teil",33.310,1,78,43.503,0.337
+"geistiges Eigentumsrecht",33.190,1,79,43.503,0.341
+"erstes Programm",33.190,1,79,43.503,0.341
+"ethischer Wert",33.190,1,79,43.503,0.341
+"andere Strategie",32.990,1,81,43.503,0.350
+"weites Ding",32.870,1,82,43.503,0.354
+"alternativer Weg",32.550,1,85,43.503,0.367
+"schädliche Auswirkung",32.460,1,86,43.503,0.372
+"weite Stelle",32.460,1,86,43.503,0.372
+"falsche Antwort",32.250,1,88,43.503,0.380
+"Massachusetts Institut",32.250,1,88,43.503,0.380
+"öffentliche Einrichtung",32.100,3,717,130.509,3.098
+"eigentlicher Zweck",32.060,1,90,43.503,0.389
+"anderer Nutzer",32.060,3,718,130.509,3.102
+"eigene Anforderung",31.950,1,91,43.503,0.393
+"spezielle Aufgabe",31.470,1,96,43.503,0.415
+"private Hand",31.190,1,99,43.503,0.428
+"indirekter Schaden",30.990,1,101,43.503,0.436
+"schwere Entscheidung",30.900,1,102,43.503,0.441
+"gute Praxis",30.800,1,103,43.503,0.445
+"nationale Sicherheit",30.710,1,104,43.503,0.449
+"Spitze des Eisbergs",30.710,1,104,43.503,0.449
+"elektronisches Buch",30.630,1,105,43.503,0.454
+"unterschiedliche Sichtweise",30.440,1,107,43.503,0.462
+"weiter Text",30.090,1,111,43.503,0.480
+"alltägliche Situation",30.010,1,112,43.503,0.484
+"wahrer Grund",29.830,1,114,43.503,0.493
+"neuer Nutzer",29.750,1,115,43.503,0.497
+"bewusste Entscheidung",29.490,1,118,43.503,0.510
+"neuer Rechner",29.240,1,121,43.503,0.523
+"bestimmte Weise",29.140,1,122,43.503,0.527
+"lange Sicht",29.090,3,815,130.509,3.521
+"erster Weg",28.580,1,129,43.503,0.557
+"freie Marktwirtschaft",28.510,1,130,43.503,0.562
+"andere Universität",28.510,1,130,43.503,0.562
+"einfacher Weg",28.430,2,485,87.006,2.095
+"Flash Player",28.270,1,133,43.503,0.575
+"spezielle Art",28.200,1,134,43.503,0.579
+"gute Strategie",28.200,1,134,43.503,0.579
+"anderes Betriebssystem",28.040,1,136,43.503,0.588
+"interessantes Programm",28.040,1,136,43.503,0.588
+"besonderes Problem",27.970,1,137,43.503,0.592
+"ethische Frage",27.740,1,140,43.503,0.605
+"Form der Zusammenarbeit",27.660,1,141,43.503,0.609
+"eigentliche Arbeit",27.590,1,142,43.503,0.614
+"zusätzliches Geld",27.440,1,144,43.503,0.622
+"kritischer Punkt",27.300,1,146,43.503,0.631
+"weiter Schaden",27.300,1,146,43.503,0.631
+"große Lücke",27.000,1,150,43.503,0.648
+"andere Weise",26.950,3,898,130.509,3.880
+"andere Alternative",26.870,1,152,43.503,0.657
+"großes Hindernis",26.600,1,156,43.503,0.674
+"gemeinnützige Organisation",26.510,2,537,87.006,2.320
+"zusätzlicher Aufwand",26.460,1,158,43.503,0.683
+"strategische Entscheidung",26.460,1,158,43.503,0.683
+"anderer Wert",26.390,1,159,43.503,0.687

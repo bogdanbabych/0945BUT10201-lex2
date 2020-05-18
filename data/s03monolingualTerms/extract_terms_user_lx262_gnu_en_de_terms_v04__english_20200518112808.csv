@@ -1,0 +1,792 @@
+"corpus","user/lx262/gnu_en_de_terms_v04__english"
+"subcorpus",""
+"Item","Score","Freq","Ref_freq","Rel_freq","Rel_ref_freq"
+"free software",2110.310,171,569,7161.404,2.394
+"proprietary software",889.400,33,132,1382.025,0.555
+"nonfree software",377.920,9,0,376.916,0.000
+"free license",286.720,8,41,335.036,0.173
+"free manual",249.290,6,3,251.277,0.013
+"free software community",243.280,6,9,251.277,0.038
+"free software movement",241.180,6,11,251.277,0.046
+"software movement",238.450,6,14,251.277,0.059
+"software community",231.020,6,22,251.277,0.093
+"software license",207.810,6,51,251.277,0.215
+"free operating system",201.140,5,11,209.398,0.046
+"source code",187.100,32,1466,1340.146,6.169
+"free program",181.360,6,93,251.277,0.391
+"modified version",169.090,6,117,251.277,0.492
+"nonfree program",168.520,4,0,167.518,0.000
+"free software license",166.520,4,3,167.518,0.013
+"free software development",165.860,4,4,167.518,0.017
+"modified program",165.860,4,4,167.518,0.017
+"proprietary program",165.860,4,4,167.518,0.017
+"nondisclosure agreement",157.350,4,17,167.518,0.072
+"natural right",145.400,4,38,167.518,0.160
+"software business",135.030,4,59,167.518,0.248
+"system software",131.960,4,66,167.518,0.278
+"software-sharing community",126.640,3,0,125.639,0.000
+"definition of free software",126.640,3,0,125.639,0.000
+"distributing free software",126.640,3,0,125.639,0.000
+"server operator",126.130,3,1,125.639,0.004
+"recursive acronym",125.630,3,2,125.639,0.008
+"free documentation",125.630,3,2,125.639,0.008
+"unjust power",125.630,3,2,125.639,0.008
+"distribution fee",125.140,3,3,125.639,0.013
+"use of free software",125.140,3,3,125.639,0.013
+"unix-like system",124.030,3,5,125.639,0.021
+"monetary incentive",118.690,3,16,125.639,0.067
+"selling software",112.470,3,30,125.639,0.126
+"software world",112.070,3,31,125.639,0.130
+"software package",106.690,5,231,209.398,0.972
+"new license",105.440,3,48,125.639,0.202
+"task list",95.360,3,78,125.639,0.328
+"operating system",85.560,24,2557,1005.109,10.760
+"free software business",84.760,2,0,83.759,0.000
+"stark moral choice",84.760,2,0,83.759,0.000
+"multiplatform compiler",84.760,2,0,83.759,0.000
+"free software definition",84.760,2,0,83.759,0.000
+"software definition",84.760,2,0,83.759,0.000
+"usable documentation",84.760,2,0,83.759,0.000
+"entire input file",84.760,2,0,83.759,0.000
+"text formatter",84.760,2,0,83.759,0.000
+"instrument of unjust power",84.760,2,0,83.759,0.000
+"nonfree library",84.760,2,0,83.759,0.000
+"nonfree license",84.760,2,0,83.759,0.000
+"proprietary manual",84.760,2,0,83.759,0.000
+"important free software package",84.760,2,0,83.759,0.000
+"developer power",84.760,2,0,83.759,0.000
+"distribution price",84.760,2,0,83.759,0.000
+"conscientious programmer",84.760,2,0,83.759,0.000
+"new free software",84.760,2,0,83.759,0.000
+"proprietary software social system",84.760,2,0,83.759,0.000
+"software social system",84.760,2,0,83.759,0.000
+"hard g",84.420,2,1,83.759,0.004
+"entire input",84.420,2,1,83.759,0.004
+"developing free software",84.420,2,1,83.759,0.004
+"libre software",84.420,2,1,83.759,0.004
+"proprietary package",84.090,2,2,83.759,0.008
+"free software package",83.750,2,3,83.759,0.013
+"compatible replacement",83.750,2,3,83.759,0.013
+"important free software",83.750,2,3,83.759,0.013
+"free software world",83.750,2,3,83.759,0.013
+"own computing",83.420,2,4,83.759,0.017
+"other free software",83.420,2,4,83.759,0.017
+"syntax tree",82.690,2,6,83.759,0.025
+"new compiler",82.370,2,7,83.759,0.029
+"executable form",82.370,2,7,83.759,0.029
+"source code form",82.370,2,7,83.759,0.029
+"system programming",82.370,2,7,83.759,0.029
+"social contribution",82.050,2,8,83.759,0.034
+"missing component",81.340,2,10,83.759,0.042
+"free replacement",81.340,2,10,83.759,0.042
+"window system",80.110,2,14,83.759,0.059
+"code form",79.740,2,15,83.759,0.063
+"ftp server",79.740,2,15,83.759,0.063
+"moral choice",79.440,2,16,83.759,0.067
+"fist fight",79.440,2,16,83.759,0.067
+"common basis",77.900,2,21,83.759,0.088
+"major gap",77.050,2,24,83.759,0.101
+"distribution business",76.700,2,25,83.759,0.105
+"useful software",76.700,2,25,83.759,0.105
+"same reasoning",76.150,2,27,83.759,0.114
+"making full use",75.880,2,28,83.759,0.118
+"technical content",75.010,2,31,83.759,0.130
+"much harm",73.380,2,37,83.759,0.156
+"distribution service",70.570,2,48,83.759,0.202
+"free beer",68.630,2,56,83.759,0.236
+"reverse engineering",68.130,2,58,83.759,0.244
+"total tax",65.500,2,70,83.759,0.295
+"clear example",65.100,2,72,83.759,0.303
+"complete system",64.020,2,77,83.759,0.324
+"export control",62.460,2,85,83.759,0.358
+"custom software",62.050,2,87,83.759,0.366
+"input file",61.690,2,89,83.759,0.375
+"potential problem",60.410,2,96,83.759,0.404
+"commercial development",60.030,2,98,83.759,0.412
+"copyright notice",57.780,2,111,83.759,0.467
+"software development",57.550,8,1150,335.036,4.839
+"particular reason",57.460,2,113,83.759,0.476
+"social system",55.870,2,123,83.759,0.518
+"new hardware",52.260,2,148,83.759,0.623
+"license agreement",50.940,2,158,83.759,0.665
+"high price",48.820,3,379,125.639,1.595
+"important way",48.710,2,176,83.759,0.741
+"full use",48.130,2,181,83.759,0.762
+"whole community",47.890,2,183,83.759,0.770
+"public use",47.460,2,187,83.759,0.787
+"worth avoiding",42.880,1,0,41.880,0.000
+"program b",42.880,1,1,41.880,0.004
+"porting gcc",42.880,1,0,41.880,0.000
+"desktop kde",42.880,1,0,41.880,0.000
+"community libreplanet",42.880,1,0,41.880,0.000
+"free software community libreplanet",42.880,1,0,41.880,0.000
+"software community libreplanet",42.880,1,0,41.880,0.000
+"new pdp-10",42.880,1,0,41.880,0.000
+"amount readline",42.880,1,0,41.880,0.000
+"accessibility of source code",42.880,1,0,41.880,0.000
+"much nonproductive activity",42.880,1,0,41.880,0.000
+"nonproductive activity",42.880,1,0,41.880,0.000
+"particular computing activity",42.880,1,0,41.880,0.000
+"digital spying agency",42.880,1,0,41.880,0.000
+"government digital spying agency",42.880,1,0,41.880,0.000
+"spying agency",42.880,1,0,41.880,0.000
+"same nondisclosure agreement",42.880,1,0,41.880,0.000
+"lzw compression algorithm",42.880,1,0,41.880,0.000
+"suitable aliasing",42.880,1,0,41.880,0.000
+"area of software production",42.880,1,0,41.880,0.000
+"compressed audio",42.880,1,0,41.880,0.000
+"encouraging authorship",42.880,1,0,41.880,0.000
+"body of free software",42.880,1,0,41.880,0.000
+"sufficient body of free software",42.880,1,0,41.880,0.000
+"security breaker",42.880,1,0,41.880,0.000
+"custom software business",42.880,1,0,41.880,0.000
+"specific widespread business",42.880,1,0,41.880,0.000
+"tape distribution business",42.880,1,0,41.880,0.000
+"computer buyer",42.880,1,0,41.880,0.000
+"playful cleverness",42.880,1,0,41.880,0.000
+"arbitrary nuisance code",42.880,1,0,41.880,0.000
+"corresponding complete source code",42.880,1,0,41.880,0.000
+"nuisance code",42.880,1,0,41.880,0.000
+"real source code",42.880,1,0,41.880,0.000
+"collection of free software",42.880,1,0,41.880,0.000
+"substantial collection of free software",42.880,1,0,41.880,0.000
+"commercialization of system software",42.880,1,0,41.880,0.000
+"ordinary commonsense",42.880,1,0,41.880,0.000
+"computer-using community",42.880,1,0,41.880,0.000
+"cooperating community",42.880,1,0,41.880,0.000
+"first software-sharing community",42.880,1,0,41.880,0.000
+"new software-sharing community",42.880,1,0,41.880,0.000
+"whole compiler",42.880,1,0,41.880,0.000
+"major missing component",42.880,1,0,41.880,0.000
+"particular computing",42.880,1,0,41.880,0.000
+"sophisticated cooling",42.880,1,0,41.880,0.000
+"organized cooperation",42.880,1,0,41.880,0.000
+"copy of free software",42.880,1,0,41.880,0.000
+"executable copy",42.880,1,0,41.880,0.000
+"restricting copying",42.880,1,0,41.880,0.000
+"effective copyleft",42.880,1,0,41.880,0.000
+"assign copyright",42.880,1,0,41.880,0.000
+"source-level debugger",42.880,1,0,41.880,0.000
+"capability-based design",42.880,1,0,41.880,0.000
+"similar desktop",42.880,1,0,41.880,0.000
+"mutual destructiveness",42.880,1,0,41.880,0.000
+"operating system developer",42.880,1,0,41.880,0.000
+"commercial development of free software",42.880,1,0,41.880,0.000
+"development of custom software",42.880,1,0,41.880,0.000
+"terminal-independent display",42.880,1,0,41.880,0.000
+"ftp distribution",42.880,1,0,41.880,0.000
+"high distribution",42.880,1,0,41.880,0.000
+"nonfree distribution",42.880,1,0,41.880,0.000
+"tape distribution",42.880,1,0,41.880,0.000
+"various nonfree distribution",42.880,1,0,41.880,0.000
+"universal back door",42.880,1,0,41.880,0.000
+"duplication of system programming",42.880,1,0,41.880,0.000
+"duplication of system programming effort",42.880,1,0,41.880,0.000
+"much wasteful duplication",42.880,1,0,41.880,0.000
+"much wasteful duplication of system",42.880,1,0,41.880,0.000
+"wasteful duplication of system programming",42.880,1,0,41.880,0.000
+"writing editor",42.880,1,0,41.880,0.000
+"civics education",42.880,1,0,41.880,0.000
+"system programming effort",42.880,1,0,41.880,0.000
+"nonfree encryption",42.880,1,0,41.880,0.000
+"popular nonfree encryption",42.880,1,0,41.880,0.000
+"other specific entity",42.880,1,0,41.880,0.000
+"justifiable evil",42.880,1,0,41.880,0.000
+"nontrivial export",42.880,1,0,41.880,0.000
+"aliasing facility",42.880,1,0,41.880,0.000
+"suitable aliasing facility",42.880,1,0,41.880,0.000
+"high distribution fee",42.880,1,0,41.880,0.000
+"imaginative fellow",42.880,1,0,41.880,0.000
+"field of software today",42.880,1,0,41.880,0.000
+"crashproof file",42.880,1,0,41.880,0.000
+"whole output file",42.880,1,0,41.880,0.000
+"mobile phone firmware",42.880,1,0,41.880,0.000
+"form of real programming",42.880,1,0,41.880,0.000
+"form of real programming work",42.880,1,0,41.880,0.000
+"runnable form",42.880,1,0,41.880,0.000
+"principal text formatter",42.880,1,0,41.880,0.000
+"computer user freedom",42.880,1,0,41.880,0.000
+"future of free software",42.880,1,0,41.880,0.000
+"yacc-compatible parser generator",42.880,1,0,41.880,0.000
+"entire gnu",42.880,1,0,41.880,0.000
+"artificial government-imposed",42.880,1,0,41.880,0.000
+"fellow hacker",42.880,1,0,41.880,0.000
+"staff system hacker",42.880,1,0,41.880,0.000
+"system hacker",42.880,1,0,41.880,0.000
+"important happiness",42.880,1,0,41.880,0.000
+"secret hardware",42.880,1,0,41.880,0.000
+"secret hardware hardware",42.880,1,0,41.880,0.000
+"previous imbalance",42.880,1,0,41.880,0.000
+"injustice of nonfree software",42.880,1,0,41.880,0.000
+"cvsweb interface",42.880,1,0,41.880,0.000
+"coherent issue",42.880,1,0,41.880,0.000
+"initial kernel",42.880,1,0,41.880,0.000
+"unix-compatible kernel",42.880,1,0,41.880,0.000
+"kind of computer system",42.880,1,0,41.880,0.000
+"kind of free software business",42.880,1,0,41.880,0.000
+"kind of overall job",42.880,1,0,41.880,0.000
+"system-programming language",42.880,1,0,41.880,0.000
+"compatible replacement library",42.880,1,0,41.880,0.000
+"next tempting nonfree library",42.880,1,0,41.880,0.000
+"replacement library",42.880,1,0,41.880,0.000
+"tempting nonfree library",42.880,1,0,41.880,0.000
+"toolkit library",42.880,1,0,41.880,0.000
+"contract-based license",42.880,1,0,41.880,0.000
+"copyright-based license",42.880,1,0,41.880,0.000
+"existing free software license",42.880,1,0,41.880,0.000
+"granting such license",42.880,1,0,41.880,0.000
+"specific software license",42.880,1,0,41.880,0.000
+"free software licensing",42.880,1,0,41.880,0.000
+"general task list",42.880,1,0,41.880,0.000
+"manner of distributing free software",42.880,1,0,41.880,0.000
+"good free manual",42.880,1,0,41.880,0.000
+"nonfree manual",42.880,1,0,41.880,0.000
+"equal mention",42.880,1,0,41.880,0.000
+"artificial government-imposed monopoly",42.880,1,0,41.880,0.000
+"government-imposed monopoly",42.880,1,0,41.880,0.000
+"commonsense morality",42.880,1,0,41.880,0.000
+"ordinary commonsense morality",42.880,1,0,41.880,0.000
+"problem motif",42.880,1,0,41.880,0.000
+"need of sophisticated cooling",42.880,1,0,41.880,0.000
+"same nondisclosure",42.880,1,0,41.880,0.000
+"yacc-compatible parser",42.880,1,0,41.880,0.000
+"effect part",42.880,1,0,41.880,0.000
+"nonfree part",42.880,1,0,41.880,0.000
+"traditional american pastime",42.880,1,0,41.880,0.000
+"traditional american pastime of tinkering",42.880,1,0,41.880,0.000
+"common naming pattern",42.880,1,0,41.880,0.000
+"wanting pay",42.880,1,0,41.880,0.000
+"available competent person",42.880,1,0,41.880,0.000
+"free software philosophy",42.880,1,0,41.880,0.000
+"software philosophy",42.880,1,0,41.880,0.000
+"same bad place",42.880,1,0,41.880,0.000
+"plenty of useful software",42.880,1,0,41.880,0.000
+"popularity of free software",42.880,1,0,41.880,0.000
+"sole position",42.880,1,0,41.880,0.000
+"entity unjust power",42.880,1,0,41.880,0.000
+"specific widespread business practice",42.880,1,0,41.880,0.000
+"widespread business practice",42.880,1,0,41.880,0.000
+"same government pressure",42.880,1,0,41.880,0.000
+"empty pretense",42.880,1,0,41.880,0.000
+"price of distribution service",42.880,1,0,41.880,0.000
+"anyone program",42.880,1,0,41.880,0.000
+"copylefted program",42.880,1,0,41.880,0.000
+"kernel program",42.880,1,0,41.880,0.000
+"tar program",42.880,1,0,41.880,0.000
+"available programmer",42.880,1,0,41.880,0.000
+"everyone stop programming",42.880,1,0,41.880,0.000
+"stop programming",42.880,1,0,41.880,0.000
+"desktop project",42.880,1,0,41.880,0.000
+"proliferation of different free software",42.880,1,0,41.880,0.000
+"supposed intellectual property",42.880,1,0,41.880,0.000
+"proprietary publishing",42.880,1,0,41.880,0.000
+"purpose of encouraging authorship",42.880,1,0,41.880,0.000
+"including commercial redistribution",42.880,1,0,41.880,0.000
+"only referee",42.880,1,0,41.880,0.000
+"release of source code",42.880,1,0,41.880,0.000
+"control requirement",42.880,1,0,41.880,0.000
+"export control requirement",42.880,1,0,41.880,0.000
+"unquestionable natural right",42.880,1,0,41.880,0.000
+"acceptable rule",42.880,1,0,41.880,0.000
+"including commercial sale",42.880,1,0,41.880,0.000
+"anonymous ftp server",42.880,1,0,41.880,0.000
+"new ftp server",42.880,1,0,41.880,0.000
+"usual shell",42.880,1,0,41.880,0.000
+"conscience sign",42.880,1,0,41.880,0.000
+"good conscience sign",42.880,1,0,41.880,0.000
+"ftp distribution site",42.880,1,0,41.880,0.000
+"small memory size",42.880,1,0,41.880,0.000
+"adding other free software",42.880,1,0,41.880,0.000
+"asking individual free software",42.880,1,0,41.880,0.000
+"bringing proprietary software",42.880,1,0,41.880,0.000
+"commercial free software",42.880,1,0,41.880,0.000
+"complete unix-compatible software",42.880,1,0,41.880,0.000
+"copylefted software",42.880,1,0,41.880,0.000
+"different free software",42.880,1,0,41.880,0.000
+"good system software",42.880,1,0,41.880,0.000
+"helping other free software",42.880,1,0,41.880,0.000
+"individual free software",42.880,1,0,41.880,0.000
+"kde software",42.880,1,0,41.880,0.000
+"launching new free software",42.880,1,0,41.880,0.000
+"much free software",42.880,1,0,41.880,0.000
+"needed free software",42.880,1,0,41.880,0.000
+"noncopylefted free software",42.880,1,0,41.880,0.000
+"nonfree encryption software",42.880,1,0,41.880,0.000
+"other available free software",42.880,1,0,41.880,0.000
+"other useful software",42.880,1,0,41.880,0.000
+"popular nonfree encryption software",42.880,1,0,41.880,0.000
+"redistributing free software",42.880,1,0,41.880,0.000
+"rejecting nonfree software",42.880,1,0,41.880,0.000
+"secret software",42.880,1,0,41.880,0.000
+"share software",42.880,1,0,41.880,0.000
+"such free commercial software",42.880,1,0,41.880,0.000
+"unix-compatible software",42.880,1,0,41.880,0.000
+"using nonfree software",42.880,1,0,41.880,0.000
+"value free software",42.880,1,0,41.880,0.000
+"various other useful software",42.880,1,0,41.880,0.000
+"writing needed free software",42.880,1,0,41.880,0.000
+"first software-sharing",42.880,1,0,41.880,0.000
+"new software-sharing",42.880,1,0,41.880,0.000
+"corresponding complete source",42.880,1,0,41.880,0.000
+"computational sovereignty",42.880,1,0,41.880,0.000
+"broad spectrum of free software",42.880,1,0,41.880,0.000
+"spectrum of free software",42.880,1,0,41.880,0.000
+"building community spirit",42.880,1,0,41.880,0.000
+"terminal-independent display support",42.880,1,0,41.880,0.000
+"whole syntax",42.880,1,0,41.880,0.000
+"complete free operating system",42.880,1,0,41.880,0.000
+"complete unix-compatible software system",42.880,1,0,41.880,0.000
+"crashproof file system",42.880,1,0,41.880,0.000
+"lisp-based window system",42.880,1,0,41.880,0.000
+"minimal working system",42.880,1,0,41.880,0.000
+"nonfree timesharing system",42.880,1,0,41.880,0.000
+"staff system",42.880,1,0,41.880,0.000
+"timesharing operating system",42.880,1,0,41.880,0.000
+"unix-compatible software system",42.880,1,0,41.880,0.000
+"unix-compatible system",42.880,1,0,41.880,0.000
+"perverse terminology",42.880,1,0,41.880,0.000
+"nonfree timesharing",42.880,1,0,41.880,0.000
+"hacker tradition",42.880,1,0,41.880,0.000
+"whole syntax tree",42.880,1,0,41.880,0.000
+"use of nonfree software",42.880,1,0,41.880,0.000
+"proprietary modified version",42.880,1,0,41.880,0.000
+"lisp-based window",42.880,1,0,41.880,0.000
+"real programming work",42.880,1,0,41.880,0.000
+"same interesting work",42.880,1,0,41.880,0.000
+"postscarcity world",42.880,1,0,41.880,0.000
+"proprietary software world",42.880,1,0,41.880,0.000
+"world of free software",42.880,1,0,41.880,0.000
+"computing activity",42.710,1,1,41.880,0.004
+"ethical advantage",42.710,1,1,41.880,0.004
+"amoral approach",42.710,1,1,41.880,0.004
+"third assumption",42.710,1,1,41.880,0.004
+"unstated assumption",42.710,1,1,41.880,0.004
+"universal back",42.710,1,1,41.880,0.004
+"air bill",42.710,1,1,41.880,0.004
+"free software distribution business",42.710,1,1,41.880,0.004
+"software distribution business",42.710,1,1,41.880,0.004
+"nonfree code",42.710,1,1,41.880,0.004
+"name completion",42.710,1,1,41.880,0.004
+"asking computer",42.710,1,1,41.880,0.004
+"restricting computer",42.710,1,1,41.880,0.004
+"horrible confusion",42.710,1,1,41.880,0.004
+"collective control",42.710,1,1,41.880,0.004
+"government export control",42.710,1,1,41.880,0.004
+"level debugger",42.710,1,1,41.880,0.004
+"source level debugger",42.710,1,1,41.880,0.004
+"sufficient determination",42.710,1,1,41.880,0.004
+"wasteful duplication",42.710,1,1,41.880,0.004
+"steadfast effort",42.710,1,1,41.880,0.004
+"curious enough",42.710,1,1,41.880,0.004
+"irresistible fascination",42.710,1,1,41.880,0.004
+"phone firmware",42.710,1,1,41.880,0.004
+"using freedom",42.710,1,1,41.880,0.004
+"new ftp",42.710,1,1,41.880,0.004
+"free gnu",42.710,1,1,41.880,0.004
+"valid goal",42.710,1,1,41.880,0.004
+"hardware hardware",42.710,1,1,41.880,0.004
+"indirect harm",42.710,1,1,41.880,0.004
+"getting income",42.710,1,1,41.880,0.004
+"kind of free software",42.710,1,1,41.880,0.004
+"export law",42.710,1,1,41.880,0.004
+"proprietary library",42.710,1,1,41.880,0.004
+"long task list",42.710,1,1,41.880,0.004
+"freedom means",42.710,1,1,41.880,0.004
+"common business model",42.710,1,1,41.880,0.004
+"signing nondisclosure",42.710,1,1,41.880,0.004
+"whole output",42.710,1,1,41.880,0.004
+"proprietary software package",42.710,1,1,41.880,0.004
+"advertising pay",42.710,1,1,41.880,0.004
+"x percent",42.710,1,1,41.880,0.004
+"everyone permission",42.710,1,1,41.880,0.004
+"stopping piracy",42.710,1,1,41.880,0.004
+"air plant",42.710,1,1,41.880,0.004
+"self-defeating policy",42.710,1,1,41.880,0.004
+"particular software program",42.710,1,1,41.880,0.004
+"software proprietary",42.710,1,1,41.880,0.004
+"usual purpose",42.710,1,1,41.880,0.004
+"robot repair",42.710,1,1,41.880,0.004
+"available free software",42.710,1,1,41.880,0.004
+"existing free software",42.710,1,1,41.880,0.004
+"free commercial software",42.710,1,1,41.880,0.004
+"gnu software",42.710,1,1,41.880,0.004
+"means software",42.710,1,1,41.880,0.004
+"extensive statement",42.710,1,1,41.880,0.004
+"everyone stop",42.710,1,1,41.880,0.004
+"timesharing system",42.710,1,1,41.880,0.004
+"general task",42.710,1,1,41.880,0.004
+"software tax",42.710,1,1,41.880,0.004
+"principal text",42.710,1,1,41.880,0.004
+"extensive thought",42.710,1,1,41.880,0.004
+"answering user",42.710,1,1,41.880,0.004
+"proprietary version",42.710,1,1,41.880,0.004
+"way of paying tribute",42.710,1,1,41.880,0.004
+"legitimate activity",42.540,1,2,41.880,0.008
+"widespread business",42.540,1,2,41.880,0.008
+"license change",42.540,1,2,41.880,0.008
+"distribution concept",42.540,1,2,41.880,0.008
+"transferring copyright",42.540,1,2,41.880,0.008
+"previous developer",42.540,1,2,41.880,0.008
+"development of free software",42.540,1,2,41.880,0.008
+"free software distribution",42.540,1,2,41.880,0.008
+"limiting distribution",42.540,1,2,41.880,0.008
+"practical effectiveness",42.540,1,2,41.880,0.008
+"legal excuse",42.540,1,2,41.880,0.008
+"user freedom",42.540,1,2,41.880,0.008
+"value freedom",42.540,1,2,41.880,0.008
+"assembler language",42.540,1,2,41.880,0.008
+"existing module",42.540,1,2,41.880,0.008
+"subsequent note",42.540,1,2,41.880,0.008
+"available person",42.540,1,2,41.880,0.008
+"new portable",42.540,1,2,41.880,0.008
+"company power",42.540,1,2,41.880,0.008
+"cheap publicity",42.540,1,2,41.880,0.008
+"ethical reason",42.540,1,2,41.880,0.008
+"export regulation",42.540,1,2,41.880,0.008
+"firm response",42.540,1,2,41.880,0.008
+"intrinsic right",42.540,1,2,41.880,0.008
+"paradoxical situation",42.540,1,2,41.880,0.008
+"harming society",42.540,1,2,41.880,0.008
+"crucial software",42.540,1,2,41.880,0.008
+"multiple target",42.540,1,2,41.880,0.008
+"feasible task",42.540,1,2,41.880,0.008
+"other wording",42.540,1,2,41.880,0.008
+"fundamental act",42.370,1,3,41.880,0.013
+"software license agreement",42.370,1,3,41.880,0.013
+"secure boot",42.370,1,3,41.880,0.013
+"tax-exempt charity",42.370,1,3,41.880,0.013
+"lzw compression",42.370,1,3,41.880,0.013
+"practical definition",42.370,1,3,41.880,0.013
+"government export",42.370,1,3,41.880,0.013
+"generic job",42.370,1,3,41.880,0.013
+"new manual",42.370,1,3,41.880,0.013
+"worldwide mission",42.370,1,3,41.880,0.013
+"additional permission",42.370,1,3,41.880,0.013
+"commercial redistribution",42.370,1,3,41.880,0.013
+"license requirement",42.370,1,3,41.880,0.013
+"public domain software",42.370,1,3,41.880,0.013
+"usable software",42.370,1,3,41.880,0.013
+"sufficient body",42.200,1,4,41.880,0.017
+"narrow class",42.200,1,4,41.880,0.017
+"system code",42.200,1,4,41.880,0.017
+"spin-off company",42.200,1,4,41.880,0.017
+"necessary contact",42.200,1,4,41.880,0.017
+"other disadvantage",42.200,1,4,41.880,0.017
+"bad education",42.200,1,4,41.880,0.017
+"substantial job",42.200,1,4,41.880,0.017
+"other licensing",42.200,1,4,41.880,0.017
+"subjective matter",42.200,1,4,41.880,0.017
+"actual productivity",42.200,1,4,41.880,0.017
+"subsequent request",42.200,1,4,41.880,0.017
+"domain software",42.200,1,4,41.880,0.017
+"combined version",42.200,1,4,41.880,0.017
+"email at",42.000,1,5,41.880,0.021
+"crucial case",42.000,1,5,41.880,0.021
+"system developer",42.000,1,5,41.880,0.021
+"paradigmatic example",42.000,1,5,41.880,0.021
+"anonymous ftp",42.000,1,5,41.880,0.021
+"issue of intellectual property",42.000,1,5,41.880,0.021
+"common naming",42.000,1,5,41.880,0.021
+"naming pattern",42.000,1,5,41.880,0.021
+"software production",42.000,1,5,41.880,0.021
+"using free software",42.000,1,5,41.880,0.021
+"stack space",42.000,1,5,41.880,0.021
+"similar spirit",42.000,1,5,41.880,0.021
+"proprietary operating system",42.000,1,5,41.880,0.021
+"head tax",42.000,1,5,41.880,0.021
+"different wording",42.000,1,5,41.880,0.021
+"technical advantage",41.830,1,6,41.880,0.025
+"complete source code",41.830,1,6,41.880,0.025
+"substantial collection",41.830,1,6,41.880,0.025
+"saving everyone",41.830,1,6,41.880,0.025
+"such justification",41.830,1,6,41.880,0.025
+"permissive license",41.830,1,6,41.880,0.025
+"specific license",41.830,1,6,41.880,0.025
+"wrong meaning",41.830,1,6,41.880,0.025
+"extracting money",41.830,1,6,41.880,0.025
+"complete operating system",41.830,1,6,41.880,0.025
+"long task",41.830,1,6,41.880,0.025
+"social advantage",41.670,1,7,41.880,0.029
+"original announcement",41.670,1,7,41.880,0.029
+"main developer",41.670,1,7,41.880,0.029
+"programming effort",41.670,1,7,41.880,0.029
+"specific entity",41.670,1,7,41.880,0.029
+"real gain",41.670,1,7,41.880,0.029
+"continuing goal",41.670,1,7,41.880,0.029
+"copyleft license",41.670,1,7,41.880,0.029
+"old license",41.670,1,7,41.880,0.029
+"interesting program",41.670,1,7,41.880,0.029
+"real programming",41.670,1,7,41.880,0.029
+"crucial requirement",41.670,1,7,41.880,0.029
+"patent suit",41.670,1,7,41.880,0.029
+"display support",41.670,1,7,41.880,0.029
+"programming work",41.670,1,7,41.880,0.029
+"deliberate destruction",41.510,1,8,41.880,0.034
+"substantial fee",41.510,1,8,41.880,0.034
+"little harm",41.510,1,8,41.880,0.034
+"special job",41.510,1,8,41.880,0.034
+"source level",41.510,1,8,41.880,0.034
+"including licensing",41.510,1,8,41.880,0.034
+"american pastime",41.510,1,8,41.880,0.034
+"blanket prohibition",41.510,1,8,41.880,0.034
+"rare skill",41.510,1,8,41.880,0.034
+"expensive business",41.350,1,9,41.880,0.038
+"tremendous cost",41.350,1,9,41.880,0.038
+"computer field",41.350,1,9,41.880,0.038
+"distribution site",41.350,1,9,41.880,0.038
+"copyright system",41.350,1,9,41.880,0.038
+"system version",41.350,1,9,41.880,0.038
+"sealed box",41.150,1,10,41.880,0.042
+"defending freedom",41.150,1,10,41.880,0.042
+"tight group",41.150,1,10,41.880,0.042
+"command interpreter",41.150,1,10,41.880,0.042
+"certain program",41.150,1,10,41.880,0.042
+"total tax rate",41.150,1,10,41.880,0.042
+"special situation",41.150,1,10,41.880,0.042
+"doing real work",41.150,1,10,41.880,0.042
+"hacker community",40.990,1,11,41.880,0.046
+"individual control",40.990,1,11,41.880,0.046
+"parser generator",40.990,1,11,41.880,0.046
+"small memory",40.990,1,11,41.880,0.046
+"government pressure",40.990,1,11,41.880,0.046
+"substantial price",40.990,1,11,41.880,0.046
+"only important thing",40.990,1,11,41.880,0.046
+"dutch word",40.990,1,11,41.880,0.046
+"useful application",40.840,1,12,41.880,0.050
+"commercial distribution",40.840,1,12,41.880,0.050
+"own distribution",40.840,1,12,41.880,0.050
+"binary form",40.840,1,12,41.880,0.050
+"different philosophy",40.840,1,12,41.880,0.050
+"ideal system",40.680,1,13,41.880,0.055
+"operating system software",40.530,1,14,41.880,0.059
+"new basis",40.340,1,15,41.880,0.063
+"moral equivalent",40.340,1,15,41.880,0.063
+"proprietary system",40.340,1,15,41.880,0.063
+"whole system",40.250,2,263,83.759,1.107
+"various computer",40.190,1,16,41.880,0.067
+"standard price",40.190,1,16,41.880,0.067
+"complete replacement",40.190,1,16,41.880,0.067
+"legal tradition",40.190,1,16,41.880,0.067
+"ethical obligation",40.040,1,17,41.880,0.072
+"free system",40.040,1,17,41.880,0.072
+"software today",40.040,1,17,41.880,0.072
+"productive activity",39.890,1,18,41.880,0.076
+"implicit assumption",39.890,1,18,41.880,0.076
+"writing documentation",39.890,1,18,41.880,0.076
+"such license",39.890,1,18,41.880,0.076
+"commercial sale",39.890,1,18,41.880,0.076
+"memory size",39.890,1,18,41.880,0.076
+"software distribution",39.740,1,19,41.880,0.080
+"complete source",39.560,1,20,41.880,0.084
+"specific implementation",39.410,1,21,41.880,0.088
+"overall job",39.410,1,21,41.880,0.088
+"practical reality",39.410,1,21,41.880,0.088
+"particular software",39.410,1,21,41.880,0.088
+"history section",39.270,1,22,41.880,0.093
+"working system",39.270,1,22,41.880,0.093
+"online documentation",38.980,1,24,41.880,0.101
+"minor detail",38.800,1,25,41.880,0.105
+"principal goal",38.800,1,25,41.880,0.105
+"spanish word",38.660,1,26,41.880,0.109
+"gas mask",38.390,1,28,41.880,0.118
+"competent person",38.390,1,28,41.880,0.118
+"only basis",38.220,1,29,41.880,0.122
+"deliberate choice",38.220,1,29,41.880,0.122
+"good citizen",38.220,1,29,41.880,0.122
+"software licensing",38.220,1,29,41.880,0.122
+"encryption software",38.220,1,29,41.880,0.122
+"compression algorithm",38.080,1,30,41.880,0.126
+"letting someone",38.080,1,30,41.880,0.126
+"powerful software",37.950,1,31,41.880,0.130
+"same government",37.810,1,32,41.880,0.135
+"useful knowledge",37.810,1,32,41.880,0.135
+"production use",37.810,1,32,41.880,0.135
+"translation service",37.680,1,33,41.880,0.139
+"specific software",37.680,1,33,41.880,0.139
+"way of making money",37.680,1,33,41.880,0.139
+"common business",37.510,1,34,41.880,0.143
+"particular community",37.510,1,34,41.880,0.143
+"other gear",37.380,1,35,41.880,0.147
+"useful thing",37.250,1,36,41.880,0.151
+"ethical issue",37.000,1,38,41.880,0.160
+"virtual memory",37.000,1,38,41.880,0.160
+"certain part",37.000,1,38,41.880,0.160
+"asking permission",36.840,1,39,41.880,0.164
+"whole collection",36.710,1,40,41.880,0.168
+"early date",36.590,1,41,41.880,0.173
+"real message",36.340,1,43,41.880,0.181
+"real source",36.180,1,44,41.880,0.185
+"necessary condition",36.060,1,45,41.880,0.189
+"family counseling",36.060,1,45,41.880,0.189
+"extended version",36.060,1,45,41.880,0.189
+"related issue",35.940,1,46,41.880,0.194
+"careful thought",35.940,1,46,41.880,0.194
+"system today",35.940,1,46,41.880,0.194
+"unusual way",35.440,1,50,41.880,0.210
+"right question",35.200,1,52,41.880,0.219
+"own choosing",35.060,1,53,41.880,0.223
+"actual problem",35.060,1,53,41.880,0.223
+"wrong idea",34.950,1,54,41.880,0.227
+"first program",34.950,1,54,41.880,0.227
+"object code",34.830,1,55,41.880,0.231
+"whole society",34.830,1,55,41.880,0.231
+"computer user",34.830,1,55,41.880,0.231
+"brief statement",34.610,1,57,41.880,0.240
+"particular user",34.360,1,59,41.880,0.248
+"other sort",34.250,1,60,41.880,0.252
+"little extra time",34.140,1,61,41.880,0.257
+"control program",34.030,1,62,41.880,0.261
+"case someone",34.030,1,62,41.880,0.261
+"major obstacle",33.900,1,63,41.880,0.265
+"such software",33.900,1,63,41.880,0.265
+"common concern",33.680,1,65,41.880,0.274
+"paying tribute",33.680,1,65,41.880,0.274
+"software vendor",33.680,1,65,41.880,0.274
+"interesting work",33.580,1,66,41.880,0.278
+"particular task",33.470,1,67,41.880,0.282
+"strong feeling",33.240,1,69,41.880,0.290
+"developing software",33.140,1,70,41.880,0.295
+"common thing",33.030,1,71,41.880,0.299
+"major advantage",32.930,1,72,41.880,0.303
+"back door",32.830,2,376,83.759,1.582
+"something close",32.810,1,73,41.880,0.307
+"great cost",32.810,1,73,41.880,0.307
+"other entity",32.810,1,73,41.880,0.307
+"same condition",32.710,1,74,41.880,0.311
+"central idea",32.710,1,74,41.880,0.311
+"community project",32.710,1,74,41.880,0.311
+"client software",32.710,1,74,41.880,0.311
+"particular job",32.610,1,75,41.880,0.316
+"part-time work",32.610,1,75,41.880,0.316
+"large project",32.510,1,76,41.880,0.320
+"practical matter",32.390,1,77,41.880,0.324
+"first way",32.390,1,77,41.880,0.324
+"strategic decision",32.290,1,78,41.880,0.328
+"educational environment",32.290,1,78,41.880,0.328
+"output file",32.290,1,78,41.880,0.328
+"good system",32.290,1,78,41.880,0.328
+"public entity",32.190,1,79,41.880,0.332
+"direct way",32.190,1,79,41.880,0.332
+"good conscience",31.880,1,82,41.880,0.345
+"same program",31.880,1,82,41.880,0.345
+"bad place",31.790,1,83,41.880,0.349
+"intended purpose",31.790,1,83,41.880,0.349
+"easy choice",31.690,1,84,41.880,0.353
+"same field",31.600,1,85,41.880,0.358
+"repair service",31.600,1,85,41.880,0.358
+"commercial software",31.510,1,86,41.880,0.362
+"community spirit",31.510,1,86,41.880,0.362
+"great loss",30.910,1,92,41.880,0.387
+"public display",30.740,1,94,41.880,0.396
+"memory usage",30.740,1,94,41.880,0.396
+"original name",30.560,1,96,41.880,0.404
+"big job",30.200,1,100,41.880,0.421
+"wrong answer",30.090,1,101,41.880,0.425
+"other activity",29.840,1,104,41.880,0.438
+"network access",29.650,1,106,41.880,0.446
+"whole issue",29.570,1,107,41.880,0.450
+"building community",29.490,1,108,41.880,0.454
+"system administrator",29.070,1,113,41.880,0.476
+"average user",29.070,1,113,41.880,0.476
+"patent system",28.820,1,116,41.880,0.488
+"good strategy",28.590,1,119,41.880,0.501
+"software system",28.190,1,124,41.880,0.522
+"practical use",28.100,1,125,41.880,0.526
+"writing code",27.880,1,128,41.880,0.539
+"business practice",27.810,1,129,41.880,0.543
+"new issue",27.350,1,135,41.880,0.568
+"residential area",27.070,1,139,41.880,0.585
+"copyright holder",26.980,1,140,41.880,0.589
+"3d printer",26.920,1,141,41.880,0.593
+"low price",26.870,2,512,83.759,2.155
+"computer lab",26.290,1,150,41.880,0.631
+"open source",26.160,12,4336,502.555,18.246
+"program development",26.020,1,154,41.880,0.648
+"only issue",26.020,1,154,41.880,0.648
+"special kind",25.960,1,155,41.880,0.652
+"same conclusion",25.370,1,164,41.880,0.690
+"large collection",25.190,1,167,41.880,0.703
+"essential part",24.850,2,573,83.759,2.411
+"front end",24.700,2,578,83.759,2.432
+"particular situation",24.640,1,176,41.880,0.741
+"long wait",24.520,1,178,41.880,0.749
+"particular way",24.400,1,180,41.880,0.757
+"police state",24.290,1,182,41.880,0.766
+"general rule",24.080,2,599,83.759,2.521
+"same category",23.890,1,189,41.880,0.795
+"short run",23.890,1,189,41.880,0.795
+"great extent",23.780,1,191,41.880,0.804
+"development project",23.180,1,202,41.880,0.850
+"same token",23.130,1,203,41.880,0.854
+"case-by-case basis",23.080,1,204,41.880,0.858
+"next person",22.770,1,210,41.880,0.884
+"space station",22.620,1,213,41.880,0.896
+"own sake",22.570,1,214,41.880,0.901
+"self defense",22.370,1,218,41.880,0.917
+"intellectual property",22.360,6,2443,251.277,10.280
+"receiving end",22.230,1,221,41.880,0.930
+"clear picture",22.130,1,223,41.880,0.938
+"extra effort",22.030,1,225,41.880,0.947
+"printing press",21.840,1,229,41.880,0.964
+"full spectrum",21.700,1,232,41.880,0.976
+"free market",20.900,2,726,83.759,3.055
+"public domain",20.750,2,733,83.759,3.084
+"new computer",20.640,1,256,41.880,1.077
+"development environment",20.360,1,263,41.880,1.107
+"special issue",19.880,1,275,41.880,1.157
+"making money",19.130,3,1336,125.639,5.622
+"competitive edge",19.100,1,296,41.880,1.246
+"commercial use",18.990,1,299,41.880,1.258
+"real work",18.960,1,300,41.880,1.262
+"first instance",18.580,1,311,41.880,1.309
+"broad spectrum",18.510,1,313,41.880,1.317
+"software program",18.470,1,314,41.880,1.321
+"full control",18.380,1,317,41.880,1.334
+"copyright law",18.380,1,317,41.880,1.334
+"free speech",18.300,2,863,83.759,3.632
+"free version",18.220,1,322,41.880,1.355
+"life span",17.890,1,332,41.880,1.397
+"text editor",17.770,1,336,41.880,1.414
+"main purpose",17.110,1,358,41.880,1.506
+"other country",16.370,1,385,41.880,1.620
+"major problem",15.690,1,412,41.880,1.734
+"file system",15.570,1,417,41.880,1.755
+"real reason",15.290,1,429,41.880,1.805
+"computer system",15.110,1,437,41.880,1.839
+"open source software",14.840,1,449,41.880,1.889
+"available today",14.560,1,462,41.880,1.944
+"source software",14.360,1,472,41.880,1.986
+"programming language",14.320,1,474,41.880,1.995
+"new program",13.520,1,516,41.880,2.171
+"complete list",13.380,1,524,41.880,2.205
+"long run",13.060,3,2066,125.639,8.694
+"same reason",12.600,1,571,41.880,2.403
+"nonprofit organization",12.270,1,593,41.880,2.495
+"same problem",12.270,1,593,41.880,2.495
+"real problem",11.690,1,634,41.880,2.668
+"good practice",11.630,1,639,41.880,2.689
+"extra time",11.440,1,653,41.880,2.748
+"own work",11.390,1,657,41.880,2.765
+"tax rate",11.020,1,687,41.880,2.891
+"ultimate goal",10.950,1,693,41.880,2.916
+"extra money",10.780,1,708,41.880,2.979
+"doing anything",9.620,1,822,41.880,3.459
+"important thing",8.640,2,2094,83.759,8.812
+"part time",8.400,1,976,41.880,4.107
+"english language",8.010,1,1035,41.880,4.355
+"large amount",7.560,1,1110,41.880,4.671
+"own life",7.070,1,1204,41.880,5.066
+"only way",6.810,3,4179,125.639,17.585
+"mailing list",6.600,1,1306,41.880,5.496
+"national security",5.770,1,1527,41.880,6.426
+"right thing",5.060,1,1777,41.880,7.478
+"business model",4.960,1,1817,41.880,7.646
+"good way",4.470,1,2040,41.880,8.584
+"good job",4.200,1,2191,41.880,9.220
+"mobile phone",3.950,1,2345,41.880,9.868
+"first step",2.560,1,3736,41.880,15.721
+"same thing",2.020,1,4801,41.880,20.203
+"other hand",1.210,1,8170,41.880,34.380
+"long time",1.050,1,9505,41.880,39.997
+"same time",0.670,1,14930,41.880,62.826
+"first time",0.570,1,17558,41.880,73.885

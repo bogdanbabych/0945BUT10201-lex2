@@ -1,0 +1,3235 @@
+<html>
+  <head>
+    <title>biterms</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  </head>
+  <body>
+    <table>
+      <thead><tr><th>Source</th><th>Target</th><th>Score</th><th>Co-freq</th><th>L1 Freq</th><th>L2 Freq</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>Softwarepaket</td>
+          <td>software package</td>
+          <td>14.000</td>
+          <td>5</td>
+          <td>5</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Entschlossenheit</td>
+          <td>determination</td>
+          <td>14.000</td>
+          <td>4</td>
+          <td>4</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>rekursives Akronym</td>
+          <td>recursive acronym</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>lange Sicht</td>
+          <td>long run</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>finanzieller Ansporn</td>
+          <td>monetary incentive</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>einziger Weg</td>
+          <td>only way</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Versprechen</td>
+          <td>promise</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Sicht</td>
+          <td>long run</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Serverbetreiber</td>
+          <td>server operator</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Papier</td>
+          <td>paper</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Nächste</td>
+          <td>neighbor</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Freundschaft</td>
+          <td>friendship</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Freeware</td>
+          <td>freeware</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Druck</td>
+          <td>pressure</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Ansporn</td>
+          <td>monetary incentive</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Akronym</td>
+          <td>recursive acronym</td>
+          <td>14.000</td>
+          <td>3</td>
+          <td>3</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>wichtiges freies Softwarepaket</td>
+          <td>major gap</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>technischer Inhalt</td>
+          <td>technical content</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>sozialer Beitrag</td>
+          <td>social contribution</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>pädagogisches Werk</td>
+          <td>reference</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>proprietäres Software-sozialsystem</td>
+          <td>software social system</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>proprietäres Paket</td>
+          <td>proprietary package</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>plattformübergreifender Compiler</td>
+          <td>multiplatform compiler</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>nützliche Software</td>
+          <td>useful software</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>nichttechnisches Thema</td>
+          <td>deal</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>neuer Compiler</td>
+          <td>new compiler</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>neue Hardware</td>
+          <td>new hardware</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>moralische Entscheidung</td>
+          <td>stark moral choice</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>großer Mangel</td>
+          <td>deficiency</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>gesamte Eingabedatei</td>
+          <td>input file</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>ganzer technischer Inhalt</td>
+          <td>technical content</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>freies Softwarepaket</td>
+          <td>major gap</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>freier Ersatz</td>
+          <td>free replacement</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>fehlende Komponente</td>
+          <td>missing component</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>bestimmter Grund</td>
+          <td>particular reason</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Zuverlässigkeit</td>
+          <td>reliability</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Zerstörung</td>
+          <td>destruction</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Wissen</td>
+          <td>knowledge</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Wartung</td>
+          <td>maintenance</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Unterschied</td>
+          <td>difference</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Tivoisierung</td>
+          <td>tivoization</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Textsatzsystem</td>
+          <td>text formatter</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Tex</td>
+          <td>text formatter</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Tag</td>
+          <td>day</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Syntaxbaum</td>
+          <td>tree</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Straße</td>
+          <td>street</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Software-sozialsystem</td>
+          <td>software social system</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Reverse</td>
+          <td>reverse engineering</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Redefreiheit</td>
+          <td>speech</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Produktivität</td>
+          <td>productivity</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Popularität</td>
+          <td>popularity</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Name Gnu</td>
+          <td>syllable</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Nachschlagewerk</td>
+          <td>reference</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Medium</td>
+          <td>technical content</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Libre Software</td>
+          <td>libre software</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Kommunikation</td>
+          <td>communication</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Inhalt des Handbuchs</td>
+          <td>technical content</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Historie</td>
+          <td>history</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Hintertüre</td>
+          <td>door</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Grimasse</td>
+          <td>street</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Freie-software-geschäft</td>
+          <td>free software business</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Freibier</td>
+          <td>speech</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Fenstersystem</td>
+          <td>window system</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Engineering</td>
+          <td>reverse engineering</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Eingabedatei</td>
+          <td>input file</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Copyright-hinweis</td>
+          <td>copyright notice</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>C-frontend</td>
+          <td>front end</td>
+          <td>14.000</td>
+          <td>2</td>
+          <td>2</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>üblicher Zweck</td>
+          <td>usual purpose</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>üblicher Preis</td>
+          <td>standard price</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>übertriebene Restriktion</td>
+          <td>specific software license</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ähnliches Problem</td>
+          <td>related issue</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ähnlicher Geist</td>
+          <td>similar spirit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ähnliche Ausstattung</td>
+          <td>using free software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Übersetzungsteam</td>
+          <td>webmasters@gnu.org</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Übersetzung des Begriffs</td>
+          <td>worth avoiding</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Übersenden</td>
+          <td>sase</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Übeltäter</td>
+          <td>thumb</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Äquivalent</td>
+          <td>secret software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Änderung des Namens</td>
+          <td>special issue</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>zusätzliches Geld</td>
+          <td>little extra time</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>zusätzlicher Aufwand</td>
+          <td>extra effort</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>zusätzliche Funktion</td>
+          <td>working system</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>zusätzliche Berechtigung</td>
+          <td>parallel</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>zusammenhängender Dienst</td>
+          <td>whole collection</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>zusammenarbeitende Gemeinschaft</td>
+          <td>cooperating community</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>zulässiges Ziel</td>
+          <td>valid goal</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>willkürliche feste Größenbegrenzung</td>
+          <td>good practice</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>wichtiges Ziel</td>
+          <td>main purpose</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>wichtiger Weg</td>
+          <td>contradiction</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>wichtige Ftp-vertriebsseite</td>
+          <td>site</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>wesentlicher Bestandteil</td>
+          <td>good free manual</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weltweite Mission</td>
+          <td>ultimate goal</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weitverbreitete Geschäftspraxis</td>
+          <td>usual shell</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weites Schreiben</td>
+          <td>ed</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weites Indiz</td>
+          <td>indication</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weites Ding</td>
+          <td>spreadsheet</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weiter häufiger Einwand</td>
+          <td>popularity of free software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weiter Schaden</td>
+          <td>thumb</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weite unausgesprochene Annahme</td>
+          <td>unstated assumption</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weite freie Software</td>
+          <td>tape distribution business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weite Ressource</td>
+          <td>other licensing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weite Freie-software-entwicklung</td>
+          <td>major advantage</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>weite Anfrage</td>
+          <td>subsequent request</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>wahrer Grund</td>
+          <td>real reason</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vorheriges Ungleichgewicht</td>
+          <td>previous imbalance</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vorhandener Teil</td>
+          <td>reach</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vorhandener Schiedsrichter</td>
+          <td>shot</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vorhandene freie Softwarelizenz</td>
+          <td>proliferation of different free software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vorhandene Gastfreundlichkeit</td>
+          <td>institution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vollständiges Betriebssystem</td>
+          <td>complete operating system</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vollständiger Quellcode</td>
+          <td>corresponding complete source code</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vollständiger Ersatz</td>
+          <td>complete replacement</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vollständige Übersicht</td>
+          <td>cvsweb interface</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>vollständige Kontrolle</td>
+          <td>full control</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>virtueller Speicher</td>
+          <td>virtual memory</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>versiegelter Kasten</td>
+          <td>sealed box</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>versehenes Programm</td>
+          <td>specific implementation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedenes unfreies Vertriebsschema</td>
+          <td>various nonfree distribution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedenes Ding</td>
+          <td>same category</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedener Ort</td>
+          <td>same program</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedene Übersetzung</td>
+          <td>worth avoiding</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedene bösartige Funktion</td>
+          <td>tip</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedene andere nützliche Software</td>
+          <td>various other useful software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedene Weise</td>
+          <td>nonprofit organization</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedene Rechnerfirma</td>
+          <td>various computer</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedene Lizenz</td>
+          <td>new issue</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedene Herausforderung</td>
+          <td>steadfast effort</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedene Aufgabe</td>
+          <td>microkernel</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verschiedene Antwort</td>
+          <td>paradoxical situation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verlockende unfreie Bibliothek</td>
+          <td>tempting nonfree library</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verkaufte freie Software</td>
+          <td>contradiction</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verführerische Illusion</td>
+          <td>bias</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verfügbare proprietäre Software</td>
+          <td>major advantage</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verfügbare freie Software</td>
+          <td>other available free software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verfügbare Person</td>
+          <td>individual</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verbrauchter Liter</td>
+          <td>station</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>verbesserte Version</td>
+          <td>development project</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ursprünglicher Pdp-10</td>
+          <td>sase</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ursprüngliche Ankündigung</td>
+          <td>original announcement</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unwiderstehliche Anziehungskraft</td>
+          <td>irresistible fascination</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unwichtiges Detail</td>
+          <td>minor detail</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unterschiedliche Sichtweise</td>
+          <td>paradoxical situation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unproduktive Aktivität</td>
+          <td>whole society</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unnötige Doppelarbeit</td>
+          <td>wasteful duplication of system programming</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unmoralischer Ansatz</td>
+          <td>same field</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unixoides Softwaresystem</td>
+          <td>unix-compatible software system</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unixartiges System</td>
+          <td>tar program</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>universelle Hintertüre</td>
+          <td>universal back door</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ungültiger Verweis</td>
+          <td>gnu@gnu.org</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ungewöhnliche Weise</td>
+          <td>unusual way</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unfreies Vertriebsschema</td>
+          <td>various nonfree distribution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unfreies Unix-system</td>
+          <td>free version</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unfreies Mehrbenutzer-betriebssystem</td>
+          <td>timesharing system</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unfreies Handbuch</td>
+          <td>nonfree manual</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unfreier Treiber</td>
+          <td>strong feeling</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unfreier Teil</td>
+          <td>ship</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unfreier Quellcode</td>
+          <td>related issue</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unfreie grafische Benutzerschnittstelle</td>
+          <td>toolkit library</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unfreie Verschlüsselungssoftware</td>
+          <td>privacy</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unfreie Skype-client-software</td>
+          <td>client software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unerwartetes Problem</td>
+          <td>tight group</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unerschütterliche Anstrengung</td>
+          <td>steadfast effort</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unbestreitbares natürliches Recht</td>
+          <td>unquestionable natural right</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unbekanntes interessantes Programm</td>
+          <td>playful cleverness</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unbeantwortetes Anliegen</td>
+          <td>other licensing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unausgesprochene Annahme</td>
+          <td>unstated assumption</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>unabdingbare Anforderung</td>
+          <td>specific implementation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>umfangreiche Freie-software-sammlung</td>
+          <td>toolkit library</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>umfangreiche Aufgabe</td>
+          <td>sufficient determination</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>triviale Ausfuhrbestimmung</td>
+          <td>obedience</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>traditioneller amerikanischer Zeitvertreib</td>
+          <td>traditional american pastime of tinkering</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>teures Geschäft</td>
+          <td>expensive business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>terminalunabhängige Anzeigeunterstützung</td>
+          <td>terminal-independent display support</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>teilende Gemeinschaft</td>
+          <td>new software-sharing community</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>technisches Ziel</td>
+          <td>principal goal</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>technische Idee</td>
+          <td>way of paying tribute</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>tatsächliches Problem</td>
+          <td>regulation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>talentierter Programmierer</td>
+          <td>training</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>subjektive Angelegenheit</td>
+          <td>subjective matter</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>strategische Entscheidung</td>
+          <td>strategic decision</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>steigende Nutzerzahl</td>
+          <td>self-defeating policy</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>starkes Gefühl</td>
+          <td>strong feeling</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>staatliche Ausfuhrkontrollbestimmung</td>
+          <td>trade</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>späte Änderung</td>
+          <td>regulation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>spezielle Aufgabe</td>
+          <td>special job</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>spezielle Art</td>
+          <td>track</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>spanisches Wort</td>
+          <td>spanish word</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>soziales Engagement</td>
+          <td>previous imbalance</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>sozialer Vorteil</td>
+          <td>technical advantage</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>solidees Arbeit</td>
+          <td>long time</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>solche Rechtfertigung</td>
+          <td>such justification</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>seltene Gabe</td>
+          <td>skill</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>selbstzerstörerische Politik</td>
+          <td>self-defeating policy</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>selbener schlechter Ort</td>
+          <td>same bad place</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>sekundäre Ungerechtigkeit</td>
+          <td>entity unjust power</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>schädliche Auswirkung</td>
+          <td>deliberate destruction</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>schwieriger Teil</td>
+          <td>source-level debugger</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>schwerfälliger Mechanismus</td>
+          <td>tremendous cost</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>schwere Entscheidung</td>
+          <td>ease</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>schlüssiges Problem</td>
+          <td>coherent issue</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>schlimmer Ort</td>
+          <td>career</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>schlechter Ort</td>
+          <td>same bad place</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>schlechte Bildung</td>
+          <td>bad education</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>richtiger Schritt</td>
+          <td>right thing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>richtige Kenntnis</td>
+          <td>system developer</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>richtige Frage</td>
+          <td>right question</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>reduzierter finanzieller Ansporn</td>
+          <td>right question</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>rechtlicher Vorwand</td>
+          <td>legal excuse</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>rechtlicher Hinweis</td>
+          <td>doing anything</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>rechtliche Tradition</td>
+          <td>view</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>rechnernutzende Gemeinschaft</td>
+          <td>computer-using community</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>quelloffenes Programm</td>
+          <td>practical definition</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>pädagogisches Umfeld</td>
+          <td>system code</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>proprietäres Unix-systemen</td>
+          <td>same nondisclosure agreement</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>proprietäres System</td>
+          <td>proprietary system</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>proprietäres Softwarepaket</td>
+          <td>proprietary software package</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>proprietäres Betriebssystem</td>
+          <td>proprietary operating system</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>proprietärer Entwickler</td>
+          <td>heart</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>proprietäre Verlagspraktik</td>
+          <td>publishing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>proprietäre Softwarewelt</td>
+          <td>signing nondisclosure</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>proprietäre Anwendung</td>
+          <td>ethical reason</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>professioneller Musiker</td>
+          <td>shortage</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>produktiver Einsatz</td>
+          <td>production use</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>produktive Aktivität</td>
+          <td>whole society</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>private Hand</td>
+          <td>sovereignty</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>primäres Ziel</td>
+          <td>principal goal</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>praktizierende perverse Terminologie</td>
+          <td>terminology</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>praktischer Nutzen</td>
+          <td>useful knowledge</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>praktischer Gesichtspunkt</td>
+          <td>using freedom</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>praktische Wirksamkeit</td>
+          <td>practical effectiveness</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>praktische Tätigkeit</td>
+          <td>circuit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>praktische Realität</td>
+          <td>terminology</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>praktische Definition</td>
+          <td>practical definition</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>portables Common</td>
+          <td>spreadsheet</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>politische Bildung</td>
+          <td>previous imbalance</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>perverse Terminologie</td>
+          <td>terminology</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>pauschales Verbot</td>
+          <td>prohibition</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>paradoxe Situation</td>
+          <td>paradoxical situation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>paradigmatisches Beispiel</td>
+          <td>paradigmatic example</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>organisierte Zusammenarbeit</td>
+          <td>organized cooperation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>organisatorische Grundlage</td>
+          <td>customer</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>optimierender C-compiler</td>
+          <td>portable</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nützliches Wissen</td>
+          <td>useful knowledge</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nützlicher Modul</td>
+          <td>major advantage</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nützliche Anwendung</td>
+          <td>useful application</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>notwendige Bedingung</td>
+          <td>necessary condition</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>notwendige Aufgabe</td>
+          <td>week</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nicht-finanzielle Belohnung</td>
+          <td>fame</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nicht-fiktionales Werk</td>
+          <td>nonfiction</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neues Programm</td>
+          <td>playful cleverness</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neues Handbuch</td>
+          <td>new manual</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neues Freie-software-produkt</td>
+          <td>launching new free software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neuer Rechner</td>
+          <td>new computer</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neuer Pdp-10</td>
+          <td>timesharing system</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neuer Ftp-server</td>
+          <td>site</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neue freie Software</td>
+          <td>major advantage</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neue Software</td>
+          <td>new software-sharing community</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neue Programmfunktion</td>
+          <td>answering user</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neue Plattform</td>
+          <td>porting gcc</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neue Grundlage</td>
+          <td>new basis</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>neue Entwicklung</td>
+          <td>original announcement</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nationale Sicherheit</td>
+          <td>such software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nahe verlockende unfreie Bibliothek</td>
+          <td>tempting nonfree library</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nahe Person</td>
+          <td>writing documentation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nachträgliche Lizenzänderung</td>
+          <td>complete replacement</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>nachträgliche Anmerkung</td>
+          <td>subsequent note</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>mögliche 8-bit-codes</td>
+          <td>good practice</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>moralisches Äquivalent</td>
+          <td>secret software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>moderner Rechner</td>
+          <td>executable copy</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>lizenzierter vorhandener Modul</td>
+          <td>module</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>letztes Mal</td>
+          <td>great loss</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>letztes Ende</td>
+          <td>institution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>leistungsfähige Software</td>
+          <td>rhetoric</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>langer Dateiname</td>
+          <td>terminal-independent display support</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>lange Wartezeit</td>
+          <td>wait</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>künstliche Intelligenz</td>
+          <td>institution</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kurze Darstellung</td>
+          <td>brief statement</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kostengünstige Werbung</td>
+          <td>publicity</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>konkrete Umsetzung</td>
+          <td>letter</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>komprimiertes Mp3-audio</td>
+          <td>suit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>komprimierte Gif-datei</td>
+          <td>suit</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kompetente Person</td>
+          <td>competent person</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kompatibler Ersatz</td>
+          <td>contributor</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kompatible Ersatzbibliothek</td>
+          <td>replacement library</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kommerzieller Vertrieb</td>
+          <td>such free commercial software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kommerzieller Verkauf</td>
+          <td>including commercial sale</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kommerzielle freie Software</td>
+          <td>commercial free software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kommerzielle Nutzung</td>
+          <td>such free commercial software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kombinierte Version</td>
+          <td>specific implementation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kollektive Kontrolle</td>
+          <td>collective control</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kleiner Teil</td>
+          <td>whole society</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kleiner Rechner</td>
+          <td>extra effort</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kleine Speichergröße</td>
+          <td>usage</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>kleine Benutzergruppe</td>
+          <td>useful thing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>klares Bild</td>
+          <td>spin-off company</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>irreführender Begriff</td>
+          <td>worth avoiding</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>intrinsisches Recht</td>
+          <td>issue of intellectual property</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>interessantes Programm</td>
+          <td>playful cleverness</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>interessante Arbeit</td>
+          <td>same interesting work</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>inspirierendes Beispiel</td>
+          <td>banner</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>innovatives Programm</td>
+          <td>token</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>individuelle Kontrolle</td>
+          <td>individual control</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>indirekter Schaden</td>
+          <td>school</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>implizite Annahme</td>
+          <td>wrong answer</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ideales System</td>
+          <td>ideal system</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>häufiges Geschäftsmodell</td>
+          <td>development of custom software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>häufiger Einwand</td>
+          <td>popularity of free software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>häufige Missverständnis</td>
+          <td>different wording</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>hohe Priorität</td>
+          <td>general task list</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>hinzuzufügender Quellcode</td>
+          <td>module</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gutes pädagogisches Umfeld</td>
+          <td>system code</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gutes Gewissen</td>
+          <td>software license agreement</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gutes Englisch</td>
+          <td>skill</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gutes Beispiel</td>
+          <td>client software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>guter Weg</td>
+          <td>sealed box</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>guter Job</td>
+          <td>good job</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>guter Bürger</td>
+          <td>mutual destructiveness</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>guter Begriff</td>
+          <td>ambiguity</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gute Systemsoftware</td>
+          <td>good system software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gute Strategie</td>
+          <td>good strategy</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gute Praxis</td>
+          <td>good practice</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gute Konsequenz</td>
+          <td>commercial free software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>großes Projekt</td>
+          <td>large project</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>großes Problem</td>
+          <td>major problem</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>großes Hindernis</td>
+          <td>major obstacle</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>großer Vorteil</td>
+          <td>major advantage</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>großer Umfang</td>
+          <td>great extent</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>großer Schaden</td>
+          <td>great loss</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>großer Aufwand</td>
+          <td>station</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>großer Adressraum</td>
+          <td>architecture</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>große kombinierte Version</td>
+          <td>specific implementation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>große fehlende Komponente</td>
+          <td>major missing component</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>große Lücke</td>
+          <td>good free manual</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>große Freie-software-gemeinschaft</td>
+          <td>software community libreplanet</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>große Datei</td>
+          <td>o</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>grafische Benutzerschnittstelle</td>
+          <td>toolkit library</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>grafische Benutzeroberflächen-umgebung</td>
+          <td>desktop project</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleiches Problem</td>
+          <td>client software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleiches Gebiet</td>
+          <td>same field</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleiches Ergebnis</td>
+          <td>speaking</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleiches Argument</td>
+          <td>useful knowledge</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleicher Grund</td>
+          <td>effect part</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleicher Druck</td>
+          <td>same government pressure</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleiche Überlegung</td>
+          <td>speaking</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleiche Ungerechtigkeit</td>
+          <td>same bad place</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleiche Softwarekategorie</td>
+          <td>same category</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gleiche Argumentation</td>
+          <td>violence</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gewöhnliches Unix-programm</td>
+          <td>terminal-independent display support</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gewöhnliche Gnu</td>
+          <td>readline</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gewaltige Kosten</td>
+          <td>tremendous cost</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gesunder Menschenverstand</td>
+          <td>ordinary commonsense morality</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gespendeter Rechner</td>
+          <td>reputation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geschäftlicher Vertrieb</td>
+          <td>software distribution business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geschäftliche Software</td>
+          <td>restricting copying</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gesamter Syntaxbaum</td>
+          <td>whole syntax tree</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gesamter Steuersatz</td>
+          <td>vote</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gerechtfertigtes Übel</td>
+          <td>justifiable evil</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>genutzter Befehlszeileninterpreter</td>
+          <td>employee</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>genauer Wortlaut</td>
+          <td>interpretation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>genaue Kommunikation</td>
+          <td>tight group</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gemeinsame Nutzung</td>
+          <td>timesharing operating system</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geheime Software</td>
+          <td>secret software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geheime Hardware</td>
+          <td>secret hardware hardware</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gehaltene Annahme</td>
+          <td>real message</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gegründete gemeinnützige Organisation</td>
+          <td>nonprofit organization</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gegenteilige Weise</td>
+          <td>usual purpose</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gegenseitiger Kampf</td>
+          <td>bureaucracy</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gegenseitige Destruktivität</td>
+          <td>mutual destructiveness</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>geeignete Alias-funktion</td>
+          <td>suitable aliasing facility</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gedrucktes Handbuch</td>
+          <td>whole collection</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gebührenpflichtige Gasmaske</td>
+          <td>station</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gebräuchliches Mittel</td>
+          <td>software today</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>gebrauchsfertiges System</td>
+          <td>sophisticated cooling</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ganzes System</td>
+          <td>large project</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ganzer Tag</td>
+          <td>station</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ganzer Compiler</td>
+          <td>whole compiler</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ganze Softwaresammlung</td>
+          <td>whole collection</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ganze Nacht</td>
+          <td>station</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ganze Gnu</td>
+          <td>software distribution business</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>ganze Ausgabedatei</td>
+          <td>whole syntax tree</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fürchterliche Verwechselung</td>
+          <td>horrible confusion</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fähigkeitsbasiertes Konzept</td>
+          <td>flexibility</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>funktionierendes System</td>
+          <td>working system</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fundamentaler Akt</td>
+          <td>marketing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>freies System</td>
+          <td>tomorrow</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>freies Steuerelement</td>
+          <td>individual free software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>freies Gnu</td>
+          <td>free gnu</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>freie Welt</td>
+          <td>sealed box</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>freie Version</td>
+          <td>free version</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>freie Software-gemeinschaft</td>
+          <td>organized cooperation</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>freie Distribution</td>
+          <td>relationship</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>freie Anwendung</td>
+          <td>ethical reason</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>frankierter Rückumschlag</td>
+          <td>sase</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>feste Größenbegrenzung</td>
+          <td>good practice</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>feste Gruppe</td>
+          <td>tight group</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fertiges Gnu-system</td>
+          <td>system today</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fertiges Ergebnis</td>
+          <td>own choosing</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fehlender Unix-komponenten</td>
+          <td>various other useful software</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fehlende Bibliothek</td>
+          <td>bait</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>falsche Idee</td>
+          <td>wrong idea</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>falsche Bedeutung</td>
+          <td>wrong meaning</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>falsche Antwort</td>
+          <td>wrong answer</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>fadenscheiniger Vorwand</td>
+          <td>terminology</td>
+          <td>14.000</td>
+          <td>1</td>
+          <td>1</td>
+          <td>1</td>
+        </tr>
+      </tbody>
+</table></body></html>

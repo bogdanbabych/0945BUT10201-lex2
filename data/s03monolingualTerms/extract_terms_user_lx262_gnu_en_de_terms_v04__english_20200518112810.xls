@@ -1,0 +1,6323 @@
+<html>
+  <head>
+    <title>extract_terms</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  </head>
+  <body>
+    <table>
+      <thead><tr><th>Term</th><th>Score</th><th>Freq</th><th>Ref freq</th><th>Rel freq</th><th>Rel ref freq</th></tr></thead>
+      <tbody>
+      <tr>
+        <td>free software</td>
+        <td>2110.310</td>
+        <td>171</td>
+        <td>569</td>
+        <td>7161.404</td>
+        <td>2.394</td>
+      </tr>
+      <tr>
+        <td>proprietary software</td>
+        <td>889.400</td>
+        <td>33</td>
+        <td>132</td>
+        <td>1382.025</td>
+        <td>0.555</td>
+      </tr>
+      <tr>
+        <td>nonfree software</td>
+        <td>377.920</td>
+        <td>9</td>
+        <td>0</td>
+        <td>376.916</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>free license</td>
+        <td>286.720</td>
+        <td>8</td>
+        <td>41</td>
+        <td>335.036</td>
+        <td>0.173</td>
+      </tr>
+      <tr>
+        <td>free manual</td>
+        <td>249.290</td>
+        <td>6</td>
+        <td>3</td>
+        <td>251.277</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>free software community</td>
+        <td>243.280</td>
+        <td>6</td>
+        <td>9</td>
+        <td>251.277</td>
+        <td>0.038</td>
+      </tr>
+      <tr>
+        <td>free software movement</td>
+        <td>241.180</td>
+        <td>6</td>
+        <td>11</td>
+        <td>251.277</td>
+        <td>0.046</td>
+      </tr>
+      <tr>
+        <td>software movement</td>
+        <td>238.450</td>
+        <td>6</td>
+        <td>14</td>
+        <td>251.277</td>
+        <td>0.059</td>
+      </tr>
+      <tr>
+        <td>software community</td>
+        <td>231.020</td>
+        <td>6</td>
+        <td>22</td>
+        <td>251.277</td>
+        <td>0.093</td>
+      </tr>
+      <tr>
+        <td>software license</td>
+        <td>207.810</td>
+        <td>6</td>
+        <td>51</td>
+        <td>251.277</td>
+        <td>0.215</td>
+      </tr>
+      <tr>
+        <td>free operating system</td>
+        <td>201.140</td>
+        <td>5</td>
+        <td>11</td>
+        <td>209.398</td>
+        <td>0.046</td>
+      </tr>
+      <tr>
+        <td>source code</td>
+        <td>187.100</td>
+        <td>32</td>
+        <td>1466</td>
+        <td>1340.146</td>
+        <td>6.169</td>
+      </tr>
+      <tr>
+        <td>free program</td>
+        <td>181.360</td>
+        <td>6</td>
+        <td>93</td>
+        <td>251.277</td>
+        <td>0.391</td>
+      </tr>
+      <tr>
+        <td>modified version</td>
+        <td>169.090</td>
+        <td>6</td>
+        <td>117</td>
+        <td>251.277</td>
+        <td>0.492</td>
+      </tr>
+      <tr>
+        <td>nonfree program</td>
+        <td>168.520</td>
+        <td>4</td>
+        <td>0</td>
+        <td>167.518</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>free software license</td>
+        <td>166.520</td>
+        <td>4</td>
+        <td>3</td>
+        <td>167.518</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>free software development</td>
+        <td>165.860</td>
+        <td>4</td>
+        <td>4</td>
+        <td>167.518</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>modified program</td>
+        <td>165.860</td>
+        <td>4</td>
+        <td>4</td>
+        <td>167.518</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>proprietary program</td>
+        <td>165.860</td>
+        <td>4</td>
+        <td>4</td>
+        <td>167.518</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>nondisclosure agreement</td>
+        <td>157.350</td>
+        <td>4</td>
+        <td>17</td>
+        <td>167.518</td>
+        <td>0.072</td>
+      </tr>
+      <tr>
+        <td>natural right</td>
+        <td>145.400</td>
+        <td>4</td>
+        <td>38</td>
+        <td>167.518</td>
+        <td>0.160</td>
+      </tr>
+      <tr>
+        <td>software business</td>
+        <td>135.030</td>
+        <td>4</td>
+        <td>59</td>
+        <td>167.518</td>
+        <td>0.248</td>
+      </tr>
+      <tr>
+        <td>system software</td>
+        <td>131.960</td>
+        <td>4</td>
+        <td>66</td>
+        <td>167.518</td>
+        <td>0.278</td>
+      </tr>
+      <tr>
+        <td>software-sharing community</td>
+        <td>126.640</td>
+        <td>3</td>
+        <td>0</td>
+        <td>125.639</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>definition of free software</td>
+        <td>126.640</td>
+        <td>3</td>
+        <td>0</td>
+        <td>125.639</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>distributing free software</td>
+        <td>126.640</td>
+        <td>3</td>
+        <td>0</td>
+        <td>125.639</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>server operator</td>
+        <td>126.130</td>
+        <td>3</td>
+        <td>1</td>
+        <td>125.639</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>recursive acronym</td>
+        <td>125.630</td>
+        <td>3</td>
+        <td>2</td>
+        <td>125.639</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>free documentation</td>
+        <td>125.630</td>
+        <td>3</td>
+        <td>2</td>
+        <td>125.639</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>unjust power</td>
+        <td>125.630</td>
+        <td>3</td>
+        <td>2</td>
+        <td>125.639</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>distribution fee</td>
+        <td>125.140</td>
+        <td>3</td>
+        <td>3</td>
+        <td>125.639</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>use of free software</td>
+        <td>125.140</td>
+        <td>3</td>
+        <td>3</td>
+        <td>125.639</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>unix-like system</td>
+        <td>124.030</td>
+        <td>3</td>
+        <td>5</td>
+        <td>125.639</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>monetary incentive</td>
+        <td>118.690</td>
+        <td>3</td>
+        <td>16</td>
+        <td>125.639</td>
+        <td>0.067</td>
+      </tr>
+      <tr>
+        <td>selling software</td>
+        <td>112.470</td>
+        <td>3</td>
+        <td>30</td>
+        <td>125.639</td>
+        <td>0.126</td>
+      </tr>
+      <tr>
+        <td>software world</td>
+        <td>112.070</td>
+        <td>3</td>
+        <td>31</td>
+        <td>125.639</td>
+        <td>0.130</td>
+      </tr>
+      <tr>
+        <td>software package</td>
+        <td>106.690</td>
+        <td>5</td>
+        <td>231</td>
+        <td>209.398</td>
+        <td>0.972</td>
+      </tr>
+      <tr>
+        <td>new license</td>
+        <td>105.440</td>
+        <td>3</td>
+        <td>48</td>
+        <td>125.639</td>
+        <td>0.202</td>
+      </tr>
+      <tr>
+        <td>task list</td>
+        <td>95.360</td>
+        <td>3</td>
+        <td>78</td>
+        <td>125.639</td>
+        <td>0.328</td>
+      </tr>
+      <tr>
+        <td>operating system</td>
+        <td>85.560</td>
+        <td>24</td>
+        <td>2557</td>
+        <td>1005.109</td>
+        <td>10.760</td>
+      </tr>
+      <tr>
+        <td>free software business</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>stark moral choice</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>multiplatform compiler</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>free software definition</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>software definition</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>usable documentation</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>entire input file</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>text formatter</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>instrument of unjust power</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nonfree library</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nonfree license</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>proprietary manual</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>important free software package</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>developer power</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>distribution price</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>conscientious programmer</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>new free software</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>proprietary software social system</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>software social system</td>
+        <td>84.760</td>
+        <td>2</td>
+        <td>0</td>
+        <td>83.759</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>hard g</td>
+        <td>84.420</td>
+        <td>2</td>
+        <td>1</td>
+        <td>83.759</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>entire input</td>
+        <td>84.420</td>
+        <td>2</td>
+        <td>1</td>
+        <td>83.759</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>developing free software</td>
+        <td>84.420</td>
+        <td>2</td>
+        <td>1</td>
+        <td>83.759</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>libre software</td>
+        <td>84.420</td>
+        <td>2</td>
+        <td>1</td>
+        <td>83.759</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>proprietary package</td>
+        <td>84.090</td>
+        <td>2</td>
+        <td>2</td>
+        <td>83.759</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>free software package</td>
+        <td>83.750</td>
+        <td>2</td>
+        <td>3</td>
+        <td>83.759</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>compatible replacement</td>
+        <td>83.750</td>
+        <td>2</td>
+        <td>3</td>
+        <td>83.759</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>important free software</td>
+        <td>83.750</td>
+        <td>2</td>
+        <td>3</td>
+        <td>83.759</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>free software world</td>
+        <td>83.750</td>
+        <td>2</td>
+        <td>3</td>
+        <td>83.759</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>own computing</td>
+        <td>83.420</td>
+        <td>2</td>
+        <td>4</td>
+        <td>83.759</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>other free software</td>
+        <td>83.420</td>
+        <td>2</td>
+        <td>4</td>
+        <td>83.759</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>syntax tree</td>
+        <td>82.690</td>
+        <td>2</td>
+        <td>6</td>
+        <td>83.759</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>new compiler</td>
+        <td>82.370</td>
+        <td>2</td>
+        <td>7</td>
+        <td>83.759</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>executable form</td>
+        <td>82.370</td>
+        <td>2</td>
+        <td>7</td>
+        <td>83.759</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>source code form</td>
+        <td>82.370</td>
+        <td>2</td>
+        <td>7</td>
+        <td>83.759</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>system programming</td>
+        <td>82.370</td>
+        <td>2</td>
+        <td>7</td>
+        <td>83.759</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>social contribution</td>
+        <td>82.050</td>
+        <td>2</td>
+        <td>8</td>
+        <td>83.759</td>
+        <td>0.034</td>
+      </tr>
+      <tr>
+        <td>missing component</td>
+        <td>81.340</td>
+        <td>2</td>
+        <td>10</td>
+        <td>83.759</td>
+        <td>0.042</td>
+      </tr>
+      <tr>
+        <td>free replacement</td>
+        <td>81.340</td>
+        <td>2</td>
+        <td>10</td>
+        <td>83.759</td>
+        <td>0.042</td>
+      </tr>
+      <tr>
+        <td>window system</td>
+        <td>80.110</td>
+        <td>2</td>
+        <td>14</td>
+        <td>83.759</td>
+        <td>0.059</td>
+      </tr>
+      <tr>
+        <td>code form</td>
+        <td>79.740</td>
+        <td>2</td>
+        <td>15</td>
+        <td>83.759</td>
+        <td>0.063</td>
+      </tr>
+      <tr>
+        <td>ftp server</td>
+        <td>79.740</td>
+        <td>2</td>
+        <td>15</td>
+        <td>83.759</td>
+        <td>0.063</td>
+      </tr>
+      <tr>
+        <td>moral choice</td>
+        <td>79.440</td>
+        <td>2</td>
+        <td>16</td>
+        <td>83.759</td>
+        <td>0.067</td>
+      </tr>
+      <tr>
+        <td>fist fight</td>
+        <td>79.440</td>
+        <td>2</td>
+        <td>16</td>
+        <td>83.759</td>
+        <td>0.067</td>
+      </tr>
+      <tr>
+        <td>common basis</td>
+        <td>77.900</td>
+        <td>2</td>
+        <td>21</td>
+        <td>83.759</td>
+        <td>0.088</td>
+      </tr>
+      <tr>
+        <td>major gap</td>
+        <td>77.050</td>
+        <td>2</td>
+        <td>24</td>
+        <td>83.759</td>
+        <td>0.101</td>
+      </tr>
+      <tr>
+        <td>distribution business</td>
+        <td>76.700</td>
+        <td>2</td>
+        <td>25</td>
+        <td>83.759</td>
+        <td>0.105</td>
+      </tr>
+      <tr>
+        <td>useful software</td>
+        <td>76.700</td>
+        <td>2</td>
+        <td>25</td>
+        <td>83.759</td>
+        <td>0.105</td>
+      </tr>
+      <tr>
+        <td>same reasoning</td>
+        <td>76.150</td>
+        <td>2</td>
+        <td>27</td>
+        <td>83.759</td>
+        <td>0.114</td>
+      </tr>
+      <tr>
+        <td>making full use</td>
+        <td>75.880</td>
+        <td>2</td>
+        <td>28</td>
+        <td>83.759</td>
+        <td>0.118</td>
+      </tr>
+      <tr>
+        <td>technical content</td>
+        <td>75.010</td>
+        <td>2</td>
+        <td>31</td>
+        <td>83.759</td>
+        <td>0.130</td>
+      </tr>
+      <tr>
+        <td>much harm</td>
+        <td>73.380</td>
+        <td>2</td>
+        <td>37</td>
+        <td>83.759</td>
+        <td>0.156</td>
+      </tr>
+      <tr>
+        <td>distribution service</td>
+        <td>70.570</td>
+        <td>2</td>
+        <td>48</td>
+        <td>83.759</td>
+        <td>0.202</td>
+      </tr>
+      <tr>
+        <td>free beer</td>
+        <td>68.630</td>
+        <td>2</td>
+        <td>56</td>
+        <td>83.759</td>
+        <td>0.236</td>
+      </tr>
+      <tr>
+        <td>reverse engineering</td>
+        <td>68.130</td>
+        <td>2</td>
+        <td>58</td>
+        <td>83.759</td>
+        <td>0.244</td>
+      </tr>
+      <tr>
+        <td>total tax</td>
+        <td>65.500</td>
+        <td>2</td>
+        <td>70</td>
+        <td>83.759</td>
+        <td>0.295</td>
+      </tr>
+      <tr>
+        <td>clear example</td>
+        <td>65.100</td>
+        <td>2</td>
+        <td>72</td>
+        <td>83.759</td>
+        <td>0.303</td>
+      </tr>
+      <tr>
+        <td>complete system</td>
+        <td>64.020</td>
+        <td>2</td>
+        <td>77</td>
+        <td>83.759</td>
+        <td>0.324</td>
+      </tr>
+      <tr>
+        <td>export control</td>
+        <td>62.460</td>
+        <td>2</td>
+        <td>85</td>
+        <td>83.759</td>
+        <td>0.358</td>
+      </tr>
+      <tr>
+        <td>custom software</td>
+        <td>62.050</td>
+        <td>2</td>
+        <td>87</td>
+        <td>83.759</td>
+        <td>0.366</td>
+      </tr>
+      <tr>
+        <td>input file</td>
+        <td>61.690</td>
+        <td>2</td>
+        <td>89</td>
+        <td>83.759</td>
+        <td>0.375</td>
+      </tr>
+      <tr>
+        <td>potential problem</td>
+        <td>60.410</td>
+        <td>2</td>
+        <td>96</td>
+        <td>83.759</td>
+        <td>0.404</td>
+      </tr>
+      <tr>
+        <td>commercial development</td>
+        <td>60.030</td>
+        <td>2</td>
+        <td>98</td>
+        <td>83.759</td>
+        <td>0.412</td>
+      </tr>
+      <tr>
+        <td>copyright notice</td>
+        <td>57.780</td>
+        <td>2</td>
+        <td>111</td>
+        <td>83.759</td>
+        <td>0.467</td>
+      </tr>
+      <tr>
+        <td>software development</td>
+        <td>57.550</td>
+        <td>8</td>
+        <td>1150</td>
+        <td>335.036</td>
+        <td>4.839</td>
+      </tr>
+      <tr>
+        <td>particular reason</td>
+        <td>57.460</td>
+        <td>2</td>
+        <td>113</td>
+        <td>83.759</td>
+        <td>0.476</td>
+      </tr>
+      <tr>
+        <td>social system</td>
+        <td>55.870</td>
+        <td>2</td>
+        <td>123</td>
+        <td>83.759</td>
+        <td>0.518</td>
+      </tr>
+      <tr>
+        <td>new hardware</td>
+        <td>52.260</td>
+        <td>2</td>
+        <td>148</td>
+        <td>83.759</td>
+        <td>0.623</td>
+      </tr>
+      <tr>
+        <td>license agreement</td>
+        <td>50.940</td>
+        <td>2</td>
+        <td>158</td>
+        <td>83.759</td>
+        <td>0.665</td>
+      </tr>
+      <tr>
+        <td>high price</td>
+        <td>48.820</td>
+        <td>3</td>
+        <td>379</td>
+        <td>125.639</td>
+        <td>1.595</td>
+      </tr>
+      <tr>
+        <td>important way</td>
+        <td>48.710</td>
+        <td>2</td>
+        <td>176</td>
+        <td>83.759</td>
+        <td>0.741</td>
+      </tr>
+      <tr>
+        <td>full use</td>
+        <td>48.130</td>
+        <td>2</td>
+        <td>181</td>
+        <td>83.759</td>
+        <td>0.762</td>
+      </tr>
+      <tr>
+        <td>whole community</td>
+        <td>47.890</td>
+        <td>2</td>
+        <td>183</td>
+        <td>83.759</td>
+        <td>0.770</td>
+      </tr>
+      <tr>
+        <td>public use</td>
+        <td>47.460</td>
+        <td>2</td>
+        <td>187</td>
+        <td>83.759</td>
+        <td>0.787</td>
+      </tr>
+      <tr>
+        <td>worth avoiding</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>program b</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>porting gcc</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>desktop kde</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>community libreplanet</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>free software community libreplanet</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>software community libreplanet</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>new pdp-10</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>amount readline</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>accessibility of source code</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>much nonproductive activity</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nonproductive activity</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>particular computing activity</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>digital spying agency</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>government digital spying agency</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>spying agency</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>same nondisclosure agreement</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>lzw compression algorithm</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>suitable aliasing</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>area of software production</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>compressed audio</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>encouraging authorship</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>body of free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>sufficient body of free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>security breaker</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>custom software business</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>specific widespread business</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>tape distribution business</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>computer buyer</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>playful cleverness</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>arbitrary nuisance code</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>corresponding complete source code</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nuisance code</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>real source code</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>collection of free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>substantial collection of free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>commercialization of system software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>ordinary commonsense</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>computer-using community</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>cooperating community</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>first software-sharing community</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>new software-sharing community</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>whole compiler</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>major missing component</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>particular computing</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>sophisticated cooling</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>organized cooperation</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>copy of free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>executable copy</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>restricting copying</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>effective copyleft</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>assign copyright</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>source-level debugger</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>capability-based design</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>similar desktop</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>mutual destructiveness</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>operating system developer</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>commercial development of free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>development of custom software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>terminal-independent display</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>ftp distribution</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>high distribution</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nonfree distribution</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>tape distribution</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>various nonfree distribution</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>universal back door</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>duplication of system programming</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>duplication of system programming effort</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>much wasteful duplication</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>much wasteful duplication of system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>wasteful duplication of system programming</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>writing editor</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>civics education</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>system programming effort</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nonfree encryption</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>popular nonfree encryption</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>other specific entity</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>justifiable evil</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nontrivial export</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>aliasing facility</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>suitable aliasing facility</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>high distribution fee</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>imaginative fellow</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>field of software today</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>crashproof file</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>whole output file</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>mobile phone firmware</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>form of real programming</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>form of real programming work</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>runnable form</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>principal text formatter</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>computer user freedom</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>future of free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>yacc-compatible parser generator</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>entire gnu</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>artificial government-imposed</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>fellow hacker</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>staff system hacker</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>system hacker</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>important happiness</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>secret hardware</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>secret hardware hardware</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>previous imbalance</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>injustice of nonfree software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>cvsweb interface</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>coherent issue</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>initial kernel</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>unix-compatible kernel</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>kind of computer system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>kind of free software business</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>kind of overall job</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>system-programming language</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>compatible replacement library</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>next tempting nonfree library</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>replacement library</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>tempting nonfree library</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>toolkit library</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>contract-based license</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>copyright-based license</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>existing free software license</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>granting such license</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>specific software license</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>free software licensing</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>general task list</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>manner of distributing free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>good free manual</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nonfree manual</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>equal mention</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>artificial government-imposed monopoly</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>government-imposed monopoly</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>commonsense morality</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>ordinary commonsense morality</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>problem motif</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>need of sophisticated cooling</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>same nondisclosure</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>yacc-compatible parser</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>effect part</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nonfree part</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>traditional american pastime</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>traditional american pastime of tinkering</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>common naming pattern</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>wanting pay</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>available competent person</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>free software philosophy</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>software philosophy</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>same bad place</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>plenty of useful software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>popularity of free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>sole position</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>entity unjust power</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>specific widespread business practice</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>widespread business practice</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>same government pressure</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>empty pretense</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>price of distribution service</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>anyone program</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>copylefted program</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>kernel program</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>tar program</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>available programmer</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>everyone stop programming</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>stop programming</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>desktop project</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>proliferation of different free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>supposed intellectual property</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>proprietary publishing</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>purpose of encouraging authorship</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>including commercial redistribution</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>only referee</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>release of source code</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>control requirement</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>export control requirement</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>unquestionable natural right</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>acceptable rule</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>including commercial sale</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>anonymous ftp server</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>new ftp server</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>usual shell</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>conscience sign</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>good conscience sign</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>ftp distribution site</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>small memory size</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>adding other free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>asking individual free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>bringing proprietary software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>commercial free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>complete unix-compatible software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>copylefted software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>different free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>good system software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>helping other free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>individual free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>kde software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>launching new free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>much free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>needed free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>noncopylefted free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nonfree encryption software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>other available free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>other useful software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>popular nonfree encryption software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>redistributing free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>rejecting nonfree software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>secret software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>share software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>such free commercial software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>unix-compatible software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>using nonfree software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>value free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>various other useful software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>writing needed free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>first software-sharing</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>new software-sharing</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>corresponding complete source</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>computational sovereignty</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>broad spectrum of free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>spectrum of free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>building community spirit</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>terminal-independent display support</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>whole syntax</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>complete free operating system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>complete unix-compatible software system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>crashproof file system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>lisp-based window system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>minimal working system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nonfree timesharing system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>staff system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>timesharing operating system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>unix-compatible software system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>unix-compatible system</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>perverse terminology</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>nonfree timesharing</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>hacker tradition</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>whole syntax tree</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>use of nonfree software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>proprietary modified version</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>lisp-based window</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>real programming work</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>same interesting work</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>postscarcity world</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>proprietary software world</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>world of free software</td>
+        <td>42.880</td>
+        <td>1</td>
+        <td>0</td>
+        <td>41.880</td>
+        <td>0.000</td>
+      </tr>
+      <tr>
+        <td>computing activity</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>ethical advantage</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>amoral approach</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>third assumption</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>unstated assumption</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>universal back</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>air bill</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>free software distribution business</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>software distribution business</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>nonfree code</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>name completion</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>asking computer</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>restricting computer</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>horrible confusion</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>collective control</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>government export control</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>level debugger</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>source level debugger</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>sufficient determination</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>wasteful duplication</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>steadfast effort</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>curious enough</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>irresistible fascination</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>phone firmware</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>using freedom</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>new ftp</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>free gnu</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>valid goal</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>hardware hardware</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>indirect harm</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>getting income</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>kind of free software</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>export law</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>proprietary library</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>long task list</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>freedom means</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>common business model</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>signing nondisclosure</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>whole output</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>proprietary software package</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>advertising pay</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>x percent</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>everyone permission</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>stopping piracy</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>air plant</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>self-defeating policy</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>particular software program</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>software proprietary</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>usual purpose</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>robot repair</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>available free software</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>existing free software</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>free commercial software</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>gnu software</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>means software</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>extensive statement</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>everyone stop</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>timesharing system</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>general task</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>software tax</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>principal text</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>extensive thought</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>answering user</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>proprietary version</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>way of paying tribute</td>
+        <td>42.710</td>
+        <td>1</td>
+        <td>1</td>
+        <td>41.880</td>
+        <td>0.004</td>
+      </tr>
+      <tr>
+        <td>legitimate activity</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>widespread business</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>license change</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>distribution concept</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>transferring copyright</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>previous developer</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>development of free software</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>free software distribution</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>limiting distribution</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>practical effectiveness</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>legal excuse</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>user freedom</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>value freedom</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>assembler language</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>existing module</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>subsequent note</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>available person</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>new portable</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>company power</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>cheap publicity</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>ethical reason</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>export regulation</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>firm response</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>intrinsic right</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>paradoxical situation</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>harming society</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>crucial software</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>multiple target</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>feasible task</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>other wording</td>
+        <td>42.540</td>
+        <td>1</td>
+        <td>2</td>
+        <td>41.880</td>
+        <td>0.008</td>
+      </tr>
+      <tr>
+        <td>fundamental act</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>software license agreement</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>secure boot</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>tax-exempt charity</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>lzw compression</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>practical definition</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>government export</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>generic job</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>new manual</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>worldwide mission</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>additional permission</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>commercial redistribution</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>license requirement</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>public domain software</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>usable software</td>
+        <td>42.370</td>
+        <td>1</td>
+        <td>3</td>
+        <td>41.880</td>
+        <td>0.013</td>
+      </tr>
+      <tr>
+        <td>sufficient body</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>narrow class</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>system code</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>spin-off company</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>necessary contact</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>other disadvantage</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>bad education</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>substantial job</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>other licensing</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>subjective matter</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>actual productivity</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>subsequent request</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>domain software</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>combined version</td>
+        <td>42.200</td>
+        <td>1</td>
+        <td>4</td>
+        <td>41.880</td>
+        <td>0.017</td>
+      </tr>
+      <tr>
+        <td>email at</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>crucial case</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>system developer</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>paradigmatic example</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>anonymous ftp</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>issue of intellectual property</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>common naming</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>naming pattern</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>software production</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>using free software</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>stack space</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>similar spirit</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>proprietary operating system</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>head tax</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>different wording</td>
+        <td>42.000</td>
+        <td>1</td>
+        <td>5</td>
+        <td>41.880</td>
+        <td>0.021</td>
+      </tr>
+      <tr>
+        <td>technical advantage</td>
+        <td>41.830</td>
+        <td>1</td>
+        <td>6</td>
+        <td>41.880</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>complete source code</td>
+        <td>41.830</td>
+        <td>1</td>
+        <td>6</td>
+        <td>41.880</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>substantial collection</td>
+        <td>41.830</td>
+        <td>1</td>
+        <td>6</td>
+        <td>41.880</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>saving everyone</td>
+        <td>41.830</td>
+        <td>1</td>
+        <td>6</td>
+        <td>41.880</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>such justification</td>
+        <td>41.830</td>
+        <td>1</td>
+        <td>6</td>
+        <td>41.880</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>permissive license</td>
+        <td>41.830</td>
+        <td>1</td>
+        <td>6</td>
+        <td>41.880</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>specific license</td>
+        <td>41.830</td>
+        <td>1</td>
+        <td>6</td>
+        <td>41.880</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>wrong meaning</td>
+        <td>41.830</td>
+        <td>1</td>
+        <td>6</td>
+        <td>41.880</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>extracting money</td>
+        <td>41.830</td>
+        <td>1</td>
+        <td>6</td>
+        <td>41.880</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>complete operating system</td>
+        <td>41.830</td>
+        <td>1</td>
+        <td>6</td>
+        <td>41.880</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>long task</td>
+        <td>41.830</td>
+        <td>1</td>
+        <td>6</td>
+        <td>41.880</td>
+        <td>0.025</td>
+      </tr>
+      <tr>
+        <td>social advantage</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>original announcement</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>main developer</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>programming effort</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>specific entity</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>real gain</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>continuing goal</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>copyleft license</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>old license</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>interesting program</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>real programming</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>crucial requirement</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>patent suit</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>display support</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>programming work</td>
+        <td>41.670</td>
+        <td>1</td>
+        <td>7</td>
+        <td>41.880</td>
+        <td>0.029</td>
+      </tr>
+      <tr>
+        <td>deliberate destruction</td>
+        <td>41.510</td>
+        <td>1</td>
+        <td>8</td>
+        <td>41.880</td>
+        <td>0.034</td>
+      </tr>
+      <tr>
+        <td>substantial fee</td>
+        <td>41.510</td>
+        <td>1</td>
+        <td>8</td>
+        <td>41.880</td>
+        <td>0.034</td>
+      </tr>
+      <tr>
+        <td>little harm</td>
+        <td>41.510</td>
+        <td>1</td>
+        <td>8</td>
+        <td>41.880</td>
+        <td>0.034</td>
+      </tr>
+      <tr>
+        <td>special job</td>
+        <td>41.510</td>
+        <td>1</td>
+        <td>8</td>
+        <td>41.880</td>
+        <td>0.034</td>
+      </tr>
+      <tr>
+        <td>source level</td>
+        <td>41.510</td>
+        <td>1</td>
+        <td>8</td>
+        <td>41.880</td>
+        <td>0.034</td>
+      </tr>
+      <tr>
+        <td>including licensing</td>
+        <td>41.510</td>
+        <td>1</td>
+        <td>8</td>
+        <td>41.880</td>
+        <td>0.034</td>
+      </tr>
+      <tr>
+        <td>american pastime</td>
+        <td>41.510</td>
+        <td>1</td>
+        <td>8</td>
+        <td>41.880</td>
+        <td>0.034</td>
+      </tr>
+      <tr>
+        <td>blanket prohibition</td>
+        <td>41.510</td>
+        <td>1</td>
+        <td>8</td>
+        <td>41.880</td>
+        <td>0.034</td>
+      </tr>
+      <tr>
+        <td>rare skill</td>
+        <td>41.510</td>
+        <td>1</td>
+        <td>8</td>
+        <td>41.880</td>
+        <td>0.034</td>
+      </tr>
+      <tr>
+        <td>expensive business</td>
+        <td>41.350</td>
+        <td>1</td>
+        <td>9</td>
+        <td>41.880</td>
+        <td>0.038</td>
+      </tr>
+      <tr>
+        <td>tremendous cost</td>
+        <td>41.350</td>
+        <td>1</td>
+        <td>9</td>
+        <td>41.880</td>
+        <td>0.038</td>
+      </tr>
+      <tr>
+        <td>computer field</td>
+        <td>41.350</td>
+        <td>1</td>
+        <td>9</td>
+        <td>41.880</td>
+        <td>0.038</td>
+      </tr>
+      <tr>
+        <td>distribution site</td>
+        <td>41.350</td>
+        <td>1</td>
+        <td>9</td>
+        <td>41.880</td>
+        <td>0.038</td>
+      </tr>
+      <tr>
+        <td>copyright system</td>
+        <td>41.350</td>
+        <td>1</td>
+        <td>9</td>
+        <td>41.880</td>
+        <td>0.038</td>
+      </tr>
+      <tr>
+        <td>system version</td>
+        <td>41.350</td>
+        <td>1</td>
+        <td>9</td>
+        <td>41.880</td>
+        <td>0.038</td>
+      </tr>
+      <tr>
+        <td>sealed box</td>
+        <td>41.150</td>
+        <td>1</td>
+        <td>10</td>
+        <td>41.880</td>
+        <td>0.042</td>
+      </tr>
+      <tr>
+        <td>defending freedom</td>
+        <td>41.150</td>
+        <td>1</td>
+        <td>10</td>
+        <td>41.880</td>
+        <td>0.042</td>
+      </tr>
+      <tr>
+        <td>tight group</td>
+        <td>41.150</td>
+        <td>1</td>
+        <td>10</td>
+        <td>41.880</td>
+        <td>0.042</td>
+      </tr>
+      <tr>
+        <td>command interpreter</td>
+        <td>41.150</td>
+        <td>1</td>
+        <td>10</td>
+        <td>41.880</td>
+        <td>0.042</td>
+      </tr>
+      <tr>
+        <td>certain program</td>
+        <td>41.150</td>
+        <td>1</td>
+        <td>10</td>
+        <td>41.880</td>
+        <td>0.042</td>
+      </tr>
+      <tr>
+        <td>total tax rate</td>
+        <td>41.150</td>
+        <td>1</td>
+        <td>10</td>
+        <td>41.880</td>
+        <td>0.042</td>
+      </tr>
+      <tr>
+        <td>special situation</td>
+        <td>41.150</td>
+        <td>1</td>
+        <td>10</td>
+        <td>41.880</td>
+        <td>0.042</td>
+      </tr>
+      <tr>
+        <td>doing real work</td>
+        <td>41.150</td>
+        <td>1</td>
+        <td>10</td>
+        <td>41.880</td>
+        <td>0.042</td>
+      </tr>
+      <tr>
+        <td>hacker community</td>
+        <td>40.990</td>
+        <td>1</td>
+        <td>11</td>
+        <td>41.880</td>
+        <td>0.046</td>
+      </tr>
+      <tr>
+        <td>individual control</td>
+        <td>40.990</td>
+        <td>1</td>
+        <td>11</td>
+        <td>41.880</td>
+        <td>0.046</td>
+      </tr>
+      <tr>
+        <td>parser generator</td>
+        <td>40.990</td>
+        <td>1</td>
+        <td>11</td>
+        <td>41.880</td>
+        <td>0.046</td>
+      </tr>
+      <tr>
+        <td>small memory</td>
+        <td>40.990</td>
+        <td>1</td>
+        <td>11</td>
+        <td>41.880</td>
+        <td>0.046</td>
+      </tr>
+      <tr>
+        <td>government pressure</td>
+        <td>40.990</td>
+        <td>1</td>
+        <td>11</td>
+        <td>41.880</td>
+        <td>0.046</td>
+      </tr>
+      <tr>
+        <td>substantial price</td>
+        <td>40.990</td>
+        <td>1</td>
+        <td>11</td>
+        <td>41.880</td>
+        <td>0.046</td>
+      </tr>
+      <tr>
+        <td>only important thing</td>
+        <td>40.990</td>
+        <td>1</td>
+        <td>11</td>
+        <td>41.880</td>
+        <td>0.046</td>
+      </tr>
+      <tr>
+        <td>dutch word</td>
+        <td>40.990</td>
+        <td>1</td>
+        <td>11</td>
+        <td>41.880</td>
+        <td>0.046</td>
+      </tr>
+      <tr>
+        <td>useful application</td>
+        <td>40.840</td>
+        <td>1</td>
+        <td>12</td>
+        <td>41.880</td>
+        <td>0.050</td>
+      </tr>
+      <tr>
+        <td>commercial distribution</td>
+        <td>40.840</td>
+        <td>1</td>
+        <td>12</td>
+        <td>41.880</td>
+        <td>0.050</td>
+      </tr>
+      <tr>
+        <td>own distribution</td>
+        <td>40.840</td>
+        <td>1</td>
+        <td>12</td>
+        <td>41.880</td>
+        <td>0.050</td>
+      </tr>
+      <tr>
+        <td>binary form</td>
+        <td>40.840</td>
+        <td>1</td>
+        <td>12</td>
+        <td>41.880</td>
+        <td>0.050</td>
+      </tr>
+      <tr>
+        <td>different philosophy</td>
+        <td>40.840</td>
+        <td>1</td>
+        <td>12</td>
+        <td>41.880</td>
+        <td>0.050</td>
+      </tr>
+      <tr>
+        <td>ideal system</td>
+        <td>40.680</td>
+        <td>1</td>
+        <td>13</td>
+        <td>41.880</td>
+        <td>0.055</td>
+      </tr>
+      <tr>
+        <td>operating system software</td>
+        <td>40.530</td>
+        <td>1</td>
+        <td>14</td>
+        <td>41.880</td>
+        <td>0.059</td>
+      </tr>
+      <tr>
+        <td>new basis</td>
+        <td>40.340</td>
+        <td>1</td>
+        <td>15</td>
+        <td>41.880</td>
+        <td>0.063</td>
+      </tr>
+      <tr>
+        <td>moral equivalent</td>
+        <td>40.340</td>
+        <td>1</td>
+        <td>15</td>
+        <td>41.880</td>
+        <td>0.063</td>
+      </tr>
+      <tr>
+        <td>proprietary system</td>
+        <td>40.340</td>
+        <td>1</td>
+        <td>15</td>
+        <td>41.880</td>
+        <td>0.063</td>
+      </tr>
+      <tr>
+        <td>whole system</td>
+        <td>40.250</td>
+        <td>2</td>
+        <td>263</td>
+        <td>83.759</td>
+        <td>1.107</td>
+      </tr>
+      <tr>
+        <td>various computer</td>
+        <td>40.190</td>
+        <td>1</td>
+        <td>16</td>
+        <td>41.880</td>
+        <td>0.067</td>
+      </tr>
+      <tr>
+        <td>standard price</td>
+        <td>40.190</td>
+        <td>1</td>
+        <td>16</td>
+        <td>41.880</td>
+        <td>0.067</td>
+      </tr>
+      <tr>
+        <td>complete replacement</td>
+        <td>40.190</td>
+        <td>1</td>
+        <td>16</td>
+        <td>41.880</td>
+        <td>0.067</td>
+      </tr>
+      <tr>
+        <td>legal tradition</td>
+        <td>40.190</td>
+        <td>1</td>
+        <td>16</td>
+        <td>41.880</td>
+        <td>0.067</td>
+      </tr>
+      <tr>
+        <td>ethical obligation</td>
+        <td>40.040</td>
+        <td>1</td>
+        <td>17</td>
+        <td>41.880</td>
+        <td>0.072</td>
+      </tr>
+      <tr>
+        <td>free system</td>
+        <td>40.040</td>
+        <td>1</td>
+        <td>17</td>
+        <td>41.880</td>
+        <td>0.072</td>
+      </tr>
+      <tr>
+        <td>software today</td>
+        <td>40.040</td>
+        <td>1</td>
+        <td>17</td>
+        <td>41.880</td>
+        <td>0.072</td>
+      </tr>
+      <tr>
+        <td>productive activity</td>
+        <td>39.890</td>
+        <td>1</td>
+        <td>18</td>
+        <td>41.880</td>
+        <td>0.076</td>
+      </tr>
+      <tr>
+        <td>implicit assumption</td>
+        <td>39.890</td>
+        <td>1</td>
+        <td>18</td>
+        <td>41.880</td>
+        <td>0.076</td>
+      </tr>
+      <tr>
+        <td>writing documentation</td>
+        <td>39.890</td>
+        <td>1</td>
+        <td>18</td>
+        <td>41.880</td>
+        <td>0.076</td>
+      </tr>
+      <tr>
+        <td>such license</td>
+        <td>39.890</td>
+        <td>1</td>
+        <td>18</td>
+        <td>41.880</td>
+        <td>0.076</td>
+      </tr>
+      <tr>
+        <td>commercial sale</td>
+        <td>39.890</td>
+        <td>1</td>
+        <td>18</td>
+        <td>41.880</td>
+        <td>0.076</td>
+      </tr>
+      <tr>
+        <td>memory size</td>
+        <td>39.890</td>
+        <td>1</td>
+        <td>18</td>
+        <td>41.880</td>
+        <td>0.076</td>
+      </tr>
+      <tr>
+        <td>software distribution</td>
+        <td>39.740</td>
+        <td>1</td>
+        <td>19</td>
+        <td>41.880</td>
+        <td>0.080</td>
+      </tr>
+      <tr>
+        <td>complete source</td>
+        <td>39.560</td>
+        <td>1</td>
+        <td>20</td>
+        <td>41.880</td>
+        <td>0.084</td>
+      </tr>
+      <tr>
+        <td>specific implementation</td>
+        <td>39.410</td>
+        <td>1</td>
+        <td>21</td>
+        <td>41.880</td>
+        <td>0.088</td>
+      </tr>
+      <tr>
+        <td>overall job</td>
+        <td>39.410</td>
+        <td>1</td>
+        <td>21</td>
+        <td>41.880</td>
+        <td>0.088</td>
+      </tr>
+      <tr>
+        <td>practical reality</td>
+        <td>39.410</td>
+        <td>1</td>
+        <td>21</td>
+        <td>41.880</td>
+        <td>0.088</td>
+      </tr>
+      <tr>
+        <td>particular software</td>
+        <td>39.410</td>
+        <td>1</td>
+        <td>21</td>
+        <td>41.880</td>
+        <td>0.088</td>
+      </tr>
+      <tr>
+        <td>history section</td>
+        <td>39.270</td>
+        <td>1</td>
+        <td>22</td>
+        <td>41.880</td>
+        <td>0.093</td>
+      </tr>
+      <tr>
+        <td>working system</td>
+        <td>39.270</td>
+        <td>1</td>
+        <td>22</td>
+        <td>41.880</td>
+        <td>0.093</td>
+      </tr>
+      <tr>
+        <td>online documentation</td>
+        <td>38.980</td>
+        <td>1</td>
+        <td>24</td>
+        <td>41.880</td>
+        <td>0.101</td>
+      </tr>
+      <tr>
+        <td>minor detail</td>
+        <td>38.800</td>
+        <td>1</td>
+        <td>25</td>
+        <td>41.880</td>
+        <td>0.105</td>
+      </tr>
+      <tr>
+        <td>principal goal</td>
+        <td>38.800</td>
+        <td>1</td>
+        <td>25</td>
+        <td>41.880</td>
+        <td>0.105</td>
+      </tr>
+      <tr>
+        <td>spanish word</td>
+        <td>38.660</td>
+        <td>1</td>
+        <td>26</td>
+        <td>41.880</td>
+        <td>0.109</td>
+      </tr>
+      <tr>
+        <td>gas mask</td>
+        <td>38.390</td>
+        <td>1</td>
+        <td>28</td>
+        <td>41.880</td>
+        <td>0.118</td>
+      </tr>
+      <tr>
+        <td>competent person</td>
+        <td>38.390</td>
+        <td>1</td>
+        <td>28</td>
+        <td>41.880</td>
+        <td>0.118</td>
+      </tr>
+      <tr>
+        <td>only basis</td>
+        <td>38.220</td>
+        <td>1</td>
+        <td>29</td>
+        <td>41.880</td>
+        <td>0.122</td>
+      </tr>
+      <tr>
+        <td>deliberate choice</td>
+        <td>38.220</td>
+        <td>1</td>
+        <td>29</td>
+        <td>41.880</td>
+        <td>0.122</td>
+      </tr>
+      <tr>
+        <td>good citizen</td>
+        <td>38.220</td>
+        <td>1</td>
+        <td>29</td>
+        <td>41.880</td>
+        <td>0.122</td>
+      </tr>
+      <tr>
+        <td>software licensing</td>
+        <td>38.220</td>
+        <td>1</td>
+        <td>29</td>
+        <td>41.880</td>
+        <td>0.122</td>
+      </tr>
+      <tr>
+        <td>encryption software</td>
+        <td>38.220</td>
+        <td>1</td>
+        <td>29</td>
+        <td>41.880</td>
+        <td>0.122</td>
+      </tr>
+      <tr>
+        <td>compression algorithm</td>
+        <td>38.080</td>
+        <td>1</td>
+        <td>30</td>
+        <td>41.880</td>
+        <td>0.126</td>
+      </tr>
+      <tr>
+        <td>letting someone</td>
+        <td>38.080</td>
+        <td>1</td>
+        <td>30</td>
+        <td>41.880</td>
+        <td>0.126</td>
+      </tr>
+      <tr>
+        <td>powerful software</td>
+        <td>37.950</td>
+        <td>1</td>
+        <td>31</td>
+        <td>41.880</td>
+        <td>0.130</td>
+      </tr>
+      <tr>
+        <td>same government</td>
+        <td>37.810</td>
+        <td>1</td>
+        <td>32</td>
+        <td>41.880</td>
+        <td>0.135</td>
+      </tr>
+      <tr>
+        <td>useful knowledge</td>
+        <td>37.810</td>
+        <td>1</td>
+        <td>32</td>
+        <td>41.880</td>
+        <td>0.135</td>
+      </tr>
+      <tr>
+        <td>production use</td>
+        <td>37.810</td>
+        <td>1</td>
+        <td>32</td>
+        <td>41.880</td>
+        <td>0.135</td>
+      </tr>
+      <tr>
+        <td>translation service</td>
+        <td>37.680</td>
+        <td>1</td>
+        <td>33</td>
+        <td>41.880</td>
+        <td>0.139</td>
+      </tr>
+      <tr>
+        <td>specific software</td>
+        <td>37.680</td>
+        <td>1</td>
+        <td>33</td>
+        <td>41.880</td>
+        <td>0.139</td>
+      </tr>
+      <tr>
+        <td>way of making money</td>
+        <td>37.680</td>
+        <td>1</td>
+        <td>33</td>
+        <td>41.880</td>
+        <td>0.139</td>
+      </tr>
+      <tr>
+        <td>common business</td>
+        <td>37.510</td>
+        <td>1</td>
+        <td>34</td>
+        <td>41.880</td>
+        <td>0.143</td>
+      </tr>
+      <tr>
+        <td>particular community</td>
+        <td>37.510</td>
+        <td>1</td>
+        <td>34</td>
+        <td>41.880</td>
+        <td>0.143</td>
+      </tr>
+      <tr>
+        <td>other gear</td>
+        <td>37.380</td>
+        <td>1</td>
+        <td>35</td>
+        <td>41.880</td>
+        <td>0.147</td>
+      </tr>
+      <tr>
+        <td>useful thing</td>
+        <td>37.250</td>
+        <td>1</td>
+        <td>36</td>
+        <td>41.880</td>
+        <td>0.151</td>
+      </tr>
+      <tr>
+        <td>ethical issue</td>
+        <td>37.000</td>
+        <td>1</td>
+        <td>38</td>
+        <td>41.880</td>
+        <td>0.160</td>
+      </tr>
+      <tr>
+        <td>virtual memory</td>
+        <td>37.000</td>
+        <td>1</td>
+        <td>38</td>
+        <td>41.880</td>
+        <td>0.160</td>
+      </tr>
+      <tr>
+        <td>certain part</td>
+        <td>37.000</td>
+        <td>1</td>
+        <td>38</td>
+        <td>41.880</td>
+        <td>0.160</td>
+      </tr>
+      <tr>
+        <td>asking permission</td>
+        <td>36.840</td>
+        <td>1</td>
+        <td>39</td>
+        <td>41.880</td>
+        <td>0.164</td>
+      </tr>
+      <tr>
+        <td>whole collection</td>
+        <td>36.710</td>
+        <td>1</td>
+        <td>40</td>
+        <td>41.880</td>
+        <td>0.168</td>
+      </tr>
+      <tr>
+        <td>early date</td>
+        <td>36.590</td>
+        <td>1</td>
+        <td>41</td>
+        <td>41.880</td>
+        <td>0.173</td>
+      </tr>
+      <tr>
+        <td>real message</td>
+        <td>36.340</td>
+        <td>1</td>
+        <td>43</td>
+        <td>41.880</td>
+        <td>0.181</td>
+      </tr>
+      <tr>
+        <td>real source</td>
+        <td>36.180</td>
+        <td>1</td>
+        <td>44</td>
+        <td>41.880</td>
+        <td>0.185</td>
+      </tr>
+      <tr>
+        <td>necessary condition</td>
+        <td>36.060</td>
+        <td>1</td>
+        <td>45</td>
+        <td>41.880</td>
+        <td>0.189</td>
+      </tr>
+      <tr>
+        <td>family counseling</td>
+        <td>36.060</td>
+        <td>1</td>
+        <td>45</td>
+        <td>41.880</td>
+        <td>0.189</td>
+      </tr>
+      <tr>
+        <td>extended version</td>
+        <td>36.060</td>
+        <td>1</td>
+        <td>45</td>
+        <td>41.880</td>
+        <td>0.189</td>
+      </tr>
+      <tr>
+        <td>related issue</td>
+        <td>35.940</td>
+        <td>1</td>
+        <td>46</td>
+        <td>41.880</td>
+        <td>0.194</td>
+      </tr>
+      <tr>
+        <td>careful thought</td>
+        <td>35.940</td>
+        <td>1</td>
+        <td>46</td>
+        <td>41.880</td>
+        <td>0.194</td>
+      </tr>
+      <tr>
+        <td>system today</td>
+        <td>35.940</td>
+        <td>1</td>
+        <td>46</td>
+        <td>41.880</td>
+        <td>0.194</td>
+      </tr>
+      <tr>
+        <td>unusual way</td>
+        <td>35.440</td>
+        <td>1</td>
+        <td>50</td>
+        <td>41.880</td>
+        <td>0.210</td>
+      </tr>
+      <tr>
+        <td>right question</td>
+        <td>35.200</td>
+        <td>1</td>
+        <td>52</td>
+        <td>41.880</td>
+        <td>0.219</td>
+      </tr>
+      <tr>
+        <td>own choosing</td>
+        <td>35.060</td>
+        <td>1</td>
+        <td>53</td>
+        <td>41.880</td>
+        <td>0.223</td>
+      </tr>
+      <tr>
+        <td>actual problem</td>
+        <td>35.060</td>
+        <td>1</td>
+        <td>53</td>
+        <td>41.880</td>
+        <td>0.223</td>
+      </tr>
+      <tr>
+        <td>wrong idea</td>
+        <td>34.950</td>
+        <td>1</td>
+        <td>54</td>
+        <td>41.880</td>
+        <td>0.227</td>
+      </tr>
+      <tr>
+        <td>first program</td>
+        <td>34.950</td>
+        <td>1</td>
+        <td>54</td>
+        <td>41.880</td>
+        <td>0.227</td>
+      </tr>
+      <tr>
+        <td>object code</td>
+        <td>34.830</td>
+        <td>1</td>
+        <td>55</td>
+        <td>41.880</td>
+        <td>0.231</td>
+      </tr>
+      <tr>
+        <td>whole society</td>
+        <td>34.830</td>
+        <td>1</td>
+        <td>55</td>
+        <td>41.880</td>
+        <td>0.231</td>
+      </tr>
+      <tr>
+        <td>computer user</td>
+        <td>34.830</td>
+        <td>1</td>
+        <td>55</td>
+        <td>41.880</td>
+        <td>0.231</td>
+      </tr>
+      <tr>
+        <td>brief statement</td>
+        <td>34.610</td>
+        <td>1</td>
+        <td>57</td>
+        <td>41.880</td>
+        <td>0.240</td>
+      </tr>
+      <tr>
+        <td>particular user</td>
+        <td>34.360</td>
+        <td>1</td>
+        <td>59</td>
+        <td>41.880</td>
+        <td>0.248</td>
+      </tr>
+      <tr>
+        <td>other sort</td>
+        <td>34.250</td>
+        <td>1</td>
+        <td>60</td>
+        <td>41.880</td>
+        <td>0.252</td>
+      </tr>
+      <tr>
+        <td>little extra time</td>
+        <td>34.140</td>
+        <td>1</td>
+        <td>61</td>
+        <td>41.880</td>
+        <td>0.257</td>
+      </tr>
+      <tr>
+        <td>control program</td>
+        <td>34.030</td>
+        <td>1</td>
+        <td>62</td>
+        <td>41.880</td>
+        <td>0.261</td>
+      </tr>
+      <tr>
+        <td>case someone</td>
+        <td>34.030</td>
+        <td>1</td>
+        <td>62</td>
+        <td>41.880</td>
+        <td>0.261</td>
+      </tr>
+      <tr>
+        <td>major obstacle</td>
+        <td>33.900</td>
+        <td>1</td>
+        <td>63</td>
+        <td>41.880</td>
+        <td>0.265</td>
+      </tr>
+      <tr>
+        <td>such software</td>
+        <td>33.900</td>
+        <td>1</td>
+        <td>63</td>
+        <td>41.880</td>
+        <td>0.265</td>
+      </tr>
+      <tr>
+        <td>common concern</td>
+        <td>33.680</td>
+        <td>1</td>
+        <td>65</td>
+        <td>41.880</td>
+        <td>0.274</td>
+      </tr>
+      <tr>
+        <td>paying tribute</td>
+        <td>33.680</td>
+        <td>1</td>
+        <td>65</td>
+        <td>41.880</td>
+        <td>0.274</td>
+      </tr>
+      <tr>
+        <td>software vendor</td>
+        <td>33.680</td>
+        <td>1</td>
+        <td>65</td>
+        <td>41.880</td>
+        <td>0.274</td>
+      </tr>
+      <tr>
+        <td>interesting work</td>
+        <td>33.580</td>
+        <td>1</td>
+        <td>66</td>
+        <td>41.880</td>
+        <td>0.278</td>
+      </tr>
+      <tr>
+        <td>particular task</td>
+        <td>33.470</td>
+        <td>1</td>
+        <td>67</td>
+        <td>41.880</td>
+        <td>0.282</td>
+      </tr>
+      <tr>
+        <td>strong feeling</td>
+        <td>33.240</td>
+        <td>1</td>
+        <td>69</td>
+        <td>41.880</td>
+        <td>0.290</td>
+      </tr>
+      <tr>
+        <td>developing software</td>
+        <td>33.140</td>
+        <td>1</td>
+        <td>70</td>
+        <td>41.880</td>
+        <td>0.295</td>
+      </tr>
+      <tr>
+        <td>common thing</td>
+        <td>33.030</td>
+        <td>1</td>
+        <td>71</td>
+        <td>41.880</td>
+        <td>0.299</td>
+      </tr>
+      <tr>
+        <td>major advantage</td>
+        <td>32.930</td>
+        <td>1</td>
+        <td>72</td>
+        <td>41.880</td>
+        <td>0.303</td>
+      </tr>
+      <tr>
+        <td>back door</td>
+        <td>32.830</td>
+        <td>2</td>
+        <td>376</td>
+        <td>83.759</td>
+        <td>1.582</td>
+      </tr>
+      <tr>
+        <td>something close</td>
+        <td>32.810</td>
+        <td>1</td>
+        <td>73</td>
+        <td>41.880</td>
+        <td>0.307</td>
+      </tr>
+      <tr>
+        <td>great cost</td>
+        <td>32.810</td>
+        <td>1</td>
+        <td>73</td>
+        <td>41.880</td>
+        <td>0.307</td>
+      </tr>
+      <tr>
+        <td>other entity</td>
+        <td>32.810</td>
+        <td>1</td>
+        <td>73</td>
+        <td>41.880</td>
+        <td>0.307</td>
+      </tr>
+      <tr>
+        <td>same condition</td>
+        <td>32.710</td>
+        <td>1</td>
+        <td>74</td>
+        <td>41.880</td>
+        <td>0.311</td>
+      </tr>
+      <tr>
+        <td>central idea</td>
+        <td>32.710</td>
+        <td>1</td>
+        <td>74</td>
+        <td>41.880</td>
+        <td>0.311</td>
+      </tr>
+      <tr>
+        <td>community project</td>
+        <td>32.710</td>
+        <td>1</td>
+        <td>74</td>
+        <td>41.880</td>
+        <td>0.311</td>
+      </tr>
+      <tr>
+        <td>client software</td>
+        <td>32.710</td>
+        <td>1</td>
+        <td>74</td>
+        <td>41.880</td>
+        <td>0.311</td>
+      </tr>
+      <tr>
+        <td>particular job</td>
+        <td>32.610</td>
+        <td>1</td>
+        <td>75</td>
+        <td>41.880</td>
+        <td>0.316</td>
+      </tr>
+      <tr>
+        <td>part-time work</td>
+        <td>32.610</td>
+        <td>1</td>
+        <td>75</td>
+        <td>41.880</td>
+        <td>0.316</td>
+      </tr>
+      <tr>
+        <td>large project</td>
+        <td>32.510</td>
+        <td>1</td>
+        <td>76</td>
+        <td>41.880</td>
+        <td>0.320</td>
+      </tr>
+      <tr>
+        <td>practical matter</td>
+        <td>32.390</td>
+        <td>1</td>
+        <td>77</td>
+        <td>41.880</td>
+        <td>0.324</td>
+      </tr>
+      <tr>
+        <td>first way</td>
+        <td>32.390</td>
+        <td>1</td>
+        <td>77</td>
+        <td>41.880</td>
+        <td>0.324</td>
+      </tr>
+      <tr>
+        <td>strategic decision</td>
+        <td>32.290</td>
+        <td>1</td>
+        <td>78</td>
+        <td>41.880</td>
+        <td>0.328</td>
+      </tr>
+      <tr>
+        <td>educational environment</td>
+        <td>32.290</td>
+        <td>1</td>
+        <td>78</td>
+        <td>41.880</td>
+        <td>0.328</td>
+      </tr>
+      <tr>
+        <td>output file</td>
+        <td>32.290</td>
+        <td>1</td>
+        <td>78</td>
+        <td>41.880</td>
+        <td>0.328</td>
+      </tr>
+      <tr>
+        <td>good system</td>
+        <td>32.290</td>
+        <td>1</td>
+        <td>78</td>
+        <td>41.880</td>
+        <td>0.328</td>
+      </tr>
+      <tr>
+        <td>public entity</td>
+        <td>32.190</td>
+        <td>1</td>
+        <td>79</td>
+        <td>41.880</td>
+        <td>0.332</td>
+      </tr>
+      <tr>
+        <td>direct way</td>
+        <td>32.190</td>
+        <td>1</td>
+        <td>79</td>
+        <td>41.880</td>
+        <td>0.332</td>
+      </tr>
+      <tr>
+        <td>good conscience</td>
+        <td>31.880</td>
+        <td>1</td>
+        <td>82</td>
+        <td>41.880</td>
+        <td>0.345</td>
+      </tr>
+      <tr>
+        <td>same program</td>
+        <td>31.880</td>
+        <td>1</td>
+        <td>82</td>
+        <td>41.880</td>
+        <td>0.345</td>
+      </tr>
+      <tr>
+        <td>bad place</td>
+        <td>31.790</td>
+        <td>1</td>
+        <td>83</td>
+        <td>41.880</td>
+        <td>0.349</td>
+      </tr>
+      <tr>
+        <td>intended purpose</td>
+        <td>31.790</td>
+        <td>1</td>
+        <td>83</td>
+        <td>41.880</td>
+        <td>0.349</td>
+      </tr>
+      <tr>
+        <td>easy choice</td>
+        <td>31.690</td>
+        <td>1</td>
+        <td>84</td>
+        <td>41.880</td>
+        <td>0.353</td>
+      </tr>
+      <tr>
+        <td>same field</td>
+        <td>31.600</td>
+        <td>1</td>
+        <td>85</td>
+        <td>41.880</td>
+        <td>0.358</td>
+      </tr>
+      <tr>
+        <td>repair service</td>
+        <td>31.600</td>
+        <td>1</td>
+        <td>85</td>
+        <td>41.880</td>
+        <td>0.358</td>
+      </tr>
+      <tr>
+        <td>commercial software</td>
+        <td>31.510</td>
+        <td>1</td>
+        <td>86</td>
+        <td>41.880</td>
+        <td>0.362</td>
+      </tr>
+      <tr>
+        <td>community spirit</td>
+        <td>31.510</td>
+        <td>1</td>
+        <td>86</td>
+        <td>41.880</td>
+        <td>0.362</td>
+      </tr>
+      <tr>
+        <td>great loss</td>
+        <td>30.910</td>
+        <td>1</td>
+        <td>92</td>
+        <td>41.880</td>
+        <td>0.387</td>
+      </tr>
+      <tr>
+        <td>public display</td>
+        <td>30.740</td>
+        <td>1</td>
+        <td>94</td>
+        <td>41.880</td>
+        <td>0.396</td>
+      </tr>
+      <tr>
+        <td>memory usage</td>
+        <td>30.740</td>
+        <td>1</td>
+        <td>94</td>
+        <td>41.880</td>
+        <td>0.396</td>
+      </tr>
+      <tr>
+        <td>original name</td>
+        <td>30.560</td>
+        <td>1</td>
+        <td>96</td>
+        <td>41.880</td>
+        <td>0.404</td>
+      </tr>
+      <tr>
+        <td>big job</td>
+        <td>30.200</td>
+        <td>1</td>
+        <td>100</td>
+        <td>41.880</td>
+        <td>0.421</td>
+      </tr>
+      <tr>
+        <td>wrong answer</td>
+        <td>30.090</td>
+        <td>1</td>
+        <td>101</td>
+        <td>41.880</td>
+        <td>0.425</td>
+      </tr>
+      <tr>
+        <td>other activity</td>
+        <td>29.840</td>
+        <td>1</td>
+        <td>104</td>
+        <td>41.880</td>
+        <td>0.438</td>
+      </tr>
+      <tr>
+        <td>network access</td>
+        <td>29.650</td>
+        <td>1</td>
+        <td>106</td>
+        <td>41.880</td>
+        <td>0.446</td>
+      </tr>
+      <tr>
+        <td>whole issue</td>
+        <td>29.570</td>
+        <td>1</td>
+        <td>107</td>
+        <td>41.880</td>
+        <td>0.450</td>
+      </tr>
+      <tr>
+        <td>building community</td>
+        <td>29.490</td>
+        <td>1</td>
+        <td>108</td>
+        <td>41.880</td>
+        <td>0.454</td>
+      </tr>
+      <tr>
+        <td>system administrator</td>
+        <td>29.070</td>
+        <td>1</td>
+        <td>113</td>
+        <td>41.880</td>
+        <td>0.476</td>
+      </tr>
+      <tr>
+        <td>average user</td>
+        <td>29.070</td>
+        <td>1</td>
+        <td>113</td>
+        <td>41.880</td>
+        <td>0.476</td>
+      </tr>
+      <tr>
+        <td>patent system</td>
+        <td>28.820</td>
+        <td>1</td>
+        <td>116</td>
+        <td>41.880</td>
+        <td>0.488</td>
+      </tr>
+      <tr>
+        <td>good strategy</td>
+        <td>28.590</td>
+        <td>1</td>
+        <td>119</td>
+        <td>41.880</td>
+        <td>0.501</td>
+      </tr>
+      <tr>
+        <td>software system</td>
+        <td>28.190</td>
+        <td>1</td>
+        <td>124</td>
+        <td>41.880</td>
+        <td>0.522</td>
+      </tr>
+      <tr>
+        <td>practical use</td>
+        <td>28.100</td>
+        <td>1</td>
+        <td>125</td>
+        <td>41.880</td>
+        <td>0.526</td>
+      </tr>
+      <tr>
+        <td>writing code</td>
+        <td>27.880</td>
+        <td>1</td>
+        <td>128</td>
+        <td>41.880</td>
+        <td>0.539</td>
+      </tr>
+      <tr>
+        <td>business practice</td>
+        <td>27.810</td>
+        <td>1</td>
+        <td>129</td>
+        <td>41.880</td>
+        <td>0.543</td>
+      </tr>
+      <tr>
+        <td>new issue</td>
+        <td>27.350</td>
+        <td>1</td>
+        <td>135</td>
+        <td>41.880</td>
+        <td>0.568</td>
+      </tr>
+      <tr>
+        <td>residential area</td>
+        <td>27.070</td>
+        <td>1</td>
+        <td>139</td>
+        <td>41.880</td>
+        <td>0.585</td>
+      </tr>
+      <tr>
+        <td>copyright holder</td>
+        <td>26.980</td>
+        <td>1</td>
+        <td>140</td>
+        <td>41.880</td>
+        <td>0.589</td>
+      </tr>
+      <tr>
+        <td>3d printer</td>
+        <td>26.920</td>
+        <td>1</td>
+        <td>141</td>
+        <td>41.880</td>
+        <td>0.593</td>
+      </tr>
+      <tr>
+        <td>low price</td>
+        <td>26.870</td>
+        <td>2</td>
+        <td>512</td>
+        <td>83.759</td>
+        <td>2.155</td>
+      </tr>
+      <tr>
+        <td>computer lab</td>
+        <td>26.290</td>
+        <td>1</td>
+        <td>150</td>
+        <td>41.880</td>
+        <td>0.631</td>
+      </tr>
+      <tr>
+        <td>open source</td>
+        <td>26.160</td>
+        <td>12</td>
+        <td>4336</td>
+        <td>502.555</td>
+        <td>18.246</td>
+      </tr>
+      <tr>
+        <td>program development</td>
+        <td>26.020</td>
+        <td>1</td>
+        <td>154</td>
+        <td>41.880</td>
+        <td>0.648</td>
+      </tr>
+      <tr>
+        <td>only issue</td>
+        <td>26.020</td>
+        <td>1</td>
+        <td>154</td>
+        <td>41.880</td>
+        <td>0.648</td>
+      </tr>
+      <tr>
+        <td>special kind</td>
+        <td>25.960</td>
+        <td>1</td>
+        <td>155</td>
+        <td>41.880</td>
+        <td>0.652</td>
+      </tr>
+      <tr>
+        <td>same conclusion</td>
+        <td>25.370</td>
+        <td>1</td>
+        <td>164</td>
+        <td>41.880</td>
+        <td>0.690</td>
+      </tr>
+      <tr>
+        <td>large collection</td>
+        <td>25.190</td>
+        <td>1</td>
+        <td>167</td>
+        <td>41.880</td>
+        <td>0.703</td>
+      </tr>
+      <tr>
+        <td>essential part</td>
+        <td>24.850</td>
+        <td>2</td>
+        <td>573</td>
+        <td>83.759</td>
+        <td>2.411</td>
+      </tr>
+      <tr>
+        <td>front end</td>
+        <td>24.700</td>
+        <td>2</td>
+        <td>578</td>
+        <td>83.759</td>
+        <td>2.432</td>
+      </tr>
+      <tr>
+        <td>particular situation</td>
+        <td>24.640</td>
+        <td>1</td>
+        <td>176</td>
+        <td>41.880</td>
+        <td>0.741</td>
+      </tr>
+      <tr>
+        <td>long wait</td>
+        <td>24.520</td>
+        <td>1</td>
+        <td>178</td>
+        <td>41.880</td>
+        <td>0.749</td>
+      </tr>
+      <tr>
+        <td>particular way</td>
+        <td>24.400</td>
+        <td>1</td>
+        <td>180</td>
+        <td>41.880</td>
+        <td>0.757</td>
+      </tr>
+      <tr>
+        <td>police state</td>
+        <td>24.290</td>
+        <td>1</td>
+        <td>182</td>
+        <td>41.880</td>
+        <td>0.766</td>
+      </tr>
+      <tr>
+        <td>general rule</td>
+        <td>24.080</td>
+        <td>2</td>
+        <td>599</td>
+        <td>83.759</td>
+        <td>2.521</td>
+      </tr>
+      <tr>
+        <td>same category</td>
+        <td>23.890</td>
+        <td>1</td>
+        <td>189</td>
+        <td>41.880</td>
+        <td>0.795</td>
+      </tr>
+      <tr>
+        <td>short run</td>
+        <td>23.890</td>
+        <td>1</td>
+        <td>189</td>
+        <td>41.880</td>
+        <td>0.795</td>
+      </tr>
+      <tr>
+        <td>great extent</td>
+        <td>23.780</td>
+        <td>1</td>
+        <td>191</td>
+        <td>41.880</td>
+        <td>0.804</td>
+      </tr>
+      <tr>
+        <td>development project</td>
+        <td>23.180</td>
+        <td>1</td>
+        <td>202</td>
+        <td>41.880</td>
+        <td>0.850</td>
+      </tr>
+      <tr>
+        <td>same token</td>
+        <td>23.130</td>
+        <td>1</td>
+        <td>203</td>
+        <td>41.880</td>
+        <td>0.854</td>
+      </tr>
+      <tr>
+        <td>case-by-case basis</td>
+        <td>23.080</td>
+        <td>1</td>
+        <td>204</td>
+        <td>41.880</td>
+        <td>0.858</td>
+      </tr>
+      <tr>
+        <td>next person</td>
+        <td>22.770</td>
+        <td>1</td>
+        <td>210</td>
+        <td>41.880</td>
+        <td>0.884</td>
+      </tr>
+      <tr>
+        <td>space station</td>
+        <td>22.620</td>
+        <td>1</td>
+        <td>213</td>
+        <td>41.880</td>
+        <td>0.896</td>
+      </tr>
+      <tr>
+        <td>own sake</td>
+        <td>22.570</td>
+        <td>1</td>
+        <td>214</td>
+        <td>41.880</td>
+        <td>0.901</td>
+      </tr>
+      <tr>
+        <td>self defense</td>
+        <td>22.370</td>
+        <td>1</td>
+        <td>218</td>
+        <td>41.880</td>
+        <td>0.917</td>
+      </tr>
+      <tr>
+        <td>intellectual property</td>
+        <td>22.360</td>
+        <td>6</td>
+        <td>2443</td>
+        <td>251.277</td>
+        <td>10.280</td>
+      </tr>
+      <tr>
+        <td>receiving end</td>
+        <td>22.230</td>
+        <td>1</td>
+        <td>221</td>
+        <td>41.880</td>
+        <td>0.930</td>
+      </tr>
+      <tr>
+        <td>clear picture</td>
+        <td>22.130</td>
+        <td>1</td>
+        <td>223</td>
+        <td>41.880</td>
+        <td>0.938</td>
+      </tr>
+      <tr>
+        <td>extra effort</td>
+        <td>22.030</td>
+        <td>1</td>
+        <td>225</td>
+        <td>41.880</td>
+        <td>0.947</td>
+      </tr>
+      <tr>
+        <td>printing press</td>
+        <td>21.840</td>
+        <td>1</td>
+        <td>229</td>
+        <td>41.880</td>
+        <td>0.964</td>
+      </tr>
+      <tr>
+        <td>full spectrum</td>
+        <td>21.700</td>
+        <td>1</td>
+        <td>232</td>
+        <td>41.880</td>
+        <td>0.976</td>
+      </tr>
+      <tr>
+        <td>free market</td>
+        <td>20.900</td>
+        <td>2</td>
+        <td>726</td>
+        <td>83.759</td>
+        <td>3.055</td>
+      </tr>
+      <tr>
+        <td>public domain</td>
+        <td>20.750</td>
+        <td>2</td>
+        <td>733</td>
+        <td>83.759</td>
+        <td>3.084</td>
+      </tr>
+      <tr>
+        <td>new computer</td>
+        <td>20.640</td>
+        <td>1</td>
+        <td>256</td>
+        <td>41.880</td>
+        <td>1.077</td>
+      </tr>
+      <tr>
+        <td>development environment</td>
+        <td>20.360</td>
+        <td>1</td>
+        <td>263</td>
+        <td>41.880</td>
+        <td>1.107</td>
+      </tr>
+      <tr>
+        <td>special issue</td>
+        <td>19.880</td>
+        <td>1</td>
+        <td>275</td>
+        <td>41.880</td>
+        <td>1.157</td>
+      </tr>
+      <tr>
+        <td>making money</td>
+        <td>19.130</td>
+        <td>3</td>
+        <td>1336</td>
+        <td>125.639</td>
+        <td>5.622</td>
+      </tr>
+      <tr>
+        <td>competitive edge</td>
+        <td>19.100</td>
+        <td>1</td>
+        <td>296</td>
+        <td>41.880</td>
+        <td>1.246</td>
+      </tr>
+      <tr>
+        <td>commercial use</td>
+        <td>18.990</td>
+        <td>1</td>
+        <td>299</td>
+        <td>41.880</td>
+        <td>1.258</td>
+      </tr>
+      <tr>
+        <td>real work</td>
+        <td>18.960</td>
+        <td>1</td>
+        <td>300</td>
+        <td>41.880</td>
+        <td>1.262</td>
+      </tr>
+      <tr>
+        <td>first instance</td>
+        <td>18.580</td>
+        <td>1</td>
+        <td>311</td>
+        <td>41.880</td>
+        <td>1.309</td>
+      </tr>
+      <tr>
+        <td>broad spectrum</td>
+        <td>18.510</td>
+        <td>1</td>
+        <td>313</td>
+        <td>41.880</td>
+        <td>1.317</td>
+      </tr>
+      <tr>
+        <td>software program</td>
+        <td>18.470</td>
+        <td>1</td>
+        <td>314</td>
+        <td>41.880</td>
+        <td>1.321</td>
+      </tr>
+      <tr>
+        <td>full control</td>
+        <td>18.380</td>
+        <td>1</td>
+        <td>317</td>
+        <td>41.880</td>
+        <td>1.334</td>
+      </tr>
+      <tr>
+        <td>copyright law</td>
+        <td>18.380</td>
+        <td>1</td>
+        <td>317</td>
+        <td>41.880</td>
+        <td>1.334</td>
+      </tr>
+      <tr>
+        <td>free speech</td>
+        <td>18.300</td>
+        <td>2</td>
+        <td>863</td>
+        <td>83.759</td>
+        <td>3.632</td>
+      </tr>
+      <tr>
+        <td>free version</td>
+        <td>18.220</td>
+        <td>1</td>
+        <td>322</td>
+        <td>41.880</td>
+        <td>1.355</td>
+      </tr>
+      <tr>
+        <td>life span</td>
+        <td>17.890</td>
+        <td>1</td>
+        <td>332</td>
+        <td>41.880</td>
+        <td>1.397</td>
+      </tr>
+      <tr>
+        <td>text editor</td>
+        <td>17.770</td>
+        <td>1</td>
+        <td>336</td>
+        <td>41.880</td>
+        <td>1.414</td>
+      </tr>
+      <tr>
+        <td>main purpose</td>
+        <td>17.110</td>
+        <td>1</td>
+        <td>358</td>
+        <td>41.880</td>
+        <td>1.506</td>
+      </tr>
+      <tr>
+        <td>other country</td>
+        <td>16.370</td>
+        <td>1</td>
+        <td>385</td>
+        <td>41.880</td>
+        <td>1.620</td>
+      </tr>
+      <tr>
+        <td>major problem</td>
+        <td>15.690</td>
+        <td>1</td>
+        <td>412</td>
+        <td>41.880</td>
+        <td>1.734</td>
+      </tr>
+      <tr>
+        <td>file system</td>
+        <td>15.570</td>
+        <td>1</td>
+        <td>417</td>
+        <td>41.880</td>
+        <td>1.755</td>
+      </tr>
+      <tr>
+        <td>real reason</td>
+        <td>15.290</td>
+        <td>1</td>
+        <td>429</td>
+        <td>41.880</td>
+        <td>1.805</td>
+      </tr>
+      <tr>
+        <td>computer system</td>
+        <td>15.110</td>
+        <td>1</td>
+        <td>437</td>
+        <td>41.880</td>
+        <td>1.839</td>
+      </tr>
+      <tr>
+        <td>open source software</td>
+        <td>14.840</td>
+        <td>1</td>
+        <td>449</td>
+        <td>41.880</td>
+        <td>1.889</td>
+      </tr>
+      <tr>
+        <td>available today</td>
+        <td>14.560</td>
+        <td>1</td>
+        <td>462</td>
+        <td>41.880</td>
+        <td>1.944</td>
+      </tr>
+      <tr>
+        <td>source software</td>
+        <td>14.360</td>
+        <td>1</td>
+        <td>472</td>
+        <td>41.880</td>
+        <td>1.986</td>
+      </tr>
+      <tr>
+        <td>programming language</td>
+        <td>14.320</td>
+        <td>1</td>
+        <td>474</td>
+        <td>41.880</td>
+        <td>1.995</td>
+      </tr>
+      <tr>
+        <td>new program</td>
+        <td>13.520</td>
+        <td>1</td>
+        <td>516</td>
+        <td>41.880</td>
+        <td>2.171</td>
+      </tr>
+      <tr>
+        <td>complete list</td>
+        <td>13.380</td>
+        <td>1</td>
+        <td>524</td>
+        <td>41.880</td>
+        <td>2.205</td>
+      </tr>
+      <tr>
+        <td>long run</td>
+        <td>13.060</td>
+        <td>3</td>
+        <td>2066</td>
+        <td>125.639</td>
+        <td>8.694</td>
+      </tr>
+      <tr>
+        <td>same reason</td>
+        <td>12.600</td>
+        <td>1</td>
+        <td>571</td>
+        <td>41.880</td>
+        <td>2.403</td>
+      </tr>
+      <tr>
+        <td>nonprofit organization</td>
+        <td>12.270</td>
+        <td>1</td>
+        <td>593</td>
+        <td>41.880</td>
+        <td>2.495</td>
+      </tr>
+      <tr>
+        <td>same problem</td>
+        <td>12.270</td>
+        <td>1</td>
+        <td>593</td>
+        <td>41.880</td>
+        <td>2.495</td>
+      </tr>
+      <tr>
+        <td>real problem</td>
+        <td>11.690</td>
+        <td>1</td>
+        <td>634</td>
+        <td>41.880</td>
+        <td>2.668</td>
+      </tr>
+      <tr>
+        <td>good practice</td>
+        <td>11.630</td>
+        <td>1</td>
+        <td>639</td>
+        <td>41.880</td>
+        <td>2.689</td>
+      </tr>
+      <tr>
+        <td>extra time</td>
+        <td>11.440</td>
+        <td>1</td>
+        <td>653</td>
+        <td>41.880</td>
+        <td>2.748</td>
+      </tr>
+      <tr>
+        <td>own work</td>
+        <td>11.390</td>
+        <td>1</td>
+        <td>657</td>
+        <td>41.880</td>
+        <td>2.765</td>
+      </tr>
+      <tr>
+        <td>tax rate</td>
+        <td>11.020</td>
+        <td>1</td>
+        <td>687</td>
+        <td>41.880</td>
+        <td>2.891</td>
+      </tr>
+      <tr>
+        <td>ultimate goal</td>
+        <td>10.950</td>
+        <td>1</td>
+        <td>693</td>
+        <td>41.880</td>
+        <td>2.916</td>
+      </tr>
+      <tr>
+        <td>extra money</td>
+        <td>10.780</td>
+        <td>1</td>
+        <td>708</td>
+        <td>41.880</td>
+        <td>2.979</td>
+      </tr>
+      <tr>
+        <td>doing anything</td>
+        <td>9.620</td>
+        <td>1</td>
+        <td>822</td>
+        <td>41.880</td>
+        <td>3.459</td>
+      </tr>
+      <tr>
+        <td>important thing</td>
+        <td>8.640</td>
+        <td>2</td>
+        <td>2094</td>
+        <td>83.759</td>
+        <td>8.812</td>
+      </tr>
+      <tr>
+        <td>part time</td>
+        <td>8.400</td>
+        <td>1</td>
+        <td>976</td>
+        <td>41.880</td>
+        <td>4.107</td>
+      </tr>
+      <tr>
+        <td>english language</td>
+        <td>8.010</td>
+        <td>1</td>
+        <td>1035</td>
+        <td>41.880</td>
+        <td>4.355</td>
+      </tr>
+      <tr>
+        <td>large amount</td>
+        <td>7.560</td>
+        <td>1</td>
+        <td>1110</td>
+        <td>41.880</td>
+        <td>4.671</td>
+      </tr>
+      <tr>
+        <td>own life</td>
+        <td>7.070</td>
+        <td>1</td>
+        <td>1204</td>
+        <td>41.880</td>
+        <td>5.066</td>
+      </tr>
+      <tr>
+        <td>only way</td>
+        <td>6.810</td>
+        <td>3</td>
+        <td>4179</td>
+        <td>125.639</td>
+        <td>17.585</td>
+      </tr>
+      <tr>
+        <td>mailing list</td>
+        <td>6.600</td>
+        <td>1</td>
+        <td>1306</td>
+        <td>41.880</td>
+        <td>5.496</td>
+      </tr>
+      <tr>
+        <td>national security</td>
+        <td>5.770</td>
+        <td>1</td>
+        <td>1527</td>
+        <td>41.880</td>
+        <td>6.426</td>
+      </tr>
+      <tr>
+        <td>right thing</td>
+        <td>5.060</td>
+        <td>1</td>
+        <td>1777</td>
+        <td>41.880</td>
+        <td>7.478</td>
+      </tr>
+      <tr>
+        <td>business model</td>
+        <td>4.960</td>
+        <td>1</td>
+        <td>1817</td>
+        <td>41.880</td>
+        <td>7.646</td>
+      </tr>
+      <tr>
+        <td>good way</td>
+        <td>4.470</td>
+        <td>1</td>
+        <td>2040</td>
+        <td>41.880</td>
+        <td>8.584</td>
+      </tr>
+      <tr>
+        <td>good job</td>
+        <td>4.200</td>
+        <td>1</td>
+        <td>2191</td>
+        <td>41.880</td>
+        <td>9.220</td>
+      </tr>
+      <tr>
+        <td>mobile phone</td>
+        <td>3.950</td>
+        <td>1</td>
+        <td>2345</td>
+        <td>41.880</td>
+        <td>9.868</td>
+      </tr>
+      <tr>
+        <td>first step</td>
+        <td>2.560</td>
+        <td>1</td>
+        <td>3736</td>
+        <td>41.880</td>
+        <td>15.721</td>
+      </tr>
+      <tr>
+        <td>same thing</td>
+        <td>2.020</td>
+        <td>1</td>
+        <td>4801</td>
+        <td>41.880</td>
+        <td>20.203</td>
+      </tr>
+      <tr>
+        <td>other hand</td>
+        <td>1.210</td>
+        <td>1</td>
+        <td>8170</td>
+        <td>41.880</td>
+        <td>34.380</td>
+      </tr>
+      <tr>
+        <td>long time</td>
+        <td>1.050</td>
+        <td>1</td>
+        <td>9505</td>
+        <td>41.880</td>
+        <td>39.997</td>
+      </tr>
+      <tr>
+        <td>same time</td>
+        <td>0.670</td>
+        <td>1</td>
+        <td>14930</td>
+        <td>41.880</td>
+        <td>62.826</td>
+      </tr>
+      <tr>
+        <td>first time</td>
+        <td>0.570</td>
+        <td>1</td>
+        <td>17558</td>
+        <td>41.880</td>
+        <td>73.885</td>
+      </tr>
+      </tbody>
+</table></body></html>
